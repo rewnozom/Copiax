@@ -2,7 +2,7 @@
 
 ## Övergripande Systemöversikt
 
-Denna modul är en avancerad arbetsflödeshanterare för storskalig produktinformationsextraktion med LLM-teknologi. Systemet är designat för flexibel, robust och skalbar bearbetning av produktdata genom flera sammankopplade komponenter.
+Systemet är designat för flexibel, robust och skalbar bearbetning av produktdata genom flera sammankopplade komponenter.
 
 ```mermaid
 graph TD
@@ -126,7 +126,7 @@ journey
         Generera rapport: 8: Dokumentation
 ```
 
-## Avancerade Funktioner
+## Funktioner:
 
 - Dynamisk promptoptimering
 - Automatisk sökindexering
