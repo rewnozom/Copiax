@@ -1,0 +1,14 @@
+
+# auto_under_här
+asyncio==3.4.3
+bs4==0.0.2
+colorama==0.4.6
+markdown==3.7
+numpy==1.24.3
+PySide6==6.4.2
+requests==2.32.3
+rich==13.9.4
+spacy==3.8.4
+torch==2.6.0
+tqdm==4.67.1
+transformers==4.49.0
