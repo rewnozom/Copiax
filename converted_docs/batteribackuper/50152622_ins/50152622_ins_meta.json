@@ -1,0 +1,595 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BS-Medium 24V",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          169.56396484375,
+          144.0205078125
+        ],
+        [
+          313.151611328125,
+          144.0205078125
+        ],
+        [
+          313.151611328125,
+          165.7353515625
+        ],
+        [
+          169.56396484375,
+          165.7353515625
+        ]
+      ]
+    },
+    {
+      "title": "Batterikombinationer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          180.650390625,
+          152.243408203125
+        ],
+        [
+          314.62109375,
+          152.243408203125
+        ],
+        [
+          314.62109375,
+          168.84274291992188
+        ],
+        [
+          180.650390625,
+          168.84274291992188
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET - L\u00c4S DETTA F\u00d6RST!",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          139.22216796875,
+          394.69921875
+        ],
+        [
+          326.7578125,
+          394.69921875
+        ],
+        [
+          326.7578125,
+          409.07493591308594
+        ],
+        [
+          139.22216796875,
+          409.07493591308594
+        ]
+      ]
+    },
+    {
+      "title": "Om batterihyllan",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          184.8515625,
+          76.16162109375
+        ],
+        [
+          292.4482421875,
+          76.16162109375
+        ],
+        [
+          292.4482421875,
+          92.76708984375
+        ],
+        [
+          184.8515625,
+          92.76708984375
+        ]
+      ]
+    },
+    {
+      "title": "Om detta dokument",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          174.3486328125,
+          155.756103515625
+        ],
+        [
+          304.5849609375,
+          155.756103515625
+        ],
+        [
+          304.5849609375,
+          171.64306640625
+        ],
+        [
+          174.3486328125,
+          171.64306640625
+        ]
+      ]
+    },
+    {
+      "title": "Installation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          204.67312622070312,
+          262.01513671875
+        ],
+        [
+          274.7099609375,
+          262.01513671875
+        ],
+        [
+          274.7099609375,
+          277.02392578125
+        ],
+        [
+          204.67312622070312,
+          277.02392578125
+        ]
+      ]
+    },
+    {
+      "title": "Batterikapacitet",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          188.93603515625,
+          418.96875
+        ],
+        [
+          290.34765625,
+          418.96875
+        ],
+        [
+          290.34765625,
+          434.4913330078125
+        ],
+        [
+          188.93603515625,
+          434.4913330078125
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          206.791015625,
+          99.233642578125
+        ],
+        [
+          271.67578125,
+          99.233642578125
+        ],
+        [
+          271.67578125,
+          112.965087890625
+        ],
+        [
+          206.791015625,
+          112.965087890625
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          204.45703125,
+          180.10546875
+        ],
+        [
+          272.609375,
+          180.10546875
+        ],
+        [
+          272.609375,
+          197.349609375
+        ],
+        [
+          204.45703125,
+          197.349609375
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling av batterihylla i batteribackup",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          102.57861328125,
+          75.6427001953125
+        ],
+        [
+          365.96875,
+          75.6427001953125
+        ],
+        [
+          365.96875,
+          92.65203857421875
+        ],
+        [
+          102.57861328125,
+          92.65203857421875
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling av tv\u00e5 eller fler (max fyra) batterihyllor",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          79.822265625,
+          75.8822021484375
+        ],
+        [
+          397.7109375,
+          75.8822021484375
+        ],
+        [
+          397.7109375,
+          92.76708984375
+        ],
+        [
+          79.822265625,
+          92.76708984375
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          208.18470764160156,
+          185.5341796875
+        ],
+        [
+          272.142578125,
+          185.5341796875
+        ],
+        [
+          272.142578125,
+          198.00515747070312
+        ],
+        [
+          208.18470764160156,
+          198.00515747070312
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          32
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152622_ins"
+}

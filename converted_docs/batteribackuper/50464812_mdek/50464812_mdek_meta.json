@@ -1,0 +1,493 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SundaHus Milj\u00f6data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          240.60000610351562,
+          28.7279052734375
+        ],
+        [
+          374.39801025390625,
+          28.7279052734375
+        ],
+        [
+          374.39801025390625,
+          44.4537353515625
+        ],
+        [
+          240.60000610351562,
+          44.4537353515625
+        ]
+      ]
+    },
+    {
+      "title": "SundaHus Milj\u00f6data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          240.60000610351562,
+          28.03411865234375
+        ],
+        [
+          374.39801025390625,
+          28.03411865234375
+        ],
+        [
+          374.39801025390625,
+          44.32525634765625
+        ],
+        [
+          240.60000610351562,
+          44.32525634765625
+        ]
+      ]
+    },
+    {
+      "title": "SundaHus Milj\u00f6data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          240.60000610351562,
+          28.08551025390625
+        ],
+        [
+          374.39801025390625,
+          28.08551025390625
+        ],
+        [
+          374.39801025390625,
+          44.37664794921875
+        ],
+        [
+          240.60000610351562,
+          44.37664794921875
+        ]
+      ]
+    },
+    {
+      "title": "SundaHus Milj\u00f6data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          240.60000610351562,
+          28.03411865234375
+        ],
+        [
+          374.39801025390625,
+          28.03411865234375
+        ],
+        [
+          374.39801025390625,
+          44.42803955078125
+        ],
+        [
+          240.60000610351562,
+          44.42803955078125
+        ]
+      ]
+    },
+    {
+      "title": "SundaHus Milj\u00f6data",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          240.60000610351562,
+          28.80499267578125
+        ],
+        [
+          374.39801025390625,
+          28.80499267578125
+        ],
+        [
+          374.39801025390625,
+          45.04473876953125
+        ],
+        [
+          240.60000610351562,
+          45.04473876953125
+        ]
+      ]
+    },
+    {
+      "title": "SundaHus Milj\u00f6data",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          240.60000610351562,
+          28.9334716796875
+        ],
+        [
+          375.07080078125,
+          28.9334716796875
+        ],
+        [
+          375.07080078125,
+          44.6593017578125
+        ],
+        [
+          240.60000610351562,
+          44.6593017578125
+        ]
+      ]
+    },
+    {
+      "title": "SundaHus Milj\u00f6data",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          240.60000610351562,
+          28.059814453125
+        ],
+        [
+          374.7802734375,
+          28.059814453125
+        ],
+        [
+          374.7802734375,
+          44.710693359375
+        ],
+        [
+          240.60000610351562,
+          44.710693359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "TableCell",
+          127
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Table",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "TableCell",
+          174
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "TableCell",
+          204
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          230
+        ],
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          160
+        ],
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "TableCell",
+          76
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464812_mdek"
+}

@@ -1,0 +1,81 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tillbeh\u00f6r batterihyllor",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.9404296875,
+          12.250473022460938
+        ],
+        [
+          229.7568359375,
+          12.250473022460938
+        ],
+        [
+          229.7568359375,
+          34.47998046875
+        ],
+        [
+          35.9404296875,
+          34.47998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152612_pro"
+}

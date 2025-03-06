@@ -1,0 +1,223 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UHR-ER34615-H: D size spiral cell (power type)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          25.1015625,
+          77.68212890625
+        ],
+        [
+          484.9567565917969,
+          77.68212890625
+        ],
+        [
+          484.9567565917969,
+          100.5269775390625
+        ],
+        [
+          25.1015625,
+          100.5269775390625
+        ]
+      ]
+    },
+    {
+      "title": "Technical Datasheet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          26.67041015625,
+          101.126953125
+        ],
+        [
+          201.708984375,
+          101.126953125
+        ],
+        [
+          201.708984375,
+          117.2017822265625
+        ],
+        [
+          26.67041015625,
+          117.2017822265625
+        ]
+      ]
+    },
+    {
+      "title": "Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.0,
+          337.412109375
+        ],
+        [
+          82.177734375,
+          337.412109375
+        ],
+        [
+          82.177734375,
+          351.08026123046875
+        ],
+        [
+          27.0,
+          351.08026123046875
+        ]
+      ]
+    },
+    {
+      "title": "Applications",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.0,
+          452.4609375
+        ],
+        [
+          105.04559326171875,
+          452.4609375
+        ],
+        [
+          105.04559326171875,
+          467.15625
+        ],
+        [
+          27.0,
+          467.15625
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.747314453125,
+          70.72119140625
+        ],
+        [
+          120.89599609375,
+          70.72119140625
+        ],
+        [
+          120.89599609375,
+          85.40582275390625
+        ],
+        [
+          35.747314453125,
+          85.40582275390625
+        ]
+      ]
+    },
+    {
+      "title": "Performance Graphs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.7099609375,
+          350.3671875
+        ],
+        [
+          186.4537811279297,
+          350.3671875
+        ],
+        [
+          186.4537811279297,
+          365.193603515625
+        ],
+        [
+          35.7099609375,
+          365.193603515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464975_pro"
+}

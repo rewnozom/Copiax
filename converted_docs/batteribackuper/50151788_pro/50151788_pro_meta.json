@@ -1,0 +1,220 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Egenskaper:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          265.8427734375,
+          437.0341796875
+        ],
+        [
+          327.1015625,
+          437.0341796875
+        ],
+        [
+          327.1015625,
+          447.7236328125
+        ],
+        [
+          265.8427734375,
+          447.7236328125
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.25732421875,
+          584.2197265625
+        ],
+        [
+          127.05569458007812,
+          584.2197265625
+        ],
+        [
+          127.05569458007812,
+          595.5959014892578
+        ],
+        [
+          57.25732421875,
+          595.5959014892578
+        ]
+      ]
+    },
+    {
+      "title": "SWITCHENS PARAMETRAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.09326171875,
+          81.0445556640625
+        ],
+        [
+          184.50390625,
+          81.0445556640625
+        ],
+        [
+          184.50390625,
+          93.2320556640625
+        ],
+        [
+          56.09326171875,
+          93.2320556640625
+        ]
+      ]
+    },
+    {
+      "title": "ELEKTRISKA PARAMETRAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.1474609375,
+          289.0263671875
+        ],
+        [
+          195.7080078125,
+          289.0263671875
+        ],
+        [
+          195.7080078125,
+          300.5380859375
+        ],
+        [
+          55.1474609375,
+          300.5380859375
+        ]
+      ]
+    },
+    {
+      "title": "MEKANISKA PARAMETRAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.402099609375,
+          527.4833984375
+        ],
+        [
+          191.6337890625,
+          527.4833984375
+        ],
+        [
+          191.6337890625,
+          538.9157409667969
+        ],
+        [
+          55.402099609375,
+          538.9157409667969
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50151788_pro"
+}

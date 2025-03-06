@@ -1,0 +1,73 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Batteriboxar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.18309783935547,
+          11.935699462890625
+        ],
+        [
+          147.6904296875,
+          11.935699462890625
+        ],
+        [
+          147.6904296875,
+          34.47998046875
+        ],
+        [
+          36.18309783935547,
+          34.47998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "TableCell",
+          136
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152559_pro"
+}

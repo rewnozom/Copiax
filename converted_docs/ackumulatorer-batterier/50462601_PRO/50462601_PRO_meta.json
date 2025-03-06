@@ -1,0 +1,593 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.6962890625,
+          37.390869140625
+        ],
+        [
+          436.2890625,
+          37.390869140625
+        ],
+        [
+          436.2890625,
+          106.34765625
+        ],
+        [
+          64.6962890625,
+          106.34765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.650390625,
+          103.060546875
+        ],
+        [
+          254.6015625,
+          103.060546875
+        ],
+        [
+          254.6015625,
+          118.916015625
+        ],
+        [
+          63.650390625,
+          118.916015625
+        ]
+      ]
+    },
+    {
+      "title": "Section 4 \u2013 First Aid Measures",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.041015625,
+          525.9375
+        ],
+        [
+          232.88943481445312,
+          525.9375
+        ],
+        [
+          232.88943481445312,
+          539.859375
+        ],
+        [
+          66.041015625,
+          539.859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.662109375,
+          37.149169921875
+        ],
+        [
+          436.587890625,
+          37.149169921875
+        ],
+        [
+          436.587890625,
+          107.12109375
+        ],
+        [
+          60.662109375,
+          107.12109375
+        ]
+      ]
+    },
+    {
+      "title": "Section 5 \u2013 Fire-Fighting Measures",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.70166015625,
+          156.9111328125
+        ],
+        [
+          262.2361755371094,
+          156.9111328125
+        ],
+        [
+          262.2361755371094,
+          169.8662109375
+        ],
+        [
+          69.70166015625,
+          169.8662109375
+        ]
+      ]
+    },
+    {
+      "title": "Section 7 \u2013 Handling and Storage",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.4892578125,
+          365.8359375
+        ],
+        [
+          250.57171630859375,
+          365.8359375
+        ],
+        [
+          250.57171630859375,
+          378.984375
+        ],
+        [
+          66.4892578125,
+          378.984375
+        ]
+      ]
+    },
+    {
+      "title": "Section 8\u2013 Exposure Control / Person Protection",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          67.60986328125,
+          562.67578125
+        ],
+        [
+          333.4921875,
+          562.67578125
+        ],
+        [
+          333.4921875,
+          574.27734375
+        ],
+        [
+          67.60986328125,
+          574.27734375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          61.1103515625,
+          37.439208984375
+        ],
+        [
+          436.88671875,
+          37.439208984375
+        ],
+        [
+          436.88671875,
+          107.314453125
+        ],
+        [
+          61.1103515625,
+          107.314453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.5009765625,
+          105.0908203125
+        ],
+        [
+          252.3603515625,
+          105.0908203125
+        ],
+        [
+          252.3603515625,
+          121.3330078125
+        ],
+        [
+          63.5009765625,
+          121.3330078125
+        ]
+      ]
+    },
+    {
+      "title": "Section 13 \u2013 Disposal Considerations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.248046875,
+          376.6640625
+        ],
+        [
+          270.4848327636719,
+          376.6640625
+        ],
+        [
+          270.4848327636719,
+          389.42578125
+        ],
+        [
+          64.248046875,
+          389.42578125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.9609375,
+          37.052490234375
+        ],
+        [
+          436.88671875,
+          37.052490234375
+        ],
+        [
+          436.88671875,
+          105.6708984375
+        ],
+        [
+          60.9609375,
+          105.6708984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.42626953125,
+          104.220703125
+        ],
+        [
+          252.80859375,
+          104.220703125
+        ],
+        [
+          252.80859375,
+          120.65625
+        ],
+        [
+          63.42626953125,
+          120.65625
+        ]
+      ]
+    },
+    {
+      "title": "Section 14 \u2013 Transportation Information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.845703125,
+          155.1708984375
+        ],
+        [
+          370.1073913574219,
+          155.1708984375
+        ],
+        [
+          370.1073913574219,
+          169.2861328125
+        ],
+        [
+          64.845703125,
+          169.2861328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.662109375,
+          37.46337890625
+        ],
+        [
+          435.990234375,
+          37.46337890625
+        ],
+        [
+          435.990234375,
+          107.5078125
+        ],
+        [
+          60.662109375,
+          107.5078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.8447265625,
+          230.87109375
+        ],
+        [
+          191.6982421875,
+          230.87109375
+        ],
+        [
+          191.6982421875,
+          243.24609375
+        ],
+        [
+          77.8447265625,
+          243.24609375
+        ]
+      ]
+    },
+    {
+      "title": "Section 15 \u2013 Regulatory Information",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          64.17333984375,
+          373.18359375
+        ],
+        [
+          262.2939453125,
+          373.18359375
+        ],
+        [
+          262.2939453125,
+          386.33203125
+        ],
+        [
+          64.17333984375,
+          386.33203125
+        ]
+      ]
+    },
+    {
+      "title": "Section 16 \u2013 Other Information",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          64.6962890625,
+          402.1875
+        ],
+        [
+          233.65475463867188,
+          402.1875
+        ],
+        [
+          233.65475463867188,
+          414.5625
+        ],
+        [
+          64.6962890625,
+          414.5625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "TableCell",
+          80
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50462601_PRO"
+}

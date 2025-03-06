@@ -1,0 +1,358 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PRODUCT SPECIFICATIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.51992797851562,
+          143.279296875
+        ],
+        [
+          397.26824951171875,
+          143.279296875
+        ],
+        [
+          397.26824951171875,
+          160.08514404296875
+        ],
+        [
+          215.51992797851562,
+          160.08514404296875
+        ]
+      ]
+    },
+    {
+      "title": "XPLOR Compact Headlamp (Trail Running) \nModel: PHR17",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          169.13671875,
+          174.216796875
+        ],
+        [
+          442.3879699707031,
+          174.216796875
+        ],
+        [
+          442.3879699707031,
+          206.12109375
+        ],
+        [
+          169.13671875,
+          206.12109375
+        ]
+      ]
+    },
+    {
+      "title": "Product Specification Model no.: PHR17",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.0986328125,
+          129.357421875
+        ],
+        [
+          542.4682006835938,
+          129.357421875
+        ],
+        [
+          542.4682006835938,
+          145.80517578125
+        ],
+        [
+          64.0986328125,
+          145.80517578125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          427.32421875,
+          128.77734375
+        ],
+        [
+          538.48828125,
+          128.77734375
+        ],
+        [
+          538.48828125,
+          144.439453125
+        ],
+        [
+          427.32421875,
+          144.439453125
+        ]
+      ]
+    },
+    {
+      "title": "Basic information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.2939453125,
+          366.029296875
+        ],
+        [
+          157.3330078125,
+          366.029296875
+        ],
+        [
+          157.3330078125,
+          378.791015625
+        ],
+        [
+          65.2939453125,
+          378.791015625
+        ]
+      ]
+    },
+    {
+      "title": "Per ANSI FL1 Standard",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.32275390625,
+          525.55078125
+        ],
+        [
+          181.6839599609375,
+          525.55078125
+        ],
+        [
+          181.6839599609375,
+          538.69921875
+        ],
+        [
+          64.32275390625,
+          538.69921875
+        ]
+      ]
+    },
+    {
+      "title": "Product features",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.21923828125,
+          195.5830078125
+        ],
+        [
+          150.9640655517578,
+          195.5830078125
+        ],
+        [
+          150.9640655517578,
+          209.21484375
+        ],
+        [
+          65.21923828125,
+          209.21484375
+        ]
+      ]
+    },
+    {
+      "title": "Applications",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.14453125,
+          409.921875
+        ],
+        [
+          130.92454528808594,
+          409.921875
+        ],
+        [
+          130.92454528808594,
+          423.0703125
+        ],
+        [
+          65.14453125,
+          423.0703125
+        ]
+      ]
+    },
+    {
+      "title": "Accessories Included",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.845703125,
+          457.48828125
+        ],
+        [
+          173.3203125,
+          457.48828125
+        ],
+        [
+          173.3203125,
+          470.63671875
+        ],
+        [
+          64.845703125,
+          470.63671875
+        ]
+      ]
+    },
+    {
+      "title": "Certification",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.36865234375,
+          546.43359375
+        ],
+        [
+          129.24411010742188,
+          546.43359375
+        ],
+        [
+          129.24411010742188,
+          559.58203125
+        ],
+        [
+          65.36865234375,
+          559.58203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "TableCell",
+          51
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464894_tek"
+}

@@ -1,0 +1,100 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BRANDSL\u00c4CKARE 55A\n6KG\nTang PD6S",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.8134765625,
+          49.2845458984375
+        ],
+        [
+          362.0234375,
+          49.2845458984375
+        ],
+        [
+          362.0234375,
+          153.55810546875
+        ],
+        [
+          36.8134765625,
+          153.55810546875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.738525390625,
+          648.3564453125
+        ],
+        [
+          95.80249786376953,
+          648.3564453125
+        ],
+        [
+          95.80249786376953,
+          659.8681640625
+        ],
+        [
+          30.738525390625,
+          659.8681640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50154970_pro"
+}

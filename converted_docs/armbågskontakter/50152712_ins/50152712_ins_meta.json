@@ -1,0 +1,781 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.9140625,
+          37.140869140625
+        ],
+        [
+          382.060546875,
+          37.140869140625
+        ],
+        [
+          382.060546875,
+          143.3251953125
+        ],
+        [
+          36.9140625,
+          143.3251953125
+        ]
+      ]
+    },
+    {
+      "title": "1200",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.76025390625,
+          306.1484375
+        ],
+        [
+          117.919921875,
+          306.1484375
+        ],
+        [
+          117.919921875,
+          363.1875
+        ],
+        [
+          36.76025390625,
+          363.1875
+        ]
+      ]
+    },
+    {
+      "title": "MANUAL\nINSTALLATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          238.23379516601562,
+          189.451171875
+        ],
+        [
+          392.9296875,
+          189.451171875
+        ],
+        [
+          392.9296875,
+          286.068359375
+        ],
+        [
+          238.23379516601562,
+          286.068359375
+        ]
+      ]
+    },
+    {
+      "title": "ARMB\u00c5GSKONTAKT\nAKTIVERINGSLIST",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          237.890625,
+          369.58984375
+        ],
+        [
+          394.16015625,
+          369.58984375
+        ],
+        [
+          394.16015625,
+          436.5234375
+        ],
+        [
+          237.890625,
+          436.5234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          321.97265625,
+          14.83270263671875
+        ],
+        [
+          404.00390625,
+          14.83270263671875
+        ],
+        [
+          404.00390625,
+          44.270751953125
+        ],
+        [
+          321.97265625,
+          44.270751953125
+        ]
+      ]
+    },
+    {
+      "title": "MONTERING OCH INSTALLATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.685546875,
+          25.900390625
+        ],
+        [
+          312.7344665527344,
+          25.900390625
+        ],
+        [
+          312.7344665527344,
+          67.6611328125
+        ],
+        [
+          27.685546875,
+          67.6611328125
+        ]
+      ]
+    },
+    {
+      "title": "LOCK",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.04443359375,
+          356.203125
+        ],
+        [
+          76.13525390625,
+          356.203125
+        ],
+        [
+          76.13525390625,
+          395.19921875
+        ],
+        [
+          28.04443359375,
+          395.19921875
+        ]
+      ]
+    },
+    {
+      "title": "Tv\u00e5 kombinationer av \u00e4ndlock",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.75409698486328,
+          389.37890625
+        ],
+        [
+          148.681640625,
+          389.37890625
+        ],
+        [
+          148.681640625,
+          402.18359375
+        ],
+        [
+          28.75409698486328,
+          402.18359375
+        ]
+      ]
+    },
+    {
+      "title": "SPR\u00c4NGSKISS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          27.83935546875,
+          25.0091552734375
+        ],
+        [
+          156.53048706054688,
+          25.0091552734375
+        ],
+        [
+          156.53048706054688,
+          65.40576171875
+        ],
+        [
+          27.83935546875,
+          65.40576171875
+        ]
+      ]
+    },
+    {
+      "title": "risma Butt",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.248291015625,
+          363.1875
+        ],
+        [
+          98.3349609375,
+          363.1875
+        ],
+        [
+          98.3349609375,
+          561.078125
+        ],
+        [
+          33.248291015625,
+          561.078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          308.4375,
+          15.16009521484375
+        ],
+        [
+          388.0078125,
+          13.99603271484375
+        ],
+        [
+          388.0078125,
+          44.489013671875
+        ],
+        [
+          308.4375,
+          45.653076171875
+        ]
+      ]
+    },
+    {
+      "title": "DIP-SWITCH",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          27.73681640625,
+          25.281982421875
+        ],
+        [
+          144.580078125,
+          24.117919921875
+        ],
+        [
+          144.580078125,
+          66.315185546875
+        ],
+        [
+          27.73681640625,
+          67.479248046875
+        ]
+      ]
+    },
+    {
+      "title": "TILLSLAGSF\u00d6RDR\u00d6JNING",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          26.7626953125,
+          157.5849609375
+        ],
+        [
+          252.84243774414062,
+          157.5849609375
+        ],
+        [
+          252.84243774414062,
+          201.5283203125
+        ],
+        [
+          26.7626953125,
+          201.5283203125
+        ]
+      ]
+    },
+    {
+      "title": "KICK/SPARK-FUNKTION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          28.34640121459961,
+          327.68359375
+        ],
+        [
+          239.28720092773438,
+          326.51953125
+        ],
+        [
+          239.28720092773438,
+          366.6796875
+        ],
+        [
+          28.34640121459961,
+          367.84375
+        ]
+      ]
+    },
+    {
+      "title": "BEGR\u00c4NSAD REL\u00c4ANSLUTNINGSTID",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          27.685546875,
+          400.4375
+        ],
+        [
+          345.6984558105469,
+          399.2734375
+        ],
+        [
+          345.6984558105469,
+          447.0
+        ],
+        [
+          27.685546875,
+          448.1640625
+        ]
+      ]
+    },
+    {
+      "title": "KVITTENSTON",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          28.1982421875,
+          496.181640625
+        ],
+        [
+          153.3984375,
+          495.017578125
+        ],
+        [
+          153.3984375,
+          536.341796875
+        ],
+        [
+          28.1982421875,
+          537.505859375
+        ]
+      ]
+    },
+    {
+      "title": "L\u00c5S\u00d6PPNING, F\u00d6RDR\u00d6JD D\u00d6RR\u00d6PPNING",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          26.9677734375,
+          43.7978515625
+        ],
+        [
+          385.154541015625,
+          43.7978515625
+        ],
+        [
+          385.154541015625,
+          90.6513671875
+        ],
+        [
+          26.9677734375,
+          90.6513671875
+        ]
+      ]
+    },
+    {
+      "title": "AKTIVERA REL\u00c4 2",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          28.24951171875,
+          183.921875
+        ],
+        [
+          189.287109375,
+          183.921875
+        ],
+        [
+          189.287109375,
+          224.6640625
+        ],
+        [
+          28.24951171875,
+          224.6640625
+        ]
+      ]
+    },
+    {
+      "title": "AKTIVERA REL\u00c4 1",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          28.346500396728516,
+          263.078125
+        ],
+        [
+          191.337890625,
+          263.078125
+        ],
+        [
+          191.337890625,
+          304.111328125
+        ],
+        [
+          28.346500396728516,
+          304.111328125
+        ]
+      ]
+    },
+    {
+      "title": "NURSE BED-FUNKTION 1",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          27.9931640625,
+          347.181640625
+        ],
+        [
+          248.5546875,
+          347.181640625
+        ],
+        [
+          248.5546875,
+          386.759765625
+        ],
+        [
+          27.9931640625,
+          386.759765625
+        ]
+      ]
+    },
+    {
+      "title": "NURSE BED-FUNKTION 2",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          27.7880859375,
+          448.74609375
+        ],
+        [
+          249.78515625,
+          448.74609375
+        ],
+        [
+          249.78515625,
+          487.7421875
+        ],
+        [
+          27.7880859375,
+          487.7421875
+        ]
+      ]
+    },
+    {
+      "title": "1200\n800\n300\nTILLG\u00c4NGLIGHET F\u00d6R ALLA",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          57.5244140625,
+          278.501953125
+        ],
+        [
+          360.0,
+          278.501953125
+        ],
+        [
+          360.0,
+          366.970703125
+        ],
+        [
+          57.5244140625,
+          366.970703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152712_ins"
+}

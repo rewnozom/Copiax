@@ -1,0 +1,162 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Batteribackup NOVA FLX L",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.267704010009766,
+          10.445343017578125
+        ],
+        [
+          356.203125,
+          10.445343017578125
+        ],
+        [
+          356.203125,
+          40.73968505859375
+        ],
+        [
+          35.267704010009766,
+          40.73968505859375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rv\u00e4ntad drifttid vid potentiellt str\u00f6mavbrott \n(nya batterier): Vid nedan last:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.88623046875,
+          659.45703125
+        ],
+        [
+          529.1460571289062,
+          659.45703125
+        ],
+        [
+          529.1460571289062,
+          695.63671875
+        ],
+        [
+          36.88623046875,
+          695.63671875
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.758544921875,
+          10.952835083007812
+        ],
+        [
+          151.7646484375,
+          10.952835083007812
+        ],
+        [
+          151.7646484375,
+          34.47998046875
+        ],
+        [
+          35.758544921875,
+          34.47998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          361
+        ],
+        [
+          "TableCell",
+          236
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152571_pro"
+}

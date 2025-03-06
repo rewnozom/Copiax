@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Dark background -->
+  <rect width="800" height="500" fill="#1e2030" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" fill="#e4ecff" text-anchor="middle" font-weight="bold">Bot Engine Interaction Flow</text>
+  
+  <!-- User entry point -->
+  <circle cx="115" cy="120" r="60" fill="#2d3748" stroke="#6366f1" stroke-width="2"/>
+  <text x="115" y="125" font-family="Arial, sans-serif" font-size="18" fill="#e4ecff" text-anchor="middle">User</text>
+  
+  <!-- ChatFrame component -->
+  <rect x="240" y="90" width="140" height="60" rx="8" ry="8" fill="#1e40af" stroke="#38bdf8" stroke-width="2"/>
+  <text x="310" y="125" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">ChatFrame</text>
+  
+  <!-- Bot Engine component -->
+  <rect x="450" y="90" width="140" height="60" rx="8" ry="8" fill="#4c1d95" stroke="#a5b4fc" stroke-width="2"/>
+  <text x="520" y="125" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">BotEngine</text>
+  
+  <!-- User to ChatFrame -->
+  <path d="M 175 120 L 240 120" stroke="#38bdf8" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="210" y="110" font-family="Arial, sans-serif" font-size="12" fill="#93c5fd" text-anchor="middle">1. Fråga</text>
+  
+  <!-- ChatFrame to BotEngine -->
+  <path d="M 380 120 L 450 120" stroke="#38bdf8" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="415" y="110" font-family="Arial, sans-serif" font-size="12" fill="#93c5fd" text-anchor="middle">2. Tolkning</text>
+  
+  <!-- Index connection -->
+  <rect x="450" y="190" width="140" height="60" rx="8" ry="8" fill="#9d174d" stroke="#f472b6" stroke-width="2"/>
+  <text x="520" y="225" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Index</text>
+  
+  <!-- DataProcessor connection -->
+  <rect x="660" y="190" width="140" height="60" rx="8" ry="8" fill="#5b21b6" stroke="#a5b4fc" stroke-width="2"/>
+  <text x="730" y="225" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">DataProcessor</text>
+  
+  <!-- BotEngine to Index -->
+  <path d="M 520 150 L 520 190" stroke="#f472b6" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="540" y="170" font-family="Arial, sans-serif" font-size="12" fill="#f472b6" text-anchor="start">3. Söker data</text>
+  
+  <!-- Index to DataProcessor -->
+  <path d="M 590 220 L 660 220" stroke="#a5b4fc" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="625" y="210" font-family="Arial, sans-serif" font-size="12" fill="#a5b4fc" text-anchor="middle">4. Hämta data</text>
+  
+  <!-- DataProcessor back to BotEngine -->
+  <path d="M 730 190 L 730 120 L 590 120" stroke="#a5b4fc" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="680" y="100" font-family="Arial, sans-serif" font-size="12" fill="#a5b4fc" text-anchor="middle">5. Returnerar data</text>
+  
+  <!-- BotEngine back to ChatFrame -->
+  <path d="M 450 150 L 380 150 L 380 150" stroke="#38bdf8" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="415" y="170" font-family="Arial, sans-serif" font-size="12" fill="#38bdf8" text-anchor="middle">6. Formaterar svar</text>
+  
+  <!-- ChatFrame back to User -->
+  <path d="M 240 150 L 175 150" stroke="#38bdf8" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="210" y="170" font-family="Arial, sans-serif" font-size="12" fill="#38bdf8" text-anchor="middle">7. Visar svar</text>
+  
+  <!-- Command section -->
+  <rect x="50" y="300" width="700" height="170" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  <text x="400" y="325" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Bot Kommandon</text>
+  
+  <!-- Command boxes -->
+  <rect x="80" y="345" width="140" height="35" fill="#1e40af" rx="4" ry="4"/>
+  <text x="150" y="368" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">-t: Tekniska spec.</text>
+  
+  <rect x="240" y="345" width="140" height="35" fill="#4c1d95" rx="4" ry="4"/>
+  <text x="310" y="368" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">-c: Kompatibilitet</text>
+  
+  <rect x="400" y="345" width="140" height="35" fill="#9d174d" rx="4" ry="4"/>
+  <text x="470" y="368" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">-s: Sammanfattning</text>
+  
+  <rect x="560" y="345" width="140" height="35" fill="#5b21b6" rx="4" ry="4"/>
+  <text x="630" y="368" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">-f: Full information</text>
+  
+  <!-- Search methods -->
+  <text x="400" y="405" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle" font-weight="bold">Sökmetoder</text>
+  
+  <rect x="80" y="420" width="140" height="35" fill="#1e3a8a" rx="4" ry="4"/>
+  <text x="150" y="443" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Exakt sökning</text>
+  
+  <rect x="240" y="420" width="140" height="35" fill="#3730a3" rx="4" ry="4"/>
+  <text x="310" y="443" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Regex-sökning</text>
+  
+  <rect x="400" y="420" width="140" height="35" fill="#4a1d96" rx="4" ry="4"/>
+  <text x="470" y="443" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Fuzzy matching</text>
+  
+  <rect x="560" y="420" width="140" height="35" fill="#701a75" rx="4" ry="4"/>
+  <text x="630" y="443" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Naturligt språk</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L0,10 L10,5 Z" fill="#6366f1"/>
+    </marker>
+  </defs>
+</svg>

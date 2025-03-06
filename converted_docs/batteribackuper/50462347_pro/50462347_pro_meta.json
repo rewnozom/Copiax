@@ -1,0 +1,146 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PSV 1235-B1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.440673828125,
+          63.4686279296875
+        ],
+        [
+          210.7621307373047,
+          63.4686279296875
+        ],
+        [
+          210.7621307373047,
+          89.3699951171875
+        ],
+        [
+          61.440673828125,
+          89.3699951171875
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rs\u00f6rjningsaggregat SBSC godk\u00e4nd i larmklass 3\nmed ViP (voltage in Parallel) funktion, 12 VDC 3,5A.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.404296875,
+          140.81298828125
+        ],
+        [
+          569.517578125,
+          140.81298828125
+        ],
+        [
+          569.517578125,
+          185.4208984375
+        ],
+        [
+          61.404296875,
+          185.4208984375
+        ]
+      ]
+    },
+    {
+      "title": "Produktdetajler:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.386474609375,
+          262.50830078125
+        ],
+        [
+          159.0869903564453,
+          262.50830078125
+        ],
+        [
+          159.0869903564453,
+          274.84228515625
+        ],
+        [
+          62.386474609375,
+          274.84228515625
+        ]
+      ]
+    },
+    {
+      "title": "BEST\u00c4LLINGSINFORMATION\nTyp E-nr Beskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.440673828125,
+          581.341796875
+        ],
+        [
+          293.06317138671875,
+          581.341796875
+        ],
+        [
+          293.06317138671875,
+          601.076171875
+        ],
+        [
+          61.440673828125,
+          601.076171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50462347_pro"
+}

@@ -1,0 +1,960 @@
+{
+  "table_of_contents": [
+    {
+      "title": "INNEH\u00c5LL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.31999969482422,
+          585.8642578125
+        ],
+        [
+          78.66780853271484,
+          585.8642578125
+        ],
+        [
+          78.66780853271484,
+          597.3759765625
+        ],
+        [
+          28.31999969482422,
+          597.3759765625
+        ]
+      ]
+    },
+    {
+      "title": "1. Teknisk beskrivning.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.31999969482422,
+          20.37677001953125
+        ],
+        [
+          134.0126953125,
+          20.37677001953125
+        ],
+        [
+          134.0126953125,
+          32.171142578125
+        ],
+        [
+          28.31999969482422,
+          32.171142578125
+        ]
+      ]
+    },
+    {
+      "title": "1.1. Allm\u00e4n beskrivning.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.968505859375,
+          42.2952880859375
+        ],
+        [
+          172.7177734375,
+          42.2952880859375
+        ],
+        [
+          172.7177734375,
+          53.825439453125
+        ],
+        [
+          62.968505859375,
+          53.825439453125
+        ]
+      ]
+    },
+    {
+      "title": "Tabell1. (Se bild. 2)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          28.31999969482422,
+          401.06005859375
+        ],
+        [
+          118.51611328125,
+          401.06005859375
+        ],
+        [
+          118.51611328125,
+          412.16064453125
+        ],
+        [
+          28.31999969482422,
+          412.16064453125
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 2. (Se bild 3)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          28.31999969482422,
+          794.30859375
+        ],
+        [
+          118.7468490600586,
+          794.30859375
+        ],
+        [
+          118.7468490600586,
+          805.1158714294434
+        ],
+        [
+          28.31999969482422,
+          805.1158714294434
+        ]
+      ]
+    },
+    {
+      "title": "1.4 Tekniska parametrar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.34400177001953,
+          111.725341796875
+        ],
+        [
+          175.14370727539062,
+          111.725341796875
+        ],
+        [
+          175.14370727539062,
+          122.825927734375
+        ],
+        [
+          64.34400177001953,
+          122.825927734375
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 3. Switchens parametrar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.0830078125,
+          188.298828125
+        ],
+        [
+          175.482421875,
+          188.298828125
+        ],
+        [
+          175.482421875,
+          199.3994140625
+        ],
+        [
+          28.0830078125,
+          199.3994140625
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 4. Elektriska parametrar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.0830078125,
+          344.73486328125
+        ],
+        [
+          167.916015625,
+          344.73486328125
+        ],
+        [
+          167.916015625,
+          355.42431640625
+        ],
+        [
+          28.0830078125,
+          355.42431640625
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 5. Mekaniska parametrar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.28271484375,
+          654.5234375
+        ],
+        [
+          171.408203125,
+          654.5234375
+        ],
+        [
+          171.408203125,
+          665.212890625
+        ],
+        [
+          27.28271484375,
+          665.212890625
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 6. Driftss\u00e4kerhet",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.264892578125,
+          793.8974609375
+        ],
+        [
+          134.3037109375,
+          793.8974609375
+        ],
+        [
+          134.3037109375,
+          804.5869140625
+        ],
+        [
+          28.264892578125,
+          804.5869140625
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 7. Driftsparametrar",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          28.31999969482422,
+          127.24560546875
+        ],
+        [
+          145.14404296875,
+          127.24560546875
+        ],
+        [
+          145.14404296875,
+          137.93505859375
+        ],
+        [
+          28.31999969482422,
+          137.93505859375
+        ]
+      ]
+    },
+    {
+      "title": "2. Installation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          28.228515625,
+          233.5234375
+        ],
+        [
+          95.453125,
+          233.5234375
+        ],
+        [
+          95.453125,
+          245.03515625
+        ],
+        [
+          28.228515625,
+          245.03515625
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Krav & S\u00e4kerhet",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.91064453125,
+          251.2021484375
+        ],
+        [
+          155.693359375,
+          251.2021484375
+        ],
+        [
+          155.693359375,
+          262.40582275390625
+        ],
+        [
+          53.91064453125,
+          262.40582275390625
+        ]
+      ]
+    },
+    {
+      "title": "Endast auktoriserad och erfaren personal f\u00e5r installera och underh\u00e5lla denna enhet.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          28.31999969482422,
+          274.2255859375
+        ],
+        [
+          457.361572265625,
+          274.2255859375
+        ],
+        [
+          457.361572265625,
+          286.1484375
+        ],
+        [
+          28.31999969482422,
+          286.1484375
+        ]
+      ]
+    },
+    {
+      "title": "30 W per port \u00e4r maximal belastning per port, total \u00e4r maximal belastning 240 W p\u00e5 samtliga portar.\nF\u00f6r maximal livsl\u00e4ngd rekommenderas en kontinuerlig belastning p\u00e5 maximalt 160 W.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          28.31999969482422,
+          354.19091796875
+        ],
+        [
+          529.6484375,
+          354.19091796875
+        ],
+        [
+          529.6484375,
+          377.3658752441406
+        ],
+        [
+          28.31999969482422,
+          377.3658752441406
+        ]
+      ]
+    },
+    {
+      "title": "2.2. L\u00e4ge med l\u00e5ng r\u00e4ckvidd",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.531982421875,
+          434.978515625
+        ],
+        [
+          198.9091796875,
+          434.978515625
+        ],
+        [
+          198.9091796875,
+          447.3125
+        ],
+        [
+          62.531982421875,
+          447.3125
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Installationsf\u00f6rfarande",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.94775390625,
+          540.6396484375
+        ],
+        [
+          184.50390625,
+          540.6396484375
+        ],
+        [
+          184.50390625,
+          552.9736328125
+        ],
+        [
+          55.94775390625,
+          552.9736328125
+        ]
+      ]
+    },
+    {
+      "title": "St\u00e4ng av 230v sp\u00e4nning f\u00f6re installationen.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          61.47705078125,
+          593.67578125
+        ],
+        [
+          274.2536926269531,
+          593.67578125
+        ],
+        [
+          274.2536926269531,
+          606.83203125
+        ],
+        [
+          61.47705078125,
+          606.83203125
+        ]
+      ]
+    },
+    {
+      "title": "3. Indikation av enhetens drift",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          28.31999969482422,
+          164.75506591796875
+        ],
+        [
+          170.53515625,
+          164.75506591796875
+        ],
+        [
+          170.53515625,
+          185.523681640625
+        ],
+        [
+          28.31999969482422,
+          185.523681640625
+        ]
+      ]
+    },
+    {
+      "title": "3.1 LED-indikering av driftsstatus.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.63999938964844,
+          196.9326171875
+        ],
+        [
+          219.134765625,
+          196.9326171875
+        ],
+        [
+          219.134765625,
+          208.85546875
+        ],
+        [
+          56.63999938964844,
+          208.85546875
+        ]
+      ]
+    },
+    {
+      "title": "Tabell 8. Indikation av switchens drift",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          27.71923828125,
+          391.3984375
+        ],
+        [
+          190.32421875,
+          391.3984375
+        ],
+        [
+          190.32421875,
+          402.91015625
+        ],
+        [
+          27.71923828125,
+          402.91015625
+        ]
+      ]
+    },
+    {
+      "title": "LYSDIODSINDIKERING AV STR\u00d6M TILL SWITCHEN (1\u00f78)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          169.45999145507812,
+          410.92724609375
+        ],
+        [
+          388.796875,
+          410.92724609375
+        ],
+        [
+          388.796875,
+          422.2333984375
+        ],
+        [
+          169.45999145507812,
+          422.2333984375
+        ]
+      ]
+    },
+    {
+      "title": "LYSDIODSINDIKERING P\u00c5 UPLINKPORTARNA",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          190.72999572753906,
+          524.60546875
+        ],
+        [
+          371.49066162109375,
+          524.60546875
+        ],
+        [
+          371.49066162109375,
+          535.294921875
+        ],
+        [
+          190.72999572753906,
+          535.294921875
+        ]
+      ]
+    },
+    {
+      "title": "4. Drift och anv\u00e4ndning.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          28.31999969482422,
+          376.1865234375
+        ],
+        [
+          137.94140625,
+          376.1865234375
+        ],
+        [
+          137.94140625,
+          387.287109375
+        ],
+        [
+          28.31999969482422,
+          387.287109375
+        ]
+      ]
+    },
+    {
+      "title": "4.1 \u00d6verbelastning eller kortslutning i PSU-utg\u00e5ngen (SCP p\u00e5).",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.3115234375,
+          398.3876953125
+        ],
+        [
+          340.48828125,
+          398.3876953125
+        ],
+        [
+          340.48828125,
+          409.0771484375
+        ],
+        [
+          56.3115234375,
+          409.0771484375
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Fr\u00e5nkoppling av urladdat batteri.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.63999938964844,
+          443.6123046875
+        ],
+        [
+          222.88543701171875,
+          443.6123046875
+        ],
+        [
+          222.88543701171875,
+          453.4794921875
+        ],
+        [
+          56.63999938964844,
+          453.4794921875
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Underh\u00e5ll.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          55.001953125,
+          487.3354797363281
+        ],
+        [
+          121.45543670654297,
+          487.3354797363281
+        ],
+        [
+          121.45543670654297,
+          496.8154602050781
+        ],
+        [
+          55.001953125,
+          496.8154602050781
+        ]
+      ]
+    },
+    {
+      "title": "WEEE-M\u00c4RKNING",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          282.1396484375,
+          578.4638671875
+        ],
+        [
+          356.64764404296875,
+          578.4638671875
+        ],
+        [
+          356.64764404296875,
+          587.9988555908203
+        ],
+        [
+          282.1396484375,
+          587.9988555908203
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "TableCell",
+          71
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50151788_ins"
+}

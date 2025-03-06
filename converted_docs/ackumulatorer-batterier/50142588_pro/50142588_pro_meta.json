@@ -1,0 +1,181 @@
+{
+  "table_of_contents": [
+    {
+      "title": "US SERIES\nUS12-2.3 (12V2.3AH)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          294.739990234375,
+          49.2845458984375
+        ],
+        [
+          488.6669921875,
+          49.2845458984375
+        ],
+        [
+          488.6669921875,
+          108.74462890625
+        ],
+        [
+          294.739990234375,
+          108.74462890625
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          265.396728515625,
+          118.46482635796971
+        ],
+        [
+          363.44458438287154,
+          118.46482635796971
+        ],
+        [
+          363.44458438287154,
+          131.459716796875
+        ],
+        [
+          265.396728515625,
+          131.459716796875
+        ]
+      ]
+    },
+    {
+      "title": "Dimen si ons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.468513853904284,
+          69.995361328125
+        ],
+        [
+          109.40806045340051,
+          69.995361328125
+        ],
+        [
+          109.40806045340051,
+          82.84326171875
+        ],
+        [
+          37.468513853904284,
+          82.84326171875
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 T1 Terminal\nUnit: mm [inches]",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.56488037109375,
+          97.952392578125
+        ],
+        [
+          126.37939453125,
+          97.952392578125
+        ],
+        [
+          126.37939453125,
+          122.209228515625
+        ],
+        [
+          40.56488037109375,
+          122.209228515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          352
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          178
+        ],
+        [
+          "Span",
+          178
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "Figure",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142588_pro"
+}

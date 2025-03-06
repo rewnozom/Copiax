@@ -1,0 +1,100 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DATA SHEET",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          699.3883720930232,
+          134.53338389067636
+        ],
+        [
+          889.7899224806201,
+          134.53338389067636
+        ],
+        [
+          889.0403100775193,
+          172.53220089163474
+        ],
+        [
+          698.6387596899225,
+          172.53220089163474
+        ]
+      ]
+    },
+    {
+      "title": "Typical Service Life:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.724806201550386,
+          725.7349397590361
+        ],
+        [
+          226.3829457364341,
+          725.7349397590361
+        ],
+        [
+          226.3829457364341,
+          745.9189741922235
+        ],
+        [
+          48.724806201550386,
+          745.9189741922235
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50024358_pro"
+}

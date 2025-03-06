@@ -1,0 +1,243 @@
+{
+  "table_of_contents": [
+    {
+      "title": "APS108 v.1.0/I\nAPS108 10-port switch 8x30W med reservkraft\nPRODUKTKODE\nTYP:\n:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.2060546875,
+          82.9974365234375
+        ],
+        [
+          437.62896728515625,
+          82.9974365234375
+        ],
+        [
+          437.62896728515625,
+          113.29254150390625
+        ],
+        [
+          66.2060546875,
+          113.29254150390625
+        ]
+      ]
+    },
+    {
+      "title": "Features:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          275.77099609375,
+          318.38665771484375
+        ],
+        [
+          328.5102844238281,
+          318.38665771484375
+        ],
+        [
+          328.5102844238281,
+          330.1396484375
+        ],
+        [
+          275.77099609375,
+          330.1396484375
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.29736328125,
+          451.8349609375
+        ],
+        [
+          139.32373046875,
+          451.8349609375
+        ],
+        [
+          139.32373046875,
+          463.3466796875
+        ],
+        [
+          67.29736328125,
+          463.3466796875
+        ]
+      ]
+    },
+    {
+      "title": "SWITCHENS PARAMETRAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.22799682617188,
+          98.7232666015625
+        ],
+        [
+          199.927734375,
+          98.7232666015625
+        ],
+        [
+          199.927734375,
+          110.27178955078125
+        ],
+        [
+          66.22799682617188,
+          110.27178955078125
+        ]
+      ]
+    },
+    {
+      "title": "ELEKTRISKA PARAMETRAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.096923828125,
+          279.36474609375
+        ],
+        [
+          205.0205078125,
+          279.36474609375
+        ],
+        [
+          205.0205078125,
+          290.36083984375
+        ],
+        [
+          66.096923828125,
+          290.36083984375
+        ]
+      ]
+    },
+    {
+      "title": "MEKANISKA PARAMETRAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.824462890625,
+          500.759765625
+        ],
+        [
+          203.2744140625,
+          500.759765625
+        ],
+        [
+          203.2744140625,
+          511.9508056640625
+        ],
+        [
+          66.824462890625,
+          511.9508056640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "TableCell",
+          69
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50154657_pro"
+}

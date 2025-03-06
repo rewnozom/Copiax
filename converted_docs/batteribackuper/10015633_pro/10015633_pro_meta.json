@@ -1,0 +1,351 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EXTRAUTRUSTNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.880126953125,
+          417.09423828125
+        ],
+        [
+          181.7239990234375,
+          417.09423828125
+        ],
+        [
+          181.7239990234375,
+          430.8671875
+        ],
+        [
+          69.880126953125,
+          430.8671875
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.0299987792969,
+          118.920166015625
+        ],
+        [
+          395.7340087890625,
+          118.920166015625
+        ],
+        [
+          395.7340087890625,
+          133.926513671875
+        ],
+        [
+          319.0299987792969,
+          133.926513671875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.030029296875,
+          389.60003662109375
+        ],
+        [
+          408.57403564453125,
+          389.60003662109375
+        ],
+        [
+          408.57403564453125,
+          403.732421875
+        ],
+        [
+          319.030029296875,
+          403.732421875
+        ]
+      ]
+    },
+    {
+      "title": "CE-m\u00e4rkt\n \n- EN61000-6-3:2001,\n \nEN61000-6-2:2005",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.52801513671875,
+          511.0380859375
+        ],
+        [
+          529.4744262695312,
+          511.0380859375
+        ],
+        [
+          529.4744262695312,
+          523.3720703125
+        ],
+        [
+          319.52801513671875,
+          523.3720703125
+        ]
+      ]
+    },
+    {
+      "title": "SM40 0,5-10A \nSTR\u00d6MF\u00d6RS\u00d6RJNING MED PLATS F\u00d6R BATTERIER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.5556640625,
+          48.30810546875
+        ],
+        [
+          395.0489807128906,
+          48.30810546875
+        ],
+        [
+          395.0489807128906,
+          95.8883056640625
+        ],
+        [
+          77.5556640625,
+          95.8883056640625
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.20751953125,
+          115.014404296875
+        ],
+        [
+          125.95094299316406,
+          115.014404296875
+        ],
+        [
+          125.95094299316406,
+          127.553955078125
+        ],
+        [
+          70.20751953125,
+          127.553955078125
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.02996826171875,
+          114.808837890625
+        ],
+        [
+          382.56085205078125,
+          114.808837890625
+        ],
+        [
+          382.56085205078125,
+          126.8505859375
+        ],
+        [
+          319.02996826171875,
+          126.8505859375
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.02996826171875,
+          273.60888671875
+        ],
+        [
+          401.15655517578125,
+          273.60888671875
+        ],
+        [
+          401.15655517578125,
+          285.94287109375
+        ],
+        [
+          319.02996826171875,
+          285.94287109375
+        ]
+      ]
+    },
+    {
+      "title": "Optional Accessories \n Str\u00f6mf\u00f6rs\u00f6rjning med plats f\u00f6r batteri",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          4.199999809265137,
+          150.03436279296875
+        ],
+        [
+          481.940673828125,
+          150.03436279296875
+        ],
+        [
+          481.940673828125,
+          176.3759765625
+        ],
+        [
+          4.199999809265137,
+          176.3759765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          376
+        ],
+        [
+          "TableCell",
+          137
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\10015633_pro"
+}

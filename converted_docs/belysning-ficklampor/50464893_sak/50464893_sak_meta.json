@@ -1,0 +1,1345 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MSDS REPORT \nMSDS \u62a5\u544a",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          157.9399871826172,
+          185.934814453125
+        ],
+        [
+          431.97198486328125,
+          185.934814453125
+        ],
+        [
+          431.97198486328125,
+          279.36474609375
+        ],
+        [
+          157.9399871826172,
+          279.36474609375
+        ]
+      ]
+    },
+    {
+      "title": "Client Name",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.53271484375,
+          317.18896484375
+        ],
+        [
+          146.12460327148438,
+          317.18896484375
+        ],
+        [
+          146.12460327148438,
+          350.90185546875
+        ],
+        [
+          64.53271484375,
+          350.90185546875
+        ]
+      ]
+    },
+    {
+      "title": "Shenzhen Anbotek Compliance Laboratory Limited\n\u6df1\u5733\u5b89\u535a\u68c0\u6d4b\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.119140625,
+          629.033203125
+        ],
+        [
+          516.10400390625,
+          629.033203125
+        ],
+        [
+          516.10400390625,
+          701.392578125
+        ],
+        [
+          77.119140625,
+          701.392578125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.233642578125,
+          764.2958984375
+        ],
+        [
+          156.275390625,
+          764.2958984375
+        ],
+        [
+          156.275390625,
+          779.0966796875
+        ],
+        [
+          42.233642578125,
+          779.0966796875
+        ]
+      ]
+    },
+    {
+      "title": "MATERIAL SAFETY DATA SHEET\n\u6750\u6599\u5b89\u5168\u6570\u636e\u6e05\u5355",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          172.86328125,
+          138.140625
+        ],
+        [
+          421.97265625,
+          138.140625
+        ],
+        [
+          421.97265625,
+          178.8427734375
+        ],
+        [
+          172.86328125,
+          178.8427734375
+        ]
+      ]
+    },
+    {
+      "title": "1. Chemical Product and Company Identification\u4ea7\u54c1\u53ca\u7533\u8bf7\u516c\u53f8\u4fe1\u606f",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.18399810791016,
+          187.2396240234375
+        ],
+        [
+          513.447265625,
+          187.2396240234375
+        ],
+        [
+          513.447265625,
+          204.024658203125
+        ],
+        [
+          65.18399810791016,
+          204.024658203125
+        ]
+      ]
+    },
+    {
+      "title": "Code: AB-AB-11-c",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.306396484375,
+          765.529296875
+        ],
+        [
+          481.0,
+          765.529296875
+        ],
+        [
+          481.0,
+          778.685546875
+        ],
+        [
+          42.306396484375,
+          778.685546875
+        ]
+      ]
+    },
+    {
+      "title": "Report No.: 18270BC30186504 Page 3 of 11 \n\u62a5\u544a\u7f16\u53f7 \u7b2c 3 \u9875 \u5171 11 \u9875",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          61.6953125,
+          93.94384765625
+        ],
+        [
+          528.0,
+          93.94384765625
+        ],
+        [
+          528.0,
+          126.2177734375
+        ],
+        [
+          61.6953125,
+          126.2177734375
+        ]
+      ]
+    },
+    {
+      "title": "2. Composition/Information on Ingredients\u539f\u6599\u6210\u5206\u4fe1\u606f",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.60546875,
+          131.35693359375
+        ],
+        [
+          436.814453125,
+          131.35693359375
+        ],
+        [
+          436.814453125,
+          150.0634765625
+        ],
+        [
+          64.60546875,
+          150.0634765625
+        ]
+      ]
+    },
+    {
+      "title": "3. Hazards Summarizing \u5371\u9669\u6982\u8ff0",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.80517578125,
+          387.287109375
+        ],
+        [
+          288.10546875,
+          387.287109375
+        ],
+        [
+          288.10546875,
+          404.9658203125
+        ],
+        [
+          63.80517578125,
+          404.9658203125
+        ]
+      ]
+    },
+    {
+      "title": "Danger sort \u5371\u9669\u7c7b\u522b: N/A\nRoutes of entry\u8fdb\u5165\u9014\u5f84:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.205322265625,
+          412.3662109375
+        ],
+        [
+          213.0234375,
+          412.3662109375
+        ],
+        [
+          213.0234375,
+          443.29010009765625
+        ],
+        [
+          64.205322265625,
+          443.29010009765625
+        ]
+      ]
+    },
+    {
+      "title": "Health harm \u5065\u5eb7\u635f\u5bb3:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.569091796875,
+          625.3330078125
+        ],
+        [
+          192.361328125,
+          625.3330078125
+        ],
+        [
+          192.361328125,
+          641.7783203125
+        ],
+        [
+          64.569091796875,
+          641.7783203125
+        ]
+      ]
+    },
+    {
+      "title": "Code: AB-AB-11-c",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.65234375,
+          763.4736328125
+        ],
+        [
+          481.0,
+          763.4736328125
+        ],
+        [
+          481.0,
+          778.2744140625
+        ],
+        [
+          43.65234375,
+          778.2744140625
+        ]
+      ]
+    },
+    {
+      "title": "Report No.: 18270BC30186504 Page 4 of 11 \n\u62a5\u544a\u7f16\u53f7 \u7b2c 4 \u9875 \u5171 11 \u9875",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          65.18399810791016,
+          95.8453369140625
+        ],
+        [
+          522.47998046875,
+          95.8453369140625
+        ],
+        [
+          522.47998046875,
+          124.5732421875
+        ],
+        [
+          65.18399810791016,
+          124.5732421875
+        ]
+      ]
+    },
+    {
+      "title": "4. First Aid Measures \u6025\u6551\u63aa\u65bd",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.8779296875,
+          277.72021484375
+        ],
+        [
+          266.4248046875,
+          277.72021484375
+        ],
+        [
+          266.4248046875,
+          294.16552734375
+        ],
+        [
+          63.8779296875,
+          294.16552734375
+        ]
+      ]
+    },
+    {
+      "title": "5. Fire Fighting Measures \u6d88\u9632\u63aa\u65bd",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.1689453125,
+          605.5986328125
+        ],
+        [
+          297.5634765625,
+          605.5986328125
+        ],
+        [
+          297.5634765625,
+          622.0439453125
+        ],
+        [
+          64.1689453125,
+          622.0439453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          44.489013671875,
+          765.1181640625
+        ],
+        [
+          153.365234375,
+          765.1181640625
+        ],
+        [
+          153.365234375,
+          779.0966796875
+        ],
+        [
+          44.489013671875,
+          779.0966796875
+        ]
+      ]
+    },
+    {
+      "title": "6. Accidental Release Measures \u610f\u5916\u6cc4\u6f0f\u63aa\u65bd",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.0048828125,
+          348.02392578125
+        ],
+        [
+          364.93359375,
+          348.02392578125
+        ],
+        [
+          364.93359375,
+          364.88037109375
+        ],
+        [
+          63.0048828125,
+          364.88037109375
+        ]
+      ]
+    },
+    {
+      "title": "7. Handling and Storage \u64cd\u4f5c\u548c\u8d2e\u5b58",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.2958984375,
+          519.671875
+        ],
+        [
+          299.32232666015625,
+          519.671875
+        ],
+        [
+          299.32232666015625,
+          536.939453125
+        ],
+        [
+          63.2958984375,
+          536.939453125
+        ]
+      ]
+    },
+    {
+      "title": "Handling \u64cd\u4f5c:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.968505859375,
+          543.9287109375
+        ],
+        [
+          151.0760040283203,
+          543.9287109375
+        ],
+        [
+          151.0760040283203,
+          559.5517578125
+        ],
+        [
+          62.968505859375,
+          559.5517578125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          43.361328125,
+          765.1181640625
+        ],
+        [
+          153.65625,
+          765.1181640625
+        ],
+        [
+          153.65625,
+          779.0966796875
+        ],
+        [
+          43.361328125,
+          779.0966796875
+        ]
+      ]
+    },
+    {
+      "title": "Report No.: 18270BC30186504 Page 6 of 11 \n\u62a5\u544a\u7f16\u53f7 \u7b2c 6 \u9875 \u5171 11 \u9875",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.51416015625,
+          94.252197265625
+        ],
+        [
+          522.47998046875,
+          94.252197265625
+        ],
+        [
+          522.47998046875,
+          124.676025390625
+        ],
+        [
+          63.51416015625,
+          124.676025390625
+        ]
+      ]
+    },
+    {
+      "title": "Storage \u8d2e\u5b58:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.38720703125,
+          246.47412109375
+        ],
+        [
+          142.23388671875,
+          246.47412109375
+        ],
+        [
+          142.23388671875,
+          261.68603515625
+        ],
+        [
+          64.38720703125,
+          261.68603515625
+        ]
+      ]
+    },
+    {
+      "title": "8. Exposure Controls/Personal Protection \u66b4\u9732\u63a7\u5236/\u81ea\u6211\u9632\u62a4",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.60546875,
+          551.3291015625
+        ],
+        [
+          462.1000061035156,
+          551.3291015625
+        ],
+        [
+          462.1000061035156,
+          568.5966796875
+        ],
+        [
+          64.60546875,
+          568.5966796875
+        ]
+      ]
+    },
+    {
+      "title": "9. Physical and Chemical Properties \u7269\u7406\u548c\u5316\u5b66\u7279\u6027",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          65.18399810791016,
+          460.0496520996094
+        ],
+        [
+          407.58233642578125,
+          460.0496520996094
+        ],
+        [
+          407.58233642578125,
+          476.5029296875
+        ],
+        [
+          65.18399810791016,
+          476.5029296875
+        ]
+      ]
+    },
+    {
+      "title": "10. Stability and Reactivity \u7a33\u5b9a\u6027\u548c\u53cd\u5e94\u6d3b\u6027",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          65.18399810791016,
+          654.1123046875
+        ],
+        [
+          357.7699890136719,
+          654.1123046875
+        ],
+        [
+          357.7699890136719,
+          670.5576171875
+        ],
+        [
+          65.18399810791016,
+          670.5576171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.125244140625,
+          764.70703125
+        ],
+        [
+          154.3837890625,
+          764.70703125
+        ],
+        [
+          154.3837890625,
+          778.685546875
+        ],
+        [
+          44.125244140625,
+          778.685546875
+        ]
+      ]
+    },
+    {
+      "title": "Hazardous Polymerization: Will not occur.",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          65.18399810791016,
+          137.421142578125
+        ],
+        [
+          297.708984375,
+          137.421142578125
+        ],
+        [
+          297.708984375,
+          152.427490234375
+        ],
+        [
+          65.18399810791016,
+          152.427490234375
+        ]
+      ]
+    },
+    {
+      "title": "11. Toxicological Information\u6709\u5bb3\u7269\u8d28\u4fe1\u606f",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          63.44140625,
+          287.99853515625
+        ],
+        [
+          343.689453125,
+          287.99853515625
+        ],
+        [
+          343.689453125,
+          306.08837890625
+        ],
+        [
+          63.44140625,
+          306.08837890625
+        ]
+      ]
+    },
+    {
+      "title": "12. Ecological Information\u751f\u6001\u4fe1\u606f",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          63.2958984375,
+          617.1103515625
+        ],
+        [
+          295.7223205566406,
+          617.1103515625
+        ],
+        [
+          295.7223205566406,
+          636.5442962646484
+        ],
+        [
+          63.2958984375,
+          636.5442962646484
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          44.45263671875,
+          763.884765625
+        ],
+        [
+          154.529296875,
+          763.884765625
+        ],
+        [
+          154.529296875,
+          779.5078125
+        ],
+        [
+          44.45263671875,
+          779.5078125
+        ]
+      ]
+    },
+    {
+      "title": "13. Disposal Considerations\u5e9f\u5f03\u5904\u7406",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          64.96923828125,
+          176.067626953125
+        ],
+        [
+          309.931640625,
+          176.067626953125
+        ],
+        [
+          309.931640625,
+          193.951904296875
+        ],
+        [
+          64.96923828125,
+          193.951904296875
+        ]
+      ]
+    },
+    {
+      "title": "14. Transport Information\u8fd0\u8f93\u4fe1\u606f",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          64.09619140625,
+          457.5908203125
+        ],
+        [
+          292.1300048828125,
+          457.5908203125
+        ],
+        [
+          292.1300048828125,
+          474.8583984375
+        ],
+        [
+          64.09619140625,
+          474.8583984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.0517578125,
+          767.99609375
+        ],
+        [
+          160.349609375,
+          767.99609375
+        ],
+        [
+          160.349609375,
+          781.974609375
+        ],
+        [
+          42.0517578125,
+          781.974609375
+        ]
+      ]
+    },
+    {
+      "title": "15. Regulatory Information\u76d1\u7ba1\u4fe1\u606f",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          63.95068359375,
+          440.3232421875
+        ],
+        [
+          299.455078125,
+          440.3232421875
+        ],
+        [
+          299.455078125,
+          458.4130859375
+        ],
+        [
+          63.95068359375,
+          458.4130859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.233642578125,
+          764.70703125
+        ],
+        [
+          154.23828125,
+          764.70703125
+        ],
+        [
+          154.23828125,
+          779.5078125
+        ],
+        [
+          42.233642578125,
+          779.5078125
+        ]
+      ]
+    },
+    {
+      "title": "16. Other Information\u5176\u4ed6\u4fe1\u606f",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          64.60546875,
+          143.896484375
+        ],
+        [
+          262.9700012207031,
+          143.896484375
+        ],
+        [
+          262.9700012207031,
+          161.1640625
+        ],
+        [
+          64.60546875,
+          161.1640625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          41.39697265625,
+          765.9404296875
+        ],
+        [
+          154.529296875,
+          765.9404296875
+        ],
+        [
+          154.529296875,
+          779.9189453125
+        ],
+        [
+          41.39697265625,
+          779.9189453125
+        ]
+      ]
+    },
+    {
+      "title": "Code: AB-AB-11-c",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          397.236328125,
+          764.2958984375
+        ],
+        [
+          494.435546875,
+          764.2958984375
+        ],
+        [
+          494.435546875,
+          778.2744140625
+        ],
+        [
+          397.236328125,
+          778.2744140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          315
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          369
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          314
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464893_sak"
+}

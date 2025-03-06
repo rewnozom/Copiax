@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Dark background -->
+  <rect width="800" height="500" fill="#1e2030" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" fill="#e4ecff" text-anchor="middle" font-weight="bold">Markdown-formatering av Svar</text>
+  
+  <!-- Example panel -->
+  <rect x="100" y="70" width="600" height="400" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  
+  <!-- Header section -->
+  <rect x="120" y="90" width="560" height="50" fill="#374151" rx="6" ry="6"/>
+  <text x="400" y="108" font-family="Arial, sans-serif" font-size="16" fill="#38bdf8" text-anchor="middle" font-weight="bold" xml:space="preserve"># Kompatibilitetsinformation för ASSA Låshus 310-50</text>
+  <text x="400" y="130" font-family="Arial, sans-serif" font-size="14" fill="#a5b4fc" text-anchor="middle" font-style="italic">Rubrik - Level 1</text>
+  
+  <!-- Product details -->
+  <rect x="120" y="150" width="560" height="60" fill="#374151" rx="6" ry="6"/>
+  <text x="150" y="172" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start" font-weight="bold" xml:space="preserve">**Artikelnummer:** EX1234</text>
+  <text x="500" y="172" font-family="Arial, sans-serif" font-size="14" fill="#a5b4fc" text-anchor="start" font-style="italic">Fetstil för att betona</text>
+  <text x="150" y="197" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start" font-weight="bold" xml:space="preserve">**EAN:** 1234567890123</text>
+  
+  <!-- Compatible products section -->
+  <rect x="120" y="220" width="560" height="40" fill="#374151" rx="6" ry="6"/>
+  <text x="150" y="245" font-family="Arial, sans-serif" font-size="16" fill="#38bdf8" text-anchor="start" font-weight="bold" xml:space="preserve">## Passar till</text>
+  <text x="500" y="245" font-family="Arial, sans-serif" font-size="14" fill="#a5b4fc" text-anchor="start" font-style="italic">Rubrik - Level 2</text>
+  
+  <!-- List of compatible products -->
+  <rect x="120" y="270" width="560" height="90" fill="#374151" rx="6" ry="6"/>
+  <text x="150" y="290" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start" xml:space="preserve">- ASSA ABLOY Trycke 6696 40-75mm prion PP (Art.nr: 50093073)</text>
+  <text x="500" y="290" font-family="Arial, sans-serif" font-size="14" fill="#a5b4fc" text-anchor="start" font-style="italic">Punktlista</text>
+  <text x="150" y="315" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start" xml:space="preserve">- ASSA ABLOY Trycke 6696 40-75mm krom PP (Art.nr: 50010481)</text>
+  <text x="150" y="340" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start" xml:space="preserve">- ASSA ABLOY Trycke 6696 40-75mm brunoxid SB (Art.nr: 124852)</text>
+  
+  <!-- Replacing products section -->
+  <rect x="120" y="370" width="560" height="90" fill="#374151" rx="6" ry="6"/>
+  <text x="150" y="395" font-family="Arial, sans-serif" font-size="16" fill="#38bdf8" text-anchor="start" font-weight="bold" xml:space="preserve">## Ersätter</text>
+  <text x="500" y="395" font-family="Arial, sans-serif" font-size="14" fill="#a5b4fc" text-anchor="start" font-style="italic">Rubrik - Level 2</text>
+  <text x="150" y="425" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start" xml:space="preserve">- ASSA 310-51</text>
+  <text x="500" y="425" font-family="Arial, sans-serif" font-size="14" fill="#a5b4fc" text-anchor="start" font-style="italic">Punktlista</text>
+</svg>

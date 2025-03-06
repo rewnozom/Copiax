@@ -1,0 +1,123 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TRYGGA HEM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          396.6307067871094,
+          25.92706298828125
+        ],
+        [
+          567.771484375,
+          25.92706298828125
+        ],
+        [
+          567.771484375,
+          55.605712890625
+        ],
+        [
+          396.6307067871094,
+          55.605712890625
+        ]
+      ]
+    },
+    {
+      "title": "FB-180 RM\nBRANDFILT SILIKON, 180 CM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.83100128173828,
+          97.6954345703125
+        ],
+        [
+          449.328125,
+          97.6954345703125
+        ],
+        [
+          449.328125,
+          163.630859375
+        ],
+        [
+          36.83100128173828,
+          163.630859375
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.65087890625,
+          692.7587890625
+        ],
+        [
+          110.36767578125,
+          692.7587890625
+        ],
+        [
+          110.36767578125,
+          703.6211700439453
+        ],
+        [
+          39.65087890625,
+          703.6211700439453
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50461555_PRO"
+}

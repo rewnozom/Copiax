@@ -1,0 +1,204 @@
+{
+  "table_of_contents": [
+    {
+      "title": "12-28 (12V28AH) \nUSL\nUSL SERIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          403.06048583984375,
+          64.120361328125
+        ],
+        [
+          602.1847534179688,
+          64.120361328125
+        ],
+        [
+          602.1847534179688,
+          129.5721435546875
+        ],
+        [
+          403.06048583984375,
+          129.5721435546875
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          299.48388671875,
+          137.8427734375
+        ],
+        [
+          411.810546875,
+          137.8427734375
+        ],
+        [
+          411.810546875,
+          153.99310302734375
+        ],
+        [
+          299.48388671875,
+          153.99310302734375
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.99609375,
+          45.149169921875
+        ],
+        [
+          114.84239959716797,
+          45.149169921875
+        ],
+        [
+          114.84239959716797,
+          58.79498291015625
+        ],
+        [
+          38.99609375,
+          58.79498291015625
+        ]
+      ]
+    },
+    {
+      "title": "T3 Terminal",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.944091796875,
+          74.31982421875
+        ],
+        [
+          124.23489379882812,
+          74.31982421875
+        ],
+        [
+          124.23489379882812,
+          89.1839599609375
+        ],
+        [
+          45.944091796875,
+          89.1839599609375
+        ]
+      ]
+    },
+    {
+      "title": "Cycle use charging characteristics \nCapacity Current Voltage\nTemperature:20 C",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          316.48828125,
+          204.3671875
+        ],
+        [
+          568.3163452148438,
+          204.3671875
+        ],
+        [
+          568.3163452148438,
+          233.0567626953125
+        ],
+        [
+          316.48828125,
+          233.0567626953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          519
+        ],
+        [
+          "TableCell",
+          303
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          407
+        ],
+        [
+          "Line",
+          210
+        ],
+        [
+          "Figure",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142576_pro"
+}

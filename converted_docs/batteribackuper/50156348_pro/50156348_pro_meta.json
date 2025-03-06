@@ -1,0 +1,104 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tillvalskort",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          469.1171875,
+          31.7086181640625
+        ],
+        [
+          563.98828125,
+          31.7086181640625
+        ],
+        [
+          563.98828125,
+          56.0682373046875
+        ],
+        [
+          469.1171875,
+          56.0682373046875
+        ]
+      ]
+    },
+    {
+      "title": "PoE switch 4p expansion kit",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.048828125,
+          105.25
+        ],
+        [
+          346.017578125,
+          105.25
+        ],
+        [
+          346.017578125,
+          131.9736328125
+        ],
+        [
+          34.048828125,
+          131.9736328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50156348_pro"
+}

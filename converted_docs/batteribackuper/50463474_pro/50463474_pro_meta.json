@@ -1,0 +1,150 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ETHERNET INTERFACE \nINTE-C\n\nV1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.806640625,
+          34.637939453125
+        ],
+        [
+          399.85546875,
+          34.637939453125
+        ],
+        [
+          399.85546875,
+          82.0247802734375
+        ],
+        [
+          67.806640625,
+          82.0247802734375
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.9892578125,
+          223.2451171875
+        ],
+        [
+          134.44921875,
+          223.2451171875
+        ],
+        [
+          134.44921875,
+          236.8125
+        ],
+        [
+          69.9892578125,
+          236.8125
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.80999755859375,
+          129.30126953125
+        ],
+        [
+          388.505859375,
+          129.30126953125
+        ],
+        [
+          388.505859375,
+          143.07421875
+        ],
+        [
+          311.80999755859375,
+          143.07421875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.80999755859375,
+          264.56396484375
+        ],
+        [
+          398.7140197753906,
+          264.56396484375
+        ],
+        [
+          398.7140197753906,
+          277.72021484375
+        ],
+        [
+          311.80999755859375,
+          277.72021484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50463474_pro"
+}

@@ -1,0 +1,197 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PowerWalker VFI 1000-10000 CRM Series\n\nPowerWalker VFI 1000-10000 CRS Series",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.0673828125,
+          60.128173828125
+        ],
+        [
+          501.12890625,
+          60.128173828125
+        ],
+        [
+          501.12890625,
+          117.070068359375
+        ],
+        [
+          35.0673828125,
+          117.070068359375
+        ]
+      ]
+    },
+    {
+      "title": "TECHNICAL SPECIFICATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.68000030517578,
+          478.55859375
+        ],
+        [
+          171.67642211914062,
+          478.55859375
+        ],
+        [
+          171.67642211914062,
+          491.9759216308594
+        ],
+        [
+          49.68000030517578,
+          491.9759216308594
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          377.73828125,
+          18.93780517578125
+        ],
+        [
+          589.59765625,
+          18.93780517578125
+        ],
+        [
+          589.59765625,
+          56.11962890625
+        ],
+        [
+          377.73828125,
+          56.11962890625
+        ]
+      ]
+    },
+    {
+      "title": "TECHNICAL DIFFERENCES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.94482421875,
+          79.4000244140625
+        ],
+        [
+          161.6976776123047,
+          79.4000244140625
+        ],
+        [
+          161.6976776123047,
+          93.81585693359375
+        ],
+        [
+          47.94482421875,
+          93.81585693359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "TableCell",
+          75
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "TableCell",
+          146
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135345_pro"
+}

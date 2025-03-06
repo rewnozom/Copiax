@@ -1,0 +1,85 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PoE injector 4p",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.70361328125,
+          106.586181640625
+        ],
+        [
+          203.7109375,
+          106.586181640625
+        ],
+        [
+          203.7109375,
+          131.665283203125
+        ],
+        [
+          34.70361328125,
+          131.665283203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50156351_pro"
+}

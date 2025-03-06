@@ -1,0 +1,273 @@
+{
+  "table_of_contents": [
+    {
+      "title": "USC12-75 (12V75AH) \nUSC SERIES-Deep Cycle",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          252.74707031249997,
+          22.43896484375
+        ],
+        [
+          473.4560241699219,
+          22.43896484375
+        ],
+        [
+          473.4560241699219,
+          80.655029296875
+        ],
+        [
+          252.74707031249997,
+          80.655029296875
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          257.83984375,
+          93.8984375
+        ],
+        [
+          355.0390625,
+          93.8984375
+        ],
+        [
+          355.0390625,
+          106.853271484375
+        ],
+        [
+          257.83984375,
+          106.853271484375
+        ]
+      ]
+    },
+    {
+      "title": "0 0 Co ns ta nt C ur re nt D is ch ar ge (A m pe re s) a t 2 0 C 6 8 F )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          170.53515625,
+          536.4815063476562
+        ],
+        [
+          466.4347229003906,
+          536.4815063476562
+        ],
+        [
+          466.4347229003906,
+          549.0365295410156
+        ],
+        [
+          170.53515625,
+          549.0365295410156
+        ]
+      ]
+    },
+    {
+      "title": "0 0 Co ns ta nt P ow er D is ch ar ge (W at ts ) a t 2 0 C (6 8 F )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.0859375,
+          663.6015625
+        ],
+        [
+          458.6021423339844,
+          663.6015625
+        ],
+        [
+          458.6021423339844,
+          677.0177917480469
+        ],
+        [
+          185.0859375,
+          677.0177917480469
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.088134765625,
+          27.592529296875
+        ],
+        [
+          105.73934173583984,
+          27.592529296875
+        ],
+        [
+          105.73934173583984,
+          41.055908203125
+        ],
+        [
+          42.088134765625,
+          41.055908203125
+        ]
+      ]
+    },
+    {
+      "title": "Discharge characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          79.81103515625,
+          198.5478515625
+        ],
+        [
+          231.3259735107422,
+          198.5478515625
+        ],
+        [
+          231.3259735107422,
+          212.2578125
+        ],
+        [
+          79.81103515625,
+          212.2578125
+        ]
+      ]
+    },
+    {
+      "title": "Cycle use charging characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          342.6072082519531,
+          197.7587890625
+        ],
+        [
+          535.759765625,
+          197.7587890625
+        ],
+        [
+          535.759765625,
+          212.65234375
+        ],
+        [
+          342.6072082519531,
+          212.65234375
+        ]
+      ]
+    },
+    {
+      "title": "Self Discharge Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.662109375,
+          597.71484375
+        ],
+        [
+          461.2828063964844,
+          597.71484375
+        ],
+        [
+          461.2828063964844,
+          608.76171875
+        ],
+        [
+          318.662109375,
+          608.76171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          781
+        ],
+        [
+          "TableCell",
+          290
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          365
+        ],
+        [
+          "Line",
+          165
+        ],
+        [
+          "Figure",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142572_pro"
+}

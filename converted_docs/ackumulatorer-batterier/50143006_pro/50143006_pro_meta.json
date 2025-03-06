@@ -1,0 +1,289 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Lithium Iron Phosphate (LiFePO4) Battery\nSPLi12-12 (12.8V, 12Ah)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          341.8504638671875,
+          41.2674560546875
+        ],
+        [
+          549.146484375,
+          41.2674560546875
+        ],
+        [
+          549.146484375,
+          79.2972412109375
+        ],
+        [
+          341.8504638671875,
+          79.2972412109375
+        ]
+      ]
+    },
+    {
+      "title": "Features of LiFePO4 Battery",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.126708984375,
+          97.2843017578125
+        ],
+        [
+          176.2099609375,
+          97.2843017578125
+        ],
+        [
+          176.2099609375,
+          111.69061279296875
+        ],
+        [
+          48.126708984375,
+          111.69061279296875
+        ]
+      ]
+    },
+    {
+      "title": "Physical Dimension",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.65380859375,
+          279.36474609375
+        ],
+        [
+          139.3489990234375,
+          279.36474609375
+        ],
+        [
+          139.3489990234375,
+          290.87646484375
+        ],
+        [
+          47.65380859375,
+          290.87646484375
+        ]
+      ]
+    },
+    {
+      "title": "Application",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.4320068359375,
+          279.9814453125
+        ],
+        [
+          358.240234375,
+          279.9814453125
+        ],
+        [
+          358.240234375,
+          291.4931640625
+        ],
+        [
+          303.4320068359375,
+          291.4931640625
+        ]
+      ]
+    },
+    {
+      "title": "Specification",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.94482421875,
+          419.14990234375
+        ],
+        [
+          110.07666015625,
+          419.14990234375
+        ],
+        [
+          110.07666015625,
+          431.1286926269531
+        ],
+        [
+          47.94482421875,
+          431.1286926269531
+        ]
+      ]
+    },
+    {
+      "title": "Cycle Life Curve",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.7265625,
+          518.849609375
+        ],
+        [
+          125.13671875,
+          518.849609375
+        ],
+        [
+          125.13671875,
+          530.361328125
+        ],
+        [
+          47.7265625,
+          530.361328125
+        ]
+      ]
+    },
+    {
+      "title": "Charging Characteristics @ 0.5C 25\u00b0C",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.783203125,
+          292.52099609375
+        ],
+        [
+          479.302734375,
+          292.52099609375
+        ],
+        [
+          479.302734375,
+          304.67181396484375
+        ],
+        [
+          301.783203125,
+          304.67181396484375
+        ]
+      ]
+    },
+    {
+      "title": "Self Discharge Characteristics Curve",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          299.1640625,
+          518.02734375
+        ],
+        [
+          474.35546875,
+          518.02734375
+        ],
+        [
+          474.35546875,
+          530.361328125
+        ],
+        [
+          299.1640625,
+          530.361328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "TableCell",
+          59
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Figure",
+          7
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50143006_pro"
+}

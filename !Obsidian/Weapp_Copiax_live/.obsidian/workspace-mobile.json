@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "39bfab7af6e823f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "777c301545de0e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a011b682604cdf61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLAN - GPT o1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d11abb6ac497bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1e617e9861b4366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan Claude 3.5.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fed0a6419fb13961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e5824076397c4ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llm_out_func.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13d69f5b2ac0013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Main/Guide/Guide till Fredrik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "944e507dfae96362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c8ffa61db4b2c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unified_py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "230571ac9cd75cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unified_py.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4cfb2a2843001c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fullilito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec1cad6024f87a20",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "104aedfe534d75af",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d5ebcc4c09212171",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#llama-",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ab014869aca81df8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3bee29ce5031333f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "52f7a19411941759",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9cfb2dcceb56c757",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Fullilito.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "67217b5021d0b928",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Fullilito.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3342eb560796908e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Fullilito.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e4cfb2a2843001c1",
+  "lastOpenFiles": [
+    "Unified_py.md",
+    "Fullilito.md",
+    "PLAN - GPT o1.md",
+    "Unified_info.md",
+    "Untitled 3.md",
+    "!Main/Guide/Guide till Fredrik.md",
+    "!Main/Guide/Fredrik Guide.md",
+    "func_markdown/remove_code.md",
+    "func_markdown/remove_function.md",
+    "func_markdown/set_show_chat.md",
+    "func_markdown/update_action_status.md",
+    "func_markdown/unreachable.md",
+    "func_markdown/update_method_in_class.md",
+    "func_markdown/update_firmware.md",
+    "func_markdown/utility_function.md",
+    "func_markdown/validate_syntax.md",
+    "func_markdown/update_system_prompt_display.md",
+    "LLM_out_sorted.md",
+    "func_markdown/write_file.md",
+    "Untitled",
+    "llm_out_func.md",
+    "Untitled 2.md",
+    "Plan Claude 3.5.md",
+    "!Main/main.py 1.md",
+    "Untitled 1.md",
+    "Surah Al-Jinn.md",
+    "!full_backend.md.md",
+    "ZRWPhjRj",
+    "ZhX6vRgT",
+    "Zf8b26qP",
+    "Z98T7wVQ",
+    "Z9n1IAwJ",
+    "z0lFKYuF",
+    "yojUw4wX",
+    "yjs2Akhi",
+    "xytNiYYp",
+    "!Main/Guide/Pasted image 20240929110850.png",
+    "!Main/Guide/Pasted image 20240929112137.png",
+    "!Main/Guide/Pasted image 20240929111520.png",
+    "!Main/Guide/Pasted image 20240929111347.png",
+    "Guide/Pasted image 20240929110850.png",
+    "Guide/Pasted image 20240929112137.png",
+    "Guide/Pasted image 20240929111520.png",
+    "Guide/Pasted image 20240929111347.png",
+    "Untitled.canvas"
+  ]
+}

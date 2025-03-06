@@ -1,0 +1,204 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BS127N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.472000122070312,
+          139.682373046875
+        ],
+        [
+          111.16800689697266,
+          139.682373046875
+        ],
+        [
+          111.16800689697266,
+          166.669189453125
+        ],
+        [
+          30.472000122070312,
+          166.669189453125
+        ]
+      ]
+    },
+    {
+      "title": "BS127N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.472015380859375,
+          201.66064453125
+        ],
+        [
+          72.041015625,
+          201.66064453125
+        ],
+        [
+          72.041015625,
+          214.40576171875
+        ],
+        [
+          30.472015380859375,
+          214.40576171875
+        ]
+      ]
+    },
+    {
+      "title": "Details",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          313.9369812011719,
+          483.0810546875
+        ],
+        [
+          350.0059814453125,
+          483.0810546875
+        ],
+        [
+          350.0059814453125,
+          495.74761962890625
+        ],
+        [
+          313.9369812011719,
+          495.74761962890625
+        ]
+      ]
+    },
+    {
+      "title": "BS127N",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.19287109375,
+          29.0362548828125
+        ],
+        [
+          116.115234375,
+          29.0362548828125
+        ],
+        [
+          116.115234375,
+          57.9697265625
+        ],
+        [
+          30.19287109375,
+          57.9697265625
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.90185546875,
+          86.0809326171875
+        ],
+        [
+          159.185546875,
+          86.0809326171875
+        ],
+        [
+          159.185546875,
+          99.3399658203125
+        ],
+        [
+          29.90185546875,
+          99.3399658203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50457566_pro"
+}

@@ -1,0 +1,220 @@
+{
+  "table_of_contents": [
+    {
+      "title": "NOVA Serien",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          460.095703125,
+          30.7835693359375
+        ],
+        [
+          578.248046875,
+          30.7835693359375
+        ],
+        [
+          578.248046875,
+          55.5543212890625
+        ],
+        [
+          460.095703125,
+          55.5543212890625
+        ]
+      ]
+    },
+    {
+      "title": "NOVA FLX L",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.921142578125,
+          105.04443359375
+        ],
+        [
+          174.6116943359375,
+          105.04443359375
+        ],
+        [
+          174.6116943359375,
+          132.17919921875
+        ],
+        [
+          32.921142578125,
+          132.17919921875
+        ]
+      ]
+    },
+    {
+      "title": "POWER SUPPLIES - MADE IN SWEDEN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.41419982910156,
+          20.0941162109375
+        ],
+        [
+          189.451171875,
+          20.0941162109375
+        ],
+        [
+          189.451171875,
+          40.6214599609375
+        ],
+        [
+          103.41419982910156,
+          40.6214599609375
+        ]
+      ]
+    },
+    {
+      "title": "NOVA Serien",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          460.96875,
+          30.4752197265625
+        ],
+        [
+          577.95703125,
+          30.4752197265625
+        ],
+        [
+          577.95703125,
+          55.400146484375
+        ],
+        [
+          460.96875,
+          55.400146484375
+        ]
+      ]
+    },
+    {
+      "title": "Exempel p\u00e5 tillval",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.049560546875,
+          708.3818359375
+        ],
+        [
+          117.53762817382812,
+          708.3818359375
+        ],
+        [
+          117.53762817382812,
+          720.4995269775391
+        ],
+        [
+          36.049560546875,
+          720.4995269775391
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          368
+        ],
+        [
+          "TableCell",
+          210
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50457193_pro"
+}

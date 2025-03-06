@@ -1,0 +1,169 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PRODUKTBLAD - STR\u00d6MF\u00d6RS\u00d6RJNING FR\u00c5N MILLETEKNIK",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.0791015625,
+          78.2694091796875
+        ],
+        [
+          434.1953125,
+          78.2694091796875
+        ],
+        [
+          434.1953125,
+          93.9952392578125
+        ],
+        [
+          67.0791015625,
+          93.9952392578125
+        ]
+      ]
+    },
+    {
+      "title": "Ben\u00e4mning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.03147888183594,
+          275.54779052734375
+        ],
+        [
+          120.98974609375,
+          275.54779052734375
+        ],
+        [
+          120.98974609375,
+          286.970703125
+        ],
+        [
+          68.03147888183594,
+          286.970703125
+        ]
+      ]
+    },
+    {
+      "title": "Krav som produkten uppfyller",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          302.947265625,
+          303.8271484375
+        ],
+        [
+          434.486328125,
+          303.8271484375
+        ],
+        [
+          434.486328125,
+          314.836669921875
+        ],
+        [
+          302.947265625,
+          314.836669921875
+        ]
+      ]
+    },
+    {
+      "title": "Garanti",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.23828125,
+          428.400390625
+        ],
+        [
+          338.7421875,
+          428.400390625
+        ],
+        [
+          338.7421875,
+          439.2373962402344
+        ],
+        [
+          303.23828125,
+          439.2373962402344
+        ]
+      ]
+    },
+    {
+      "title": "Om dessa uppgifter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.6377868652344,
+          578.4638671875
+        ],
+        [
+          391.998046875,
+          578.4638671875
+        ],
+        [
+          391.998046875,
+          589.2373809814453
+        ],
+        [
+          303.6377868652344,
+          589.2373809814453
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464762_bro"
+}

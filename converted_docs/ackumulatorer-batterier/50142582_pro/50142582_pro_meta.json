@@ -1,0 +1,154 @@
+{
+  "table_of_contents": [
+    {
+      "title": "USL12-45 (12V45AH)\nUSL SERIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          370.06048583984375,
+          31.4638671875
+        ],
+        [
+          569.1847534179688,
+          31.4638671875
+        ],
+        [
+          569.1847534179688,
+          95.5726318359375
+        ],
+        [
+          370.06048583984375,
+          95.5726318359375
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          265.98828125,
+          99.02734375
+        ],
+        [
+          377.15625,
+          99.02734375
+        ],
+        [
+          377.15625,
+          113.01129150390625
+        ],
+        [
+          265.98828125,
+          113.01129150390625
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.48681640625,
+          40.68603515625
+        ],
+        [
+          115.29377746582031,
+          40.68603515625
+        ],
+        [
+          115.29377746582031,
+          54.25872802734375
+        ],
+        [
+          38.48681640625,
+          54.25872802734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          374
+        ],
+        [
+          "TableCell",
+          297
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          434
+        ],
+        [
+          "Line",
+          176
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142582_pro"
+}

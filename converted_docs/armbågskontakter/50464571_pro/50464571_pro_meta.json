@@ -1,0 +1,92 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tekniskt produktblad JCK201 Ber\u00f6ringsfri",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.98941638947686,
+          69.42369869602395
+        ],
+        [
+          1280.8708799516178,
+          69.42369869602395
+        ],
+        [
+          1280.8708799516178,
+          133.90425428869176
+        ],
+        [
+          104.98941638947686,
+          133.90425428869176
+        ]
+      ]
+    },
+    {
+      "title": "H\u00e5lbildsritning:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          147.2802734375,
+          1647.2749772873024
+        ],
+        [
+          549.6945872391896,
+          1647.2749772873024
+        ],
+        [
+          549.6945872391896,
+          1701.759399048739
+        ],
+        [
+          147.2802734375,
+          1701.759399048739
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          53
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464571_pro"
+}

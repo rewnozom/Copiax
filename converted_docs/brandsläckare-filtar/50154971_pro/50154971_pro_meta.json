@@ -1,0 +1,100 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BRANDFILT SILIKON \n120x180 CM \nFBSH-180",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.50390625,
+          52.111083984375
+        ],
+        [
+          330.0207214355469,
+          52.111083984375
+        ],
+        [
+          330.0207214355469,
+          153.14697265625
+        ],
+        [
+          35.50390625,
+          153.14697265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          473.19140625,
+          22.07269287109375
+        ],
+        [
+          569.2265625,
+          22.07269287109375
+        ],
+        [
+          569.2265625,
+          112.03369140625
+        ],
+        [
+          473.19140625,
+          112.03369140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50154971_pro"
+}

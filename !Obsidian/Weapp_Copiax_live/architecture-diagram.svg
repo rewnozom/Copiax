@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Bakgrund -->
+  <rect width="800" height="400" fill="#f5f5f5" rx="10" ry="10"/>
+  
+  <!-- Titel -->
+  <text x="400" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold" fill="#333">Arkitektur: Unified Product Data Extractor</text>
+  
+  <!-- Lager 1: Indata -->
+  <rect x="50" y="70" width="150" height="60" fill="#b3e0ff" rx="5" ry="5" stroke="#0099cc" stroke-width="2"/>
+  <text x="125" y="105" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">Markdown-filer</text>
+  
+  <!-- Lager 2: Extraktionslager -->
+  <rect x="300" y="70" width="200" height="200" fill="#ffcccc" rx="5" ry="5" stroke="#ff6666" stroke-width="2"/>
+  <text x="400" y="95" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#333">Extraktionslager</text>
+  
+  <!-- Extraktionskomponenter -->
+  <rect x="325" y="110" width="150" height="40" fill="#ff9999" rx="5" ry="5" stroke="#ff6666" stroke-width="1"/>
+  <text x="400" y="135" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">NLP-extraktor</text>
+  
+  <rect x="325" y="160" width="150" height="40" fill="#ff9999" rx="5" ry="5" stroke="#ff6666" stroke-width="1"/>
+  <text x="400" y="185" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Regex-extraktor</text>
+  
+  <rect x="325" y="210" width="150" height="40" fill="#ff9999" rx="5" ry="5" stroke="#ff6666" stroke-width="1"/>
+  <text x="400" y="235" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Sammanslagning</text>
+  
+  <!-- Lager 3: Integrationslager -->
+  <rect x="300" y="280" width="200" height="60" fill="#d9f2d9" rx="5" ry="5" stroke="#5cd65c" stroke-width="2"/>
+  <text x="400" y="315" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#333">Integrationslager</text>
+  
+  <!-- Lager 4: Utdata -->
+  <rect x="600" y="70" width="150" height="270" fill="#ffffcc" rx="5" ry="5" stroke="#ffcc00" stroke-width="2"/>
+  <text x="675" y="95" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#333">Utdata</text>
+  
+  <!-- Utdatakomponenter -->
+  <rect x="625" y="110" width="100" height="30" fill="#fff5b3" rx="5" ry="5" stroke="#ffcc00" stroke-width="1"/>
+  <text x="675" y="130" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Produktdata</text>
+  
+  <rect x="625" y="150" width="100" height="30" fill="#fff5b3" rx="5" ry="5" stroke="#ffcc00" stroke-width="1"/>
+  <text x="675" y="170" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Index</text>
+  
+  <rect x="625" y="190" width="100" height="30" fill="#fff5b3" rx="5" ry="5" stroke="#ffcc00" stroke-width="1"/>
+  <text x="675" y="210" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Bot-svar</text>
+  
+  <rect x="625" y="230" width="100" height="30" fill="#fff5b3" rx="5" ry="5" stroke="#ffcc00" stroke-width="1"/>
+  <text x="675" y="250" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Rapporter</text>
+  
+  <rect x="625" y="270" width="100" height="30" fill="#fff5b3" rx="5" ry="5" stroke="#ffcc00" stroke-width="1"/>
+  <text x="675" y="290" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Original MD</text>
+  
+  <!-- Flöden -->
+  <line x1="200" y1="100" x2="300" y2="100" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="270" x2="400" y2="280" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="500" y1="310" x2="600" y2="310" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="600" y1="310" x2="600" y2="205" stroke="#333" stroke-width="2"/>
+  
+  <!-- Pilar -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+  </defs>
+</svg>

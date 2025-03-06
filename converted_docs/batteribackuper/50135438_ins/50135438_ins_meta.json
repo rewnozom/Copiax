@@ -1,0 +1,343 @@
+{
+  "table_of_contents": [
+    {
+      "title": "POE40 \nPOWER OVER ETHERNET MED BATTERIBACKUP",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.208984375,
+          21.35321044921875
+        ],
+        [
+          378.029296875,
+          21.35321044921875
+        ],
+        [
+          378.029296875,
+          71.74267578125
+        ],
+        [
+          74.208984375,
+          71.74267578125
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.462158203125,
+          412.16064453125
+        ],
+        [
+          162.39199829101562,
+          412.16064453125
+        ],
+        [
+          162.39199829101562,
+          426.1203918457031
+        ],
+        [
+          70.462158203125,
+          426.1203918457031
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.55078125,
+          138.243408203125
+        ],
+        [
+          389.9609375,
+          138.243408203125
+        ],
+        [
+          389.9609375,
+          152.016357421875
+        ],
+        [
+          312.55078125,
+          152.016357421875
+        ]
+      ]
+    },
+    {
+      "title": "UTF\u00d6RANDE:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.169921875,
+          303.21044921875
+        ],
+        [
+          385.5680236816406,
+          303.21044921875
+        ],
+        [
+          385.5680236816406,
+          317.18896484375
+        ],
+        [
+          315.169921875,
+          317.18896484375
+        ]
+      ]
+    },
+    {
+      "title": "POE40 \nPOWER OVER ETHERNET MED BATTERIBACKUP",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.3359375,
+          21.160491943359375
+        ],
+        [
+          378.611328125,
+          21.160491943359375
+        ],
+        [
+          378.611328125,
+          73.3358154296875
+        ],
+        [
+          73.3359375,
+          73.3358154296875
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.8239974975586,
+          120.873046875
+        ],
+        [
+          127.06307983398438,
+          120.873046875
+        ],
+        [
+          127.06307983398438,
+          133.6181640625
+        ],
+        [
+          70.8239974975586,
+          133.6181640625
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          315.40997314453125,
+          130.020751953125
+        ],
+        [
+          386.3619689941406,
+          130.020751953125
+        ],
+        [
+          386.3619689941406,
+          144.21063232421875
+        ],
+        [
+          315.40997314453125,
+          144.21063232421875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.587890625,
+          293.34326171875
+        ],
+        [
+          407.0019836425781,
+          293.34326171875
+        ],
+        [
+          407.0019836425781,
+          306.49951171875
+        ],
+        [
+          314.587890625,
+          306.49951171875
+        ]
+      ]
+    },
+    {
+      "title": "Optional Accessories SM40 \n Str\u00f6mf\u00f6rs\u00f6rjning med plats f\u00f6r batteri",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          -7.079999923706055,
+          127.2860107421875
+        ],
+        [
+          470.66070556640625,
+          127.2860107421875
+        ],
+        [
+          470.66070556640625,
+          178.474365234375
+        ],
+        [
+          -7.079999923706055,
+          178.474365234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          254
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135438_ins"
+}

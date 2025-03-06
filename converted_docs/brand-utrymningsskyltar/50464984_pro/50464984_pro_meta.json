@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Skylt N\u00f6d\u00f6ppning 87x87",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          245.326171875,
+          98.980224609375
+        ],
+        [
+          525.865234375,
+          98.980224609375
+        ],
+        [
+          525.865234375,
+          129.609619140625
+        ],
+        [
+          245.326171875,
+          129.609619140625
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          248.59799194335938,
+          267.44189453125
+        ],
+        [
+          336.4140625,
+          267.44189453125
+        ],
+        [
+          336.4140625,
+          281.42041015625
+        ],
+        [
+          248.59799194335938,
+          281.42041015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464984_pro"
+}

@@ -1,0 +1,388 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.2158203125,
+          14.912841796875
+        ],
+        [
+          410.58984375,
+          14.912841796875
+        ],
+        [
+          410.58984375,
+          72.509765625
+        ],
+        [
+          34.2158203125,
+          72.509765625
+        ]
+      ]
+    },
+    {
+      "title": "Material Safety Data Sheet Model No.: 1604A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.362060546875,
+          70.40557861328125
+        ],
+        [
+          517.4281005859375,
+          70.40557861328125
+        ],
+        [
+          517.4281005859375,
+          84.5947265625
+        ],
+        [
+          38.362060546875,
+          84.5947265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          411.1875,
+          69.36767578125
+        ],
+        [
+          513.984375,
+          69.36767578125
+        ],
+        [
+          513.984375,
+          82.99951171875
+        ],
+        [
+          411.1875,
+          82.99951171875
+        ]
+      ]
+    },
+    {
+      "title": "Section II - Hazardous Ingredients / Identity Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.20000076293945,
+          282.498046875
+        ],
+        [
+          329.90625,
+          282.498046875
+        ],
+        [
+          329.90625,
+          295.646484375
+        ],
+        [
+          38.20000076293945,
+          295.646484375
+        ]
+      ]
+    },
+    {
+      "title": "Section III - Physical / Chemical Characteristics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.78466796875,
+          428.20245361328125
+        ],
+        [
+          282.69598388671875,
+          428.20245361328125
+        ],
+        [
+          282.69598388671875,
+          441.24609375
+        ],
+        [
+          35.78466796875,
+          441.24609375
+        ]
+      ]
+    },
+    {
+      "title": "Section IV \u2013 Hazard Classification",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.83056640625,
+          558.421875
+        ],
+        [
+          213.662109375,
+          558.421875
+        ],
+        [
+          213.662109375,
+          570.796875
+        ],
+        [
+          36.83056640625,
+          570.796875
+        ]
+      ]
+    },
+    {
+      "title": "Section V \u2013 Reactivity Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.569091796875,
+          633.4453125
+        ],
+        [
+          179.4462890625,
+          633.4453125
+        ],
+        [
+          179.4462890625,
+          645.8524475097656
+        ],
+        [
+          36.569091796875,
+          645.8524475097656
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.099609375,
+          24.967529296875
+        ],
+        [
+          409.9921875,
+          24.967529296875
+        ],
+        [
+          409.9921875,
+          77.6337890625
+        ],
+        [
+          51.099609375,
+          77.6337890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          73.810546875,
+          23.05810546875
+        ],
+        [
+          470.056640625,
+          23.05810546875
+        ],
+        [
+          470.056640625,
+          80.29248046875
+        ],
+        [
+          73.810546875,
+          80.29248046875
+        ]
+      ]
+    },
+    {
+      "title": "Section XV \u2013 Regulatory Information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.85205078125,
+          604.828125
+        ],
+        [
+          228.90234375,
+          604.828125
+        ],
+        [
+          228.90234375,
+          617.203125
+        ],
+        [
+          56.85205078125,
+          617.203125
+        ]
+      ]
+    },
+    {
+      "title": "Section XVI \u2013 Other Information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.889404296875,
+          648.52734375
+        ],
+        [
+          208.4326171875,
+          648.52734375
+        ],
+        [
+          208.4326171875,
+          660.90234375
+        ],
+        [
+          56.889404296875,
+          660.90234375
+        ]
+      ]
+    },
+    {
+      "title": "Section XVII \u2013 Measures for fire extinction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.55322265625,
+          689.90625
+        ],
+        [
+          256.1853942871094,
+          689.90625
+        ],
+        [
+          256.1853942871094,
+          701.5078125
+        ],
+        [
+          56.55322265625,
+          701.5078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "TableCell",
+          149
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Table",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          180
+        ],
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "TableCell",
+          107
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464888_sak"
+}

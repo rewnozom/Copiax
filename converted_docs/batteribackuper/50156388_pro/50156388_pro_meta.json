@@ -1,0 +1,223 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ASSA ABLOY\nARX Power Fuse 05",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          26.7734375,
+          28.5223388671875
+        ],
+        [
+          303.9679870605469,
+          28.5223388671875
+        ],
+        [
+          303.9679870605469,
+          113.1920166015625
+        ],
+        [
+          26.7734375,
+          113.1920166015625
+        ]
+      ]
+    },
+    {
+      "title": "ASSA ABLOY \nARX Power Fuse 05",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          26.7734375,
+          25.77288818359375
+        ],
+        [
+          304.635009765625,
+          25.77288818359375
+        ],
+        [
+          304.635009765625,
+          109.90802001953125
+        ],
+        [
+          26.7734375,
+          109.90802001953125
+        ]
+      ]
+    },
+    {
+      "title": "Avs\u00e4kringskort till ARX Power- och PS, PSC-serien",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.878005981445312,
+          126.83447265625
+        ],
+        [
+          354.45703125,
+          126.83447265625
+        ],
+        [
+          354.45703125,
+          146.84722900390625
+        ],
+        [
+          28.878005981445312,
+          146.84722900390625
+        ]
+      ]
+    },
+    {
+      "title": "Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          138.98519897460938,
+          208.85546875
+        ],
+        [
+          156.857421875,
+          208.85546875
+        ],
+        [
+          156.857421875,
+          219.9560546875
+        ],
+        [
+          138.98519897460938,
+          219.9560546875
+        ]
+      ]
+    },
+    {
+      "title": "Certifikat",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          149.4365234375,
+          363.64697265625
+        ],
+        [
+          184.0673828125,
+          363.64697265625
+        ],
+        [
+          184.0673828125,
+          373.10302734375
+        ],
+        [
+          149.4365234375,
+          373.10302734375
+        ]
+      ]
+    },
+    {
+      "title": "M\u00e5tt och vikt",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          137.650390625,
+          489.248046875
+        ],
+        [
+          187.705078125,
+          489.248046875
+        ],
+        [
+          187.705078125,
+          499.7581481933594
+        ],
+        [
+          137.650390625,
+          499.7581481933594
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50156388_pro"
+}

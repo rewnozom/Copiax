@@ -1,0 +1,154 @@
+{
+  "table_of_contents": [
+    {
+      "title": "12 65 (12V65AH) \nUS -\nU S S E R IE S",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          296.544921875,
+          27.66650390625
+        ],
+        [
+          492.8741149902344,
+          27.66650390625
+        ],
+        [
+          492.8741149902344,
+          92.7579345703125
+        ],
+        [
+          296.544921875,
+          92.7579345703125
+        ]
+      ]
+    },
+    {
+      "title": "Co ns ta nt P ow er D is ch ar ge (W at ts ) a t\n0 0 2 0 C (6 8 F )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          186.541015625,
+          663.20703125
+        ],
+        [
+          458.603515625,
+          663.20703125
+        ],
+        [
+          458.603515625,
+          677.0177917480469
+        ],
+        [
+          186.541015625,
+          677.0177917480469
+        ]
+      ]
+    },
+    {
+      "title": "D im en si o n s",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.06884765625,
+          40.118896484375
+        ],
+        [
+          111.58729553222656,
+          40.118896484375
+        ],
+        [
+          111.58729553222656,
+          53.406005859375
+        ],
+        [
+          39.06884765625,
+          53.406005859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1001
+        ],
+        [
+          "Line",
+          345
+        ],
+        [
+          "TableCell",
+          293
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          621
+        ],
+        [
+          "Line",
+          401
+        ],
+        [
+          "Figure",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142573_pro"
+}

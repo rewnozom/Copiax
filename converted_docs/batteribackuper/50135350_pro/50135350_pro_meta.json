@@ -1,0 +1,174 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PowerWalker VFI 6000-10000 TGB/TGS\n \nSeries",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.2314453125,
+          64.4964599609375
+        ],
+        [
+          549.2608032226562,
+          64.4964599609375
+        ],
+        [
+          549.2608032226562,
+          87.7254638671875
+        ],
+        [
+          36.2314453125,
+          87.7254638671875
+        ]
+      ]
+    },
+    {
+      "title": "VFI TGB Series VFI TGS Series",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          99.4800033569336,
+          88.1365966796875
+        ],
+        [
+          500.546875,
+          88.1365966796875
+        ],
+        [
+          500.546875,
+          101.015869140625
+        ],
+        [
+          99.4800033569336,
+          101.015869140625
+        ]
+      ]
+    },
+    {
+      "title": "BATTERY PACKS AND BACKUP TABLE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.9921875,
+          510.2158203125
+        ],
+        [
+          245.86849975585938,
+          510.2158203125
+        ],
+        [
+          245.86849975585938,
+          522.0959167480469
+        ],
+        [
+          77.9921875,
+          522.0959167480469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Picture",
+          8
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "TableCell",
+          139
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135350_pro"
+}

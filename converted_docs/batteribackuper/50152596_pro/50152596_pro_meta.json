@@ -1,0 +1,254 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Batteribackup ECO M",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.28564453125,
+          20.029876708984375
+        ],
+        [
+          291.888671875,
+          20.029876708984375
+        ],
+        [
+          291.888671875,
+          50.09405517578125
+        ],
+        [
+          35.28564453125,
+          50.09405517578125
+        ]
+      ]
+    },
+    {
+      "title": "Prim\u00e4rswitchad batteribackup 12V eller 24V, upp till 10A med plats f\u00f6r upp till 2x 14Ah batterier. \nV\u00e4ggmonteras.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.048828125,
+          345.96826171875
+        ],
+        [
+          491.1647644042969,
+          345.96826171875
+        ],
+        [
+          491.1647644042969,
+          371.96051025390625
+        ],
+        [
+          34.048828125,
+          371.96051025390625
+        ]
+      ]
+    },
+    {
+      "title": "Larmfunktioner (1 summa larmutg\u00e5ng):",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.33984375,
+          502.8154296875
+        ],
+        [
+          222.32388305664062,
+          502.8154296875
+        ],
+        [
+          222.32388305664062,
+          515.9716796875
+        ],
+        [
+          34.33984375,
+          515.9716796875
+        ]
+      ]
+    },
+    {
+      "title": "Typiska Anv\u00e4ndningsomr\u00e5den:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.4853515625,
+          539.8173828125
+        ],
+        [
+          184.3583984375,
+          539.8173828125
+        ],
+        [
+          184.3583984375,
+          552.1513671875
+        ],
+        [
+          34.4853515625,
+          552.1513671875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rv\u00e4ntad drifttid vid potentiellt str\u00f6mavbrott \n(nya batterier): Vid nedan last:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.65087890625,
+          688.236328125
+        ],
+        [
+          528.9972534179688,
+          688.236328125
+        ],
+        [
+          528.9972534179688,
+          722.8479461669922
+        ],
+        [
+          39.65087890625,
+          722.8479461669922
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          435.94140625,
+          697.28125
+        ],
+        [
+          530.8125,
+          697.28125
+        ],
+        [
+          530.8125,
+          714.548828125
+        ],
+        [
+          435.94140625,
+          714.548828125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.249267578125,
+          19.220458984375
+        ],
+        [
+          150.0185546875,
+          19.220458984375
+        ],
+        [
+          150.0185546875,
+          43.8343505859375
+        ],
+        [
+          35.249267578125,
+          43.8343505859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          314
+        ],
+        [
+          "TableCell",
+          250
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152596_pro"
+}

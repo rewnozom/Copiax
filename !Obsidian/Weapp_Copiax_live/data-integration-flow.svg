@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Dark background -->
+  <rect width="800" height="500" fill="#1e2030" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" fill="#e4ecff" text-anchor="middle" font-weight="bold">Data Integration Workflow</text>
+  
+  <!-- Main flow visualization -->
+  <rect x="170" y="80" width="460" height="300" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  
+  <!-- Stages of process -->
+  <circle cx="400" cy="120" r="30" fill="#4c1d95"/>
+  <text x="400" y="125" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle" font-weight="bold">Start</text>
+  
+  <!-- Down arrow -->
+  <path d="M 400 150 L 400 180" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Discover stage -->
+  <rect x="320" y="180" width="160" height="40" rx="6" ry="6" fill="#5b21b6"/>
+  <text x="400" y="205" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Upptäck Markdown</text>
+  
+  <!-- Down arrow -->
+  <path d="M 400 220 L 400 250" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Process stages -->
+  <rect x="180" y="250" width="120" height="40" rx="6" ry="6" fill="#1e40af"/>
+  <text x="240" y="275" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">EAN &amp; ID</text>
+  
+  <rect x="340" y="250" width="120" height="40" rx="6" ry="6" fill="#1d4ed8"/>
+  <text x="400" y="275" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">Kompatibilitet</text>
+  
+  <rect x="500" y="250" width="120" height="40" rx="6" ry="6" fill="#2563eb"/>
+  <text x="560" y="275" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">Tekniska Spec.</text>
+  
+  <!-- Down arrows from each process -->
+  <path d="M 240 290 L 240 320 L 400 320" stroke="#6366f1" stroke-width="2" fill="none"/>
+  <path d="M 400 290 L 400 320" stroke="#6366f1" stroke-width="2" fill="none"/>
+  <path d="M 560 290 L 560 320 L 400 320" stroke="#6366f1" stroke-width="2" fill="none"/>
+  
+  <!-- Integration stage -->
+  <path d="M 400 320 L 400 330" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <rect x="320" y="330" width="160" height="40" rx="6" ry="6" fill="#9d174d"/>
+  <text x="400" y="355" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Integrera data</text>
+  
+  <!-- Arrow down -->
+  <path d="M 400 370 L 400 400" stroke="#ec4899" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Directory structure -->
+  <rect x="50" y="400" width="700" height="80" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  <text x="400" y="425" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Katalogstruktur</text>
+  
+  <!-- Folder structure simplified representation -->
+  <rect x="70" y="440" width="180" height="25" fill="#4c1d95" rx="4" ry="4"/>
+  <text x="160" y="458" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">/indices</text>
+  
+  <rect x="270" y="440" width="260" height="25" fill="#5b21b6" rx="4" ry="4"/>
+  <text x="400" y="458" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">/products/product_id_X/...</text>
+  
+  <rect x="550" y="440" width="180" height="25" fill="#6d28d9" rx="4" ry="4"/>
+  <text x="640" y="458" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">/command_responses</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L0,10 L10,5 Z" fill="#6366f1"/>
+    </marker>
+  </defs>
+</svg>

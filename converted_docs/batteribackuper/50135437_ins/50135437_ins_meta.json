@@ -1,0 +1,493 @@
+{
+  "table_of_contents": [
+    {
+      "title": "User Manual\nBattery Pack",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          148.05001831054688,
+          203.8564453125
+        ],
+        [
+          279.31640625,
+          203.8564453125
+        ],
+        [
+          279.31640625,
+          251.8740234375
+        ],
+        [
+          148.05001831054688,
+          251.8740234375
+        ]
+      ]
+    },
+    {
+      "title": "1. Important Safety Warnings",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.81103515625,
+          53.656005859375
+        ],
+        [
+          211.23046875,
+          53.656005859375
+        ],
+        [
+          211.23046875,
+          68.497802734375
+        ],
+        [
+          38.81103515625,
+          68.497802734375
+        ]
+      ]
+    },
+    {
+      "title": "Installation and Setup",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.7333984375,
+          186.541015625
+        ],
+        [
+          168.0615234375,
+          186.541015625
+        ],
+        [
+          168.0615234375,
+          200.21875
+        ],
+        [
+          41.7333984375,
+          200.21875
+        ]
+      ]
+    },
+    {
+      "title": "Storage & Maintenance",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.1435546875,
+          246.78125
+        ],
+        [
+          174.6240234375,
+          246.78125
+        ],
+        [
+          174.6240234375,
+          260.458984375
+        ],
+        [
+          42.1435546875,
+          260.458984375
+        ]
+      ]
+    },
+    {
+      "title": "Storage",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.912841796875,
+          330.302734375
+        ],
+        [
+          84.75479888916016,
+          330.302734375
+        ],
+        [
+          84.75479888916016,
+          342.525390625
+        ],
+        [
+          41.912841796875,
+          342.525390625
+        ]
+      ]
+    },
+    {
+      "title": "How to assemble BP A72T-6x9Ah",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.970703125,
+          108.615478515625
+        ],
+        [
+          449.44580078125,
+          108.615478515625
+        ],
+        [
+          449.44580078125,
+          137.51873779296875
+        ],
+        [
+          49.970703125,
+          137.51873779296875
+        ]
+      ]
+    },
+    {
+      "title": "The first assembly station A",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          146.19300842285156,
+          160.56201171875
+        ],
+        [
+          450.03302001953125,
+          160.56201171875
+        ],
+        [
+          450.03302001953125,
+          188.691162109375
+        ],
+        [
+          146.19300842285156,
+          188.691162109375
+        ]
+      ]
+    },
+    {
+      "title": "The second assembly station A",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          96.0,
+          150.5902099609375
+        ],
+        [
+          421.4611511230469,
+          150.5902099609375
+        ],
+        [
+          421.4611511230469,
+          177.193115234375
+        ],
+        [
+          96.0,
+          177.193115234375
+        ]
+      ]
+    },
+    {
+      "title": "The second assembly station B",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          138.47999572753906,
+          146.2921142578125
+        ],
+        [
+          465.71533203125,
+          146.2921142578125
+        ],
+        [
+          465.71533203125,
+          175.4478759765625
+        ],
+        [
+          138.47999572753906,
+          175.4478759765625
+        ]
+      ]
+    },
+    {
+      "title": "2\u3001As shown below:take three batteries and connect them with battery wires",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.109619140625,
+          196.61199951171875
+        ],
+        [
+          413.15997314453125,
+          196.61199951171875
+        ],
+        [
+          413.15997314453125,
+          209.634033203125
+        ],
+        [
+          41.109619140625,
+          209.634033203125
+        ]
+      ]
+    },
+    {
+      "title": "The second assembly station C",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          99.1199951171875,
+          147.216064453125
+        ],
+        [
+          424.5812072753906,
+          147.216064453125
+        ],
+        [
+          424.5812072753906,
+          174.11328125
+        ],
+        [
+          99.1199951171875,
+          174.11328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135437_ins"
+}

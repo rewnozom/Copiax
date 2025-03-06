@@ -1,0 +1,227 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Produktblad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.742919921875,
+          85.2586669921875
+        ],
+        [
+          122.80859375,
+          85.2586669921875
+        ],
+        [
+          122.80859375,
+          102.1151123046875
+        ],
+        [
+          42.742919921875,
+          102.1151123046875
+        ]
+      ]
+    },
+    {
+      "title": "PM862",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.6650390625,
+          142.765869140625
+        ],
+        [
+          95.8896484375,
+          142.765869140625
+        ],
+        [
+          95.8896484375,
+          166.611572265625
+        ],
+        [
+          28.6650390625,
+          166.611572265625
+        ]
+      ]
+    },
+    {
+      "title": "Allm\u00e4nt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.119384765625,
+          217.078125
+        ],
+        [
+          62.822998046875,
+          217.078125
+        ],
+        [
+          62.822998046875,
+          229.0009765625
+        ],
+        [
+          28.119384765625,
+          229.0009765625
+        ]
+      ]
+    },
+    {
+      "title": "Standardprestanda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.96875,
+          390.37060546875
+        ],
+        [
+          397.52734375,
+          390.37060546875
+        ],
+        [
+          397.52734375,
+          401.06005859375
+        ],
+        [
+          311.96875,
+          401.06005859375
+        ]
+      ]
+    },
+    {
+      "title": "PM862",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.7919921875,
+          29.087646484375
+        ],
+        [
+          96.326171875,
+          29.087646484375
+        ],
+        [
+          96.326171875,
+          54.1153564453125
+        ],
+        [
+          27.7919921875,
+          54.1153564453125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.576499938964844,
+          81.712646484375
+        ],
+        [
+          92.6884765625,
+          81.712646484375
+        ],
+        [
+          92.6884765625,
+          94.560546875
+        ],
+        [
+          28.576499938964844,
+          94.560546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          50
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          73
+        ],
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50106004_Pro"
+}

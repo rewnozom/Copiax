@@ -1,0 +1,356 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Battery box 24V M",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.8948974609375,
+          18.333984375
+        ],
+        [
+          128.2734375,
+          18.333984375
+        ],
+        [
+          128.2734375,
+          33.043212890625
+        ],
+        [
+          34.8948974609375,
+          33.043212890625
+        ]
+      ]
+    },
+    {
+      "title": "Om",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.13470458984375,
+          41.942626953125
+        ],
+        [
+          61.7213134765625,
+          41.942626953125
+        ],
+        [
+          61.7213134765625,
+          57.05322265625
+        ],
+        [
+          39.13470458984375,
+          57.05322265625
+        ]
+      ]
+    },
+    {
+      "title": "1. Montering",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.13470458984375,
+          86.21337890625
+        ],
+        [
+          100.830322265625,
+          86.21337890625
+        ],
+        [
+          100.830322265625,
+          100.25897216796875
+        ],
+        [
+          39.13470458984375,
+          100.25897216796875
+        ]
+      ]
+    },
+    {
+      "title": "2. Drifts\u00e4ttning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.2117919921875,
+          142.08837890625
+        ],
+        [
+          114.08935546875,
+          142.08837890625
+        ],
+        [
+          114.08935546875,
+          156.65896606445312
+        ],
+        [
+          39.2117919921875,
+          156.65896606445312
+        ]
+      ]
+    },
+    {
+      "title": "Battery box 24V M",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.86920166015625,
+          17.79742431640625
+        ],
+        [
+          128.89013671875,
+          17.79742431640625
+        ],
+        [
+          128.89013671875,
+          33.043212890625
+        ],
+        [
+          34.86920166015625,
+          33.043212890625
+        ]
+      ]
+    },
+    {
+      "title": "1. Mounting",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.90557861328125,
+          86.25897216796875
+        ],
+        [
+          97.64404296875,
+          86.25897216796875
+        ],
+        [
+          97.64404296875,
+          100.25897216796875
+        ],
+        [
+          39.90557861328125,
+          100.25897216796875
+        ]
+      ]
+    },
+    {
+      "title": "2.Commissioning",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.90557861328125,
+          128.919921875
+        ],
+        [
+          125.909423828125,
+          128.919921875
+        ],
+        [
+          125.909423828125,
+          143.458984375
+        ],
+        [
+          39.90557861328125,
+          143.458984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          304
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "TableCell",
+          59
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          338
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Text",
+          38
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          300
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "TableCell",
+          74
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152599_ins"
+}

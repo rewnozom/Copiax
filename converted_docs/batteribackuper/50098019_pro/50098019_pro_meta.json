@@ -1,0 +1,317 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EXTRAUTRUSTNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.9892578125,
+          369.6083984375
+        ],
+        [
+          163.27110290527344,
+          369.6083984375
+        ],
+        [
+          163.27110290527344,
+          381.1201171875
+        ],
+        [
+          69.9892578125,
+          381.1201171875
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.37109375,
+          154.688720703125
+        ],
+        [
+          382.9210510253906,
+          154.688720703125
+        ],
+        [
+          382.9210510253906,
+          167.022705078125
+        ],
+        [
+          318.37109375,
+          167.022705078125
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET \n SM40",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          9.600000381469727,
+          122.31201171875
+        ],
+        [
+          258.564208984375,
+          122.31201171875
+        ],
+        [
+          258.564208984375,
+          150.515625
+        ],
+        [
+          9.600000381469727,
+          150.515625
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.37109375,
+          125.806640625
+        ],
+        [
+          388.4140319824219,
+          125.806640625
+        ],
+        [
+          388.4140319824219,
+          139.78515625
+        ],
+        [
+          318.37109375,
+          139.78515625
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.030029296875,
+          299.7158203125
+        ],
+        [
+          408.57403564453125,
+          299.7158203125
+        ],
+        [
+          408.57403564453125,
+          313.283203125
+        ],
+        [
+          319.030029296875,
+          313.283203125
+        ]
+      ]
+    },
+    {
+      "title": "Sp\u00e4nningsjustering",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          197.69000244140625,
+          489.248046875
+        ],
+        [
+          295.380859375,
+          489.248046875
+        ],
+        [
+          295.380859375,
+          504.87109375
+        ],
+        [
+          197.69000244140625,
+          504.87109375
+        ]
+      ]
+    },
+    {
+      "title": "Optional Accessories \n Str\u00f6mf\u00f6rs\u00f6rjning med plats f\u00f6r batteri",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          4.199999809265137,
+          149.43438720703125
+        ],
+        [
+          481.940673828125,
+          149.43438720703125
+        ],
+        [
+          481.940673828125,
+          174.217529296875
+        ],
+        [
+          4.199999809265137,
+          174.217529296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          289
+        ],
+        [
+          "TableCell",
+          90
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50098019_pro"
+}

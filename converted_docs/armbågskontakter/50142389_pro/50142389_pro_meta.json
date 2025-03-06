@@ -1,0 +1,154 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Armb\u00e5gskontakt Alu Radio",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          245.908203125,
+          99.9052734375
+        ],
+        [
+          556.130859375,
+          99.9052734375
+        ],
+        [
+          556.130859375,
+          128.6845703125
+        ],
+        [
+          245.908203125,
+          128.6845703125
+        ]
+      ]
+    },
+    {
+      "title": "E-nummer: 5870842",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.36328125,
+          162.911376953125
+        ],
+        [
+          366.09765625,
+          162.911376953125
+        ],
+        [
+          366.09765625,
+          176.1025390625
+        ],
+        [
+          247.36328125,
+          176.1025390625
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.9453125,
+          496.2373046875
+        ],
+        [
+          334.958984375,
+          496.2373046875
+        ],
+        [
+          334.958984375,
+          509.3935546875
+        ],
+        [
+          247.9453125,
+          509.3935546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142389_pro"
+}

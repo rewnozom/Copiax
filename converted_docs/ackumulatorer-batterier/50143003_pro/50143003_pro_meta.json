@@ -1,0 +1,270 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Features of LiFePO4 Battery",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.94482421875,
+          97.02734375
+        ],
+        [
+          175.7734375,
+          97.02734375
+        ],
+        [
+          175.7734375,
+          111.69061279296875
+        ],
+        [
+          47.94482421875,
+          111.69061279296875
+        ]
+      ]
+    },
+    {
+      "title": "Physical Dimension",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.8720703125,
+          279.77587890625
+        ],
+        [
+          139.3489990234375,
+          279.77587890625
+        ],
+        [
+          139.3489990234375,
+          290.87646484375
+        ],
+        [
+          47.8720703125,
+          290.87646484375
+        ]
+      ]
+    },
+    {
+      "title": "Specification",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.7265625,
+          419.97216796875
+        ],
+        [
+          109.21900177001953,
+          419.97216796875
+        ],
+        [
+          109.21900177001953,
+          431.2783203125
+        ],
+        [
+          47.7265625,
+          431.2783203125
+        ]
+      ]
+    },
+    {
+      "title": "Application",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.4320068359375,
+          280.38055419921875
+        ],
+        [
+          357.94921875,
+          280.38055419921875
+        ],
+        [
+          357.94921875,
+          291.28759765625
+        ],
+        [
+          303.4320068359375,
+          291.28759765625
+        ]
+      ]
+    },
+    {
+      "title": "Charging Characteristics @ 0.5C 25\u00b0C",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.4921875,
+          289.8486328125
+        ],
+        [
+          479.3009948730469,
+          289.8486328125
+        ],
+        [
+          479.3009948730469,
+          304.67181396484375
+        ],
+        [
+          301.4921875,
+          304.67181396484375
+        ]
+      ]
+    },
+    {
+      "title": "Cycle Life Curve",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.617431640625,
+          518.02734375
+        ],
+        [
+          124.4091796875,
+          518.02734375
+        ],
+        [
+          124.4091796875,
+          530.361328125
+        ],
+        [
+          47.617431640625,
+          530.361328125
+        ]
+      ]
+    },
+    {
+      "title": "Self Discharge Characteristics Curve",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.328125,
+          517.6162109375
+        ],
+        [
+          474.35546875,
+          517.6162109375
+        ],
+        [
+          474.35546875,
+          530.7724609375
+        ],
+        [
+          300.328125,
+          530.7724609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Figure",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50143003_pro"
+}

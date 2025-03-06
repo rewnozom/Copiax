@@ -1,0 +1,103 @@
+2025-03-05 21:57:08,473 - INFO - DataManager initialiserad med 0 produkter
+2025-03-05 21:57:16,796 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 21:57:16,815 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 21:57:41,929 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 21:57:41,932 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 21:57:41,932 - INFO - Avancerad NLP-botmotor initierad
+2025-03-05 22:13:02,154 - INFO - DataManager initialiserad med 0 produkter
+2025-03-05 22:13:05,302 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 22:13:05,302 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 22:13:09,672 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 22:13:09,672 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 22:13:09,672 - INFO - Avancerad NLP-botmotor initierad
+2025-03-05 22:31:34,896 - INFO - DataManager initialiserad med 0 produkter
+2025-03-05 22:31:37,824 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 22:31:37,831 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 22:31:42,194 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 22:31:42,197 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 22:31:42,197 - INFO - Avancerad NLP-botmotor initierad
+2025-03-05 22:38:54,686 - INFO - DataManager initialiserad med 0 produkter
+2025-03-05 22:38:57,863 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 22:38:57,869 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 22:39:02,543 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 22:39:02,546 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 22:39:02,547 - INFO - Avancerad NLP-botmotor initierad
+2025-03-05 22:42:59,883 - INFO - DataManager initialiserad med 0 produkter
+2025-03-05 22:43:02,902 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 22:43:02,909 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 22:43:07,267 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 22:43:07,270 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 22:43:07,270 - INFO - Avancerad NLP-botmotor initierad
+2025-03-05 22:47:05,596 - INFO - DataManager initialiserad med 0 produkter
+2025-03-05 22:47:08,605 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 22:47:08,611 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 22:47:12,933 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 22:47:12,935 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 22:47:12,935 - INFO - Avancerad NLP-botmotor initierad
+2025-03-05 22:47:14,925 - INFO - Vald produkt: 50107533 (nlp_bot_engine\data\integrated_data\products\50107533\technical_specs.jsonl)
+2025-03-05 22:47:24,333 - INFO - Vald produkt: 50152629 (nlp_bot_engine\data\integrated_data\products\50152629\compatibility.jsonl)
+2025-03-05 23:17:20,034 - INFO - Skapar product_names.json från tillgänglig produktdata
+2025-03-05 23:17:20,035 - INFO - Skapade product_names.json med 10 produkter
+2025-03-05 23:17:20,035 - INFO - DataManager initialiserad med 7 produkter
+2025-03-05 23:17:23,141 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 23:17:23,147 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 23:17:27,692 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 23:17:27,695 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 23:17:27,696 - INFO - Avancerad NLP-botmotor initierad
+2025-03-05 23:17:40,804 - INFO - Vald produkt: 50107533 (nlp_bot_engine\data\integrated_data\products\50107533\article_info.jsonl)
+2025-03-05 23:42:11,864 - INFO - DataManager initialiserad med 7 produkter
+2025-03-05 23:42:14,903 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 23:42:14,919 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 23:42:19,312 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 23:42:19,312 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 23:42:19,312 - INFO - NLP-botmotor initierad i ProductExplorer
+2025-03-05 23:45:15,603 - INFO - DataManager initialiserad med 7 produkter
+2025-03-05 23:45:18,479 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 23:45:18,479 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 23:45:22,701 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 23:45:22,701 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 23:45:22,701 - INFO - NLP-botmotor initierad i ProductExplorer
+2025-03-05 23:46:51,031 - INFO - DataManager initialiserad med 7 produkter
+2025-03-05 23:46:53,921 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 23:46:53,928 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 23:46:58,193 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 23:46:58,209 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 23:46:58,209 - INFO - NLP-botmotor initierad i ProductExplorer
+2025-03-05 23:46:58,353 - INFO - DataManager initialiserad med 7 produkter
+2025-03-05 23:46:58,742 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 23:46:58,758 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 23:46:59,088 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+partially initialized module 'torchvision' has no attribute 'extension' (most likely due to a circular import)
+2025-03-05 23:46:59,088 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 23:46:59,088 - INFO - Avancerad NLP-botmotor initierad
+2025-03-05 23:47:26,731 - INFO - Vald produkt: 50132277 (nlp_bot_engine\data\integrated_data\products\50132277\summary.jsonl)
+2025-03-05 23:47:29,105 - INFO - Vald produkt: 50461470 (nlp_bot_engine\data\integrated_data\products\50461470\summary.jsonl)
+2025-03-05 23:47:38,048 - INFO - Vald produkt: 50107532 (nlp_bot_engine\data\integrated_data\products\50107532\technical_specs.jsonl)
+2025-03-05 23:48:05,590 - INFO - Vald produkt: 50025313 (nlp_bot_engine\data\integrated_data\products\50025313\technical_specs.jsonl)
+2025-03-05 23:48:26,843 - INFO - Vald produkt: 50461470 (nlp_bot_engine\data\integrated_data\products\50461470\summary.jsonl)
+2025-03-05 23:53:58,838 - INFO - Skapar product_names.json från tillgänglig produktdata
+2025-03-05 23:53:59,778 - INFO - Skapade product_names.json med 5 produkter
+2025-03-05 23:53:59,778 - INFO - DataManager initialiserad med 3 produkter
+2025-03-05 23:54:02,681 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 23:54:02,687 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 23:54:06,933 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+operator torchvision::nms does not exist
+2025-03-05 23:54:06,936 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 23:54:06,937 - INFO - NLP-botmotor initierad i ProductExplorer
+2025-03-05 23:54:07,073 - INFO - DataManager initialiserad med 3 produkter
+2025-03-05 23:54:07,461 - INFO - Laddade spaCy-modell: sv_core_news_lg
+2025-03-05 23:54:08,311 - INFO - Lade till anpassade entitetsigenkänningskomponenter
+2025-03-05 23:54:08,838 - ERROR - Kunde inte ladda embedding-modell: Failed to import transformers.models.timm_wrapper.configuration_timm_wrapper because of the following error (look up to see its traceback):
+partially initialized module 'torchvision' has no attribute 'extension' (most likely due to a circular import)
+2025-03-05 23:54:08,841 - INFO - AdvancedBotEngine initialiserad
+2025-03-05 23:54:08,841 - INFO - Avancerad NLP-botmotor initierad

@@ -1,0 +1,231 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Batteribackup NEO FLX L",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.3583984375,
+          19.747222900390625
+        ],
+        [
+          341.65234375,
+          19.747222900390625
+        ],
+        [
+          341.65234375,
+          50.09405517578125
+        ],
+        [
+          35.3583984375,
+          50.09405517578125
+        ]
+      ]
+    },
+    {
+      "title": "Flexibel & Utbyggnadsbar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.630859375,
+          491.3037109375
+        ],
+        [
+          175.9189453125,
+          491.3037109375
+        ],
+        [
+          175.9189453125,
+          506.2148132324219
+        ],
+        [
+          34.630859375,
+          506.2148132324219
+        ]
+      ]
+    },
+    {
+      "title": "Typiska Anv\u00e4ndningsomr\u00e5den:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.4853515625,
+          540.6396484375
+        ],
+        [
+          184.212890625,
+          540.6396484375
+        ],
+        [
+          184.212890625,
+          553.7958984375
+        ],
+        [
+          34.4853515625,
+          553.7958984375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rv\u00e4ntad drifttid vid potentiellt str\u00f6mavbrott \n(nya batterier): Vid nedan last:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.2685546875,
+          659.8681640625
+        ],
+        [
+          529.1460571289062,
+          659.8681640625
+        ],
+        [
+          529.1460571289062,
+          695.2255859375
+        ],
+        [
+          38.2685546875,
+          695.2255859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          436.5234375,
+          669.32421875
+        ],
+        [
+          531.39453125,
+          669.32421875
+        ],
+        [
+          531.39453125,
+          685.76953125
+        ],
+        [
+          436.5234375,
+          685.76953125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.57666015625,
+          19.233306884765625
+        ],
+        [
+          150.1640625,
+          19.233306884765625
+        ],
+        [
+          150.1640625,
+          43.8343505859375
+        ],
+        [
+          35.57666015625,
+          43.8343505859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "TableCell",
+          80
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "TableCell",
+          184
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152574_pro"
+}

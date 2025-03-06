@@ -1,0 +1,196 @@
+{
+  "table_of_contents": [
+    {
+      "title": "IS 12-   5 (12V5",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.328125,
+          35.35986328125
+        ],
+        [
+          512.1875,
+          35.35986328125
+        ],
+        [
+          512.1875,
+          97.30126953125
+        ],
+        [
+          300.328125,
+          97.30126953125
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          267.6377358490566,
+          102.68645640074212
+        ],
+        [
+          364.642578125,
+          102.68645640074212
+        ],
+        [
+          364.642578125,
+          116.189453125
+        ],
+        [
+          267.6377358490566,
+          116.189453125
+        ]
+      ]
+    },
+    {
+      "title": "Co ns tant C urrent Dis charge (A mperes) at 20 \u00b0C (6 8\u00b0F )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          154.8203125,
+          538.1669758812616
+        ],
+        [
+          479.01171874999994,
+          538.1669758812616
+        ],
+        [
+          479.01171874999994,
+          554.31640625
+        ],
+        [
+          154.8203125,
+          554.31640625
+        ]
+      ]
+    },
+    {
+      "title": "Co ns tant P ower Dis ch ar ge (W atts ) a t 20 \u2103 (6 8 \u2109 )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.0859375,
+          663.3395176252319
+        ],
+        [
+          458.8075471698113,
+          663.3395176252319
+        ],
+        [
+          458.8075471698113,
+          677.015625
+        ],
+        [
+          185.0859375,
+          677.015625
+        ]
+      ]
+    },
+    {
+      "title": "D im en si o n s",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.48681640625,
+          39.30517578125
+        ],
+        [
+          111.58729553222656,
+          39.30517578125
+        ],
+        [
+          111.58729553222656,
+          52.072021484375
+        ],
+        [
+          38.48681640625,
+          52.072021484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          306
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          619
+        ],
+        [
+          "Line",
+          403
+        ],
+        [
+          "Figure",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142574_pro"
+}

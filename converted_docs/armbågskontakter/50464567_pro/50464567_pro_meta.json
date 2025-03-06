@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Armb\u00e5gskontakt Tormax IMP 111",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.49853515625,
+          200.42724609375
+        ],
+        [
+          325.35546875,
+          200.42724609375
+        ],
+        [
+          325.35546875,
+          219.9560546875
+        ],
+        [
+          70.49853515625,
+          219.9560546875
+        ]
+      ]
+    },
+    {
+      "title": "TORMAX Sverige AB Regionkontor V\u00e4st Regionkontor Syd",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.2802734375,
+          718.66015625
+        ],
+        [
+          501.5890197753906,
+          718.66015625
+        ],
+        [
+          501.5890197753906,
+          732.638671875
+        ],
+        [
+          70.2802734375,
+          732.638671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464567_pro"
+}

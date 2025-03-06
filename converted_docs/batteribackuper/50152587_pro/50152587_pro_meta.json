@@ -1,0 +1,185 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Batteribackup EN54 1U & 2U",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.212890625,
+          11.5631103515625
+        ],
+        [
+          376.283203125,
+          11.5631103515625
+        ],
+        [
+          376.283203125,
+          40.73968505859375
+        ],
+        [
+          35.212890625,
+          40.73968505859375
+        ]
+      ]
+    },
+    {
+      "title": "Display",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.70361328125,
+          502.8154296875
+        ],
+        [
+          70.83770751953125,
+          502.8154296875
+        ],
+        [
+          70.83770751953125,
+          516.1494750976562
+        ],
+        [
+          34.70361328125,
+          516.1494750976562
+        ]
+      ]
+    },
+    {
+      "title": "Tillval",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.376220703125,
+          562.4296875
+        ],
+        [
+          63.696044921875,
+          562.4296875
+        ],
+        [
+          63.696044921875,
+          576.1495056152344
+        ],
+        [
+          34.376220703125,
+          576.1495056152344
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.685791015625,
+          10.593093872070312
+        ],
+        [
+          151.328125,
+          10.593093872070312
+        ],
+        [
+          151.328125,
+          34.47998046875
+        ],
+        [
+          35.685791015625,
+          34.47998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "TableCell",
+          140
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152587_pro"
+}

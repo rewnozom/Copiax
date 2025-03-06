@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "XLT Series - General Purpose\nXLT12-7 12V 7.0Ah",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          298.955078125,
+          52.5736083984375
+        ],
+        [
+          570.390625,
+          52.5736083984375
+        ],
+        [
+          570.390625,
+          101.39166259765625
+        ],
+        [
+          298.955078125,
+          101.39166259765625
+        ]
+      ]
+    },
+    {
+      "title": "Applications",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          422.5546875,
+          274.02001953125
+        ],
+        [
+          503.45703125,
+          274.02001953125
+        ],
+        [
+          503.45703125,
+          287.17626953125
+        ],
+        [
+          422.5546875,
+          287.17626953125
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.032745591939545,
+          39.70001220703125
+        ],
+        [
+          112.59445843828715,
+          39.70001220703125
+        ],
+        [
+          112.59445843828715,
+          51.41729736328125
+        ],
+        [
+          39.032745591939545,
+          51.41729736328125
+        ]
+      ]
+    },
+    {
+      "title": "Float Charging Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          325.646484375,
+          191.79345703125
+        ],
+        [
+          484.9068010075566,
+          191.79345703125
+        ],
+        [
+          484.9068010075566,
+          202.6884765625
+        ],
+        [
+          325.646484375,
+          202.6884765625
+        ]
+      ]
+    },
+    {
+      "title": "Effect of Temperature on Long Term Float L ife",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          325.77329974811084,
+          354.8076171875
+        ],
+        [
+          554.7153652392947,
+          354.8076171875
+        ],
+        [
+          554.7153652392947,
+          365.4970703125
+        ],
+        [
+          325.77329974811084,
+          365.4970703125
+        ]
+      ]
+    },
+    {
+      "title": "Self Discharge  Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          325.77329974811084,
+          513.916015625
+        ],
+        [
+          483.66796875,
+          512.8477292965272
+        ],
+        [
+          483.66796875,
+          523.783203125
+        ],
+        [
+          325.77329974811084,
+          524.0943900267141
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          306
+        ],
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          144
+        ],
+        [
+          "Span",
+          144
+        ],
+        [
+          "Figure",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142594_pro"
+}

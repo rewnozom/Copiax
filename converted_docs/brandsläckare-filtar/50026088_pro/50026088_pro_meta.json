@@ -1,0 +1,216 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Housegard brandfilt med silikonbel\u00e4ggning, 120x180 cm, vit",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          104.1707763671875
+        ],
+        [
+          517.138671875,
+          104.1707763671875
+        ],
+        [
+          517.138671875,
+          125.703857421875
+        ],
+        [
+          36.0,
+          125.703857421875
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFORMATION:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          314.3505859375,
+          315.13330078125
+        ],
+        [
+          435.791015625,
+          315.13330078125
+        ],
+        [
+          435.791015625,
+          327.02471923828125
+        ],
+        [
+          314.3505859375,
+          327.02471923828125
+        ]
+      ]
+    },
+    {
+      "title": "Housegard brandfilt med silikonbel\u00e4ggning, 120x180 cm, vit",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.4443359375,
+          46.84344482421875
+        ],
+        [
+          515.9765625,
+          46.84344482421875
+        ],
+        [
+          515.9765625,
+          69.789794921875
+        ],
+        [
+          35.4443359375,
+          69.789794921875
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.3717041015625,
+          95.6397705078125
+        ],
+        [
+          169.0869140625,
+          95.6397705078125
+        ],
+        [
+          169.0869140625,
+          111.4169921875
+        ],
+        [
+          35.3717041015625,
+          111.4169921875
+        ]
+      ]
+    },
+    {
+      "title": "Packaging information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.299072265625,
+          256.1357421875
+        ],
+        [
+          166.036376953125,
+          256.1357421875
+        ],
+        [
+          166.036376953125,
+          272.169921875
+        ],
+        [
+          35.299072265625,
+          272.169921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "TableCell",
+          82
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50026088_pro"
+}

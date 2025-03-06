@@ -1,0 +1,247 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TEKNISKA SPECIFIKATIONER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.03148651123047,
+          79.6055908203125
+        ],
+        [
+          244.744140625,
+          79.6055908203125
+        ],
+        [
+          244.744140625,
+          92.76824951171875
+        ],
+        [
+          68.03148651123047,
+          92.76824951171875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.03644561767578,
+          275.0478515625
+        ],
+        [
+          167.04296875,
+          275.0478515625
+        ],
+        [
+          167.04296875,
+          288.2491455078125
+        ],
+        [
+          68.03644561767578,
+          288.2491455078125
+        ]
+      ]
+    },
+    {
+      "title": "ADRESS OCH KONTAKTUPPGIFTER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.02900695800781,
+          566.3740539550781
+        ],
+        [
+          282.8671875,
+          566.3740539550781
+        ],
+        [
+          282.8671875,
+          578.875
+        ],
+        [
+          68.02900695800781,
+          578.875
+        ]
+      ]
+    },
+    {
+      "title": "TECHNICAL SPECIFICATIONS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          67.806640625,
+          78.1666259765625
+        ],
+        [
+          246.490234375,
+          78.1666259765625
+        ],
+        [
+          246.490234375,
+          92.76824951171875
+        ],
+        [
+          67.806640625,
+          92.76824951171875
+        ]
+      ]
+    },
+    {
+      "title": "TECHNICAL DATA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.02901458740234,
+          273.4033203125
+        ],
+        [
+          176.646484375,
+          273.4033203125
+        ],
+        [
+          176.646484375,
+          288.2491455078125
+        ],
+        [
+          68.02901458740234,
+          288.2491455078125
+        ]
+      ]
+    },
+    {
+      "title": "ADDRESS AND CONTACT DETAILS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.03654479980469,
+          565.71875
+        ],
+        [
+          275.30078125,
+          565.71875
+        ],
+        [
+          275.30078125,
+          579.697265625
+        ],
+        [
+          68.03654479980469,
+          579.697265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464572_pro"
+}

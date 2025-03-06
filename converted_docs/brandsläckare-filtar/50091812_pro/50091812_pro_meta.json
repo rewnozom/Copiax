@@ -1,0 +1,181 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Housegard Heta Arbeten sl\u00e4ckk\u00e4rra inklusive brandfilt & svetshandskar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.4443359375,
+          105.1986083984375
+        ],
+        [
+          603.2159423828125,
+          105.1986083984375
+        ],
+        [
+          603.2159423828125,
+          125.087158203125
+        ],
+        [
+          35.4443359375,
+          125.087158203125
+        ]
+      ]
+    },
+    {
+      "title": "Housegard Heta Arbeten sl\u00e4ckk\u00e4rra inklusive brandfilt & svetshandskar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.73486328125,
+          47.1260986328125
+        ],
+        [
+          603.2159423828125,
+          47.1260986328125
+        ],
+        [
+          603.2159423828125,
+          68.9161376953125
+        ],
+        [
+          35.73486328125,
+          68.9161376953125
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.299072265625,
+          94.9202880859375
+        ],
+        [
+          168.21533203125,
+          94.9202880859375
+        ],
+        [
+          168.21533203125,
+          110.80029296875
+        ],
+        [
+          35.299072265625,
+          110.80029296875
+        ]
+      ]
+    },
+    {
+      "title": "Packaging information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.9359130859375,
+          238.66259765625
+        ],
+        [
+          166.7626953125,
+          238.66259765625
+        ],
+        [
+          166.7626953125,
+          254.28564453125
+        ],
+        [
+          34.9359130859375,
+          254.28564453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50091812_pro"
+}

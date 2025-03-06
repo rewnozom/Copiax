@@ -1,0 +1,100 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TRYGGA HEM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          396.6307067871094,
+          25.798583984375
+        ],
+        [
+          568.0625,
+          25.798583984375
+        ],
+        [
+          568.0625,
+          55.5543212890625
+        ],
+        [
+          396.6307067871094,
+          55.5543212890625
+        ]
+      ]
+    },
+    {
+      "title": "FB-120 VHD\nBRANDFILT SILIKON, 120 CM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.66796875,
+          101.035888671875
+        ],
+        [
+          386.9189453125,
+          101.035888671875
+        ],
+        [
+          386.9189453125,
+          158.594482421875
+        ],
+        [
+          36.66796875,
+          158.594482421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50461558_PRO"
+}

@@ -1,0 +1,212 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GP Safeguard RF1.1, tr\u00e5dl\u00f6s utomhusbelysning, LED",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          103.60546875
+        ],
+        [
+          463.1939392089844,
+          103.60546875
+        ],
+        [
+          463.1939392089844,
+          125.60107421875
+        ],
+        [
+          36.0,
+          125.60107421875
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFORMATION:\nArt.no: 473064\nEAN: 4895149079163\nE-nummer: 7702949",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.5,
+          400.23779296875
+        ],
+        [
+          441.6382751464844,
+          400.23779296875
+        ],
+        [
+          441.6382751464844,
+          446.0806884765625
+        ],
+        [
+          315.5,
+          446.0806884765625
+        ]
+      ]
+    },
+    {
+      "title": "GP Safeguard RF1.1, tr\u00e5dl\u00f6s utomhusbelysning, LED",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.4443359375,
+          45.6871337890625
+        ],
+        [
+          465.4248046875,
+          45.6871337890625
+        ],
+        [
+          465.4248046875,
+          69.7384033203125
+        ],
+        [
+          35.4443359375,
+          69.7384033203125
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.6622314453125,
+          95.280029296875
+        ],
+        [
+          168.505859375,
+          95.280029296875
+        ],
+        [
+          168.505859375,
+          111.21142578125
+        ],
+        [
+          35.6622314453125,
+          111.21142578125
+        ]
+      ]
+    },
+    {
+      "title": "Packaging information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0,
+          325.82275390625
+        ],
+        [
+          166.7626953125,
+          325.82275390625
+        ],
+        [
+          166.7626953125,
+          340.21240234375
+        ],
+        [
+          36.0,
+          340.21240234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50129793_pro"
+}

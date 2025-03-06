@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Dark background -->
+  <rect width="800" height="500" fill="#1e2030" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" fill="#e4ecff" text-anchor="middle" font-weight="bold">Exempel på Extraherade Data</text>
+  
+  <!-- Main container -->
+  <rect x="50" y="60" width="700" height="420" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  
+  <!-- Technical specifications section -->
+  <rect x="70" y="80" width="320" height="180" fill="#1f2937" rx="6" ry="6"/>
+  <text x="230" y="105" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Tekniska Specifikationer</text>
+  
+  <!-- Technical JSON visualization -->
+  <rect x="90" y="120" width="280" height="130" rx="4" ry="4" fill="#0f172a"/>
+  <text x="100" y="140" font-family="monospace" font-size="9" fill="#e4ecff" text-anchor="start">{</text>
+  <text x="110" y="155" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"specifications": [</text>
+  <text x="120" y="170" font-family="monospace" font-size="9" fill="#e4ecff" text-anchor="start">{</text>
+  <text x="130" y="185" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"category":</text>
+  <text x="200" y="185" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">"dimensioner",</text>
+  <text x="130" y="200" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"name":</text>
+  <text x="200" y="200" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">"höjd",</text>
+  <text x="130" y="215" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"raw_value":</text>
+  <text x="200" y="215" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">"225 mm",</text>
+  <text x="130" y="230" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"value":</text>
+  <text x="200" y="230" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">225,</text>
+  <text x="130" y="245" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"confidence":</text>
+  <text x="200" y="245" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">0.98</text>
+  
+  <!-- Compatibility section -->
+  <rect x="410" y="80" width="320" height="180" fill="#1f2937" rx="6" ry="6"/>
+  <text x="570" y="105" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Kompatibilitetsinformation</text>
+  
+  <!-- Compatibility JSON visualization -->
+  <rect x="430" y="120" width="280" height="130" rx="4" ry="4" fill="#0f172a"/>
+  <text x="440" y="140" font-family="monospace" font-size="9" fill="#e4ecff" text-anchor="start">{</text>
+  <text x="450" y="155" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"relations": [</text>
+  <text x="460" y="170" font-family="monospace" font-size="9" fill="#e4ecff" text-anchor="start">{</text>
+  <text x="470" y="185" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"relation_type":</text>
+  <text x="550" y="185" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">"passar till",</text>
+  <text x="470" y="200" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"related_product":</text>
+  <text x="550" y="200" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">"Trycke 6696",</text>
+  <text x="470" y="215" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"article_numbers":</text>
+  <text x="550" y="215" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">[{"supplier": </text>
+  <text x="470" y="230" font-family="monospace" font-size="9" fill="#e4ecff" text-anchor="start">  "Copiax", "number": "50093073"}],</text>
+  <text x="470" y="245" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"confidence":</text>
+  <text x="550" y="245" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">0.95</text>
+  
+  <!-- Product identifiers section -->
+  <rect x="70" y="270" width="320" height="180" fill="#1f2937" rx="6" ry="6"/>
+  <text x="230" y="295" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Produkt-identifierare</text>
+  
+  <!-- Identifiers JSON visualization -->
+  <rect x="90" y="310" width="280" height="130" rx="4" ry="4" fill="#0f172a"/>
+  <text x="100" y="330" font-family="monospace" font-size="9" fill="#e4ecff" text-anchor="start">{</text>
+  <text x="110" y="345" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"identifiers": [</text>
+  <text x="120" y="360" font-family="monospace" font-size="9" fill="#e4ecff" text-anchor="start">{</text>
+  <text x="130" y="375" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"type":</text>
+  <text x="170" y="375" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">"ean",</text>
+  <text x="130" y="390" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"value":</text>
+  <text x="170" y="390" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">"7393649124562",</text>
+  <text x="130" y="405" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"is_valid":</text>
+  <text x="190" y="405" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">true,</text>
+  <text x="130" y="420" font-family="monospace" font-size="9" fill="#38bdf8" text-anchor="start">"confidence":</text>
+  <text x="190" y="420" font-family="monospace" font-size="9" fill="#a5b4fc" text-anchor="start">0.99</text>
+  <text x="120" y="435" font-family="monospace" font-size="9" fill="#e4ecff" text-anchor="start">}, ...</text>
+  
+  <!-- Visualization section -->
+  <rect x="410" y="270" width="320" height="180" fill="#1f2937" rx="6" ry="6"/>
+  <text x="570" y="295" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Visualiseringar & Rapporter</text>
+  
+  <!-- Terminal output visualization -->
+  <rect x="430" y="310" width="280" height="60" rx="4" ry="4" fill="#0f172a"/>
+  <text x="440" y="330" font-family="monospace" font-size="9" fill="#10b981" text-anchor="start">[■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%</text>
+  <text x="440" y="345" font-family="monospace" font-size="9" fill="#10b981" text-anchor="start">✓ Processed 256 documents</text>
+  <text x="440" y="360" font-family="monospace" font-size="9" fill="#10b981" text-anchor="start">✓ Extracted 1,842 technical specs</text>
+  
+  <!-- Chart visualization -->
+  <rect x="430" y="380" width="280" height="60" rx="4" ry="4" fill="#0f172a"/>
+  
+  <!-- Simple bar chart -->
+  <rect x="450" y="395" width="60" height="35" fill="#4c1d95"/>
+  <rect x="520" y="405" width="60" height="25" fill="#6d28d9"/>
+  <rect x="590" y="385" width="60" height="45" fill="#8b5cf6"/>
+  
+  <text x="480" y="440" font-family="Arial, sans-serif" font-size="9" fill="#e4ecff" text-anchor="middle">Tekniska</text>
+  <text x="550" y="440" font-family="Arial, sans-serif" font-size="9" fill="#e4ecff" text-anchor="middle">Kompatibilitet</text>
+  <text x="620" y="440" font-family="Arial, sans-serif" font-size="9" fill="#e4ecff" text-anchor="middle">Identifierare</text>
+</svg>

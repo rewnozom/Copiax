@@ -1,0 +1,204 @@
+{
+  "table_of_contents": [
+    {
+      "title": "(12V AH) \n12-5.4 5.4\nUS\nUS SERIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.328125,
+          32.00634765625
+        ],
+        [
+          502.87499999999994,
+          32.00634765625
+        ],
+        [
+          502.87499999999994,
+          98.85357666015625
+        ],
+        [
+          300.328125,
+          98.85357666015625
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          269.6264953613281,
+          103.169921875
+        ],
+        [
+          382.39453125,
+          103.169921875
+        ],
+        [
+          382.39453125,
+          117.01177978515625
+        ],
+        [
+          269.6264953613281,
+          117.01177978515625
+        ]
+      ]
+    },
+    {
+      "title": "0 0\nCo nstant Current Disch arge (A mperes) at 25 C (7 7 F )\n0 0\nConstant Current Discharge (A mperes) at 2 C F ) C nstant isch r e (A mpere ) at 2 C F )\n0 (6 8",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          169.662109375,
+          539.2956848144531
+        ],
+        [
+          471.9262390136719,
+          539.2956848144531
+        ],
+        [
+          471.9262390136719,
+          552.1941986083984
+        ],
+        [
+          169.662109375,
+          552.1941986083984
+        ]
+      ]
+    },
+    {
+      "title": "Co nstant Power Disch arge (Watts) at 0 0 20 C (6 8 F )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          184.3583984375,
+          663.99609375
+        ],
+        [
+          459.8529968261719,
+          663.99609375
+        ],
+        [
+          459.8529968261719,
+          677.7049865722656
+        ],
+        [
+          184.3583984375,
+          677.7049865722656
+        ]
+      ]
+    },
+    {
+      "title": "Dimensi ons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.23396226415094,
+          35.039306640625
+        ],
+        [
+          110.20377358490565,
+          35.039306640625
+        ],
+        [
+          110.20377358490565,
+          47.664306640625
+        ],
+        [
+          38.23396226415094,
+          47.664306640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          354
+        ],
+        [
+          "TableCell",
+          301
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          192
+        ],
+        [
+          "Span",
+          191
+        ],
+        [
+          "Figure",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142579_pro"
+}

@@ -1,0 +1,173 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.23828125,
+          31.2666015625
+        ],
+        [
+          492.39843749999994,
+          31.2666015625
+        ],
+        [
+          492.39843749999994,
+          93.9970703125
+        ],
+        [
+          303.23828125,
+          93.9970703125
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          268.3874213836478,
+          101.8876953125
+        ],
+        [
+          365.515625,
+          101.8876953125
+        ],
+        [
+          365.515625,
+          114.3154296875
+        ],
+        [
+          268.3874213836478,
+          114.3154296875
+        ]
+      ]
+    },
+    {
+      "title": "Co ns tant C urrent Dis ch arge (A mperes) at 20 \u00b0C (6 8\u00b0F )\nF.V/Tim e\n20 min\n4h\n5h\n5m in\n10 min\n15 m in\n30 min\n45 min\n1 h\n2h\n3h\n6h\n8h\n10 h\n20h\n1.8 5V /ce ll\n5.79\n4.45\n3.68\n3.18\n2.46\n1.81\n1.53\n0.91\n0.715\n0.581\n0.474\n0.416\n0.335\n0.280\n0.154\n1.8 0V /ce ll\n7.77\n5.68\n4.45\n3.76\n2.91\n2.11\n1.71\n1.00\n0.769\n0.621\n0.509\n0.446\n0.355\n0.289\n0.155\n1.03\n1.7 5V /cell\n8.76\n6.24\n4.05\n3.02\n2.19\n1.79\n0.783\n0.634\n0.522\n0.458\n0.362\n0.296\n0.157\n4.86\n1.7 0V /ce ll\n9.65\n6.80\n5.19\n4.26\n3.14\n2.28\n1.85\n1.06\n0.805\n0.651\n0.535\n0.467\n0.367\n0.302\n0.160\n1.6 5V /cell\n10.6\n7.34\n5.52\n4.52\n3.31\n2.33\n1.89\n1.08\n0.840\n0.674\n0.550\n0.478\n0.372\n0.309\n0.162\n1.6 0V /ce ll\n11.7\n7.97\n5.90\n4.82\n3.50\n2.43\n1.91\n1.12\n0.865\n0.695\n0.568\n0.488\n0.376\n0.312\n0.163",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.956054687499996,
+          538.9165120593692
+        ],
+        [
+          567.48046875,
+          538.9165120593692
+        ],
+        [
+          567.48046875,
+          647.8203125
+        ],
+        [
+          28.956054687499996,
+          647.8203125
+        ]
+      ]
+    },
+    {
+      "title": "Co ns tant P ower Dis ch ar ge (W atts ) a t 2 0 \u2103 (6 8 \u2109 )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          184.0673828125,
+          663.3395176252319
+        ],
+        [
+          458.8075471698113,
+          663.3395176252319
+        ],
+        [
+          458.8075471698113,
+          676.62109375
+        ],
+        [
+          184.0673828125,
+          676.62109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          200
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Span",
+          124
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          187
+        ],
+        [
+          "Span",
+          187
+        ],
+        [
+          "Figure",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142587_pro"
+}

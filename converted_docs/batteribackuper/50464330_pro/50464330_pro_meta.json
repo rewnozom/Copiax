@@ -1,0 +1,146 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Datablad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.892578125,
+          128.2734375
+        ],
+        [
+          185.9452667236328,
+          128.2734375
+        ],
+        [
+          185.9452667236328,
+          147.89019775390625
+        ],
+        [
+          103.892578125,
+          147.89019775390625
+        ]
+      ]
+    },
+    {
+      "title": "AX-Power PB-2410, 2-3790",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.40185546875,
+          206.7998046875
+        ],
+        [
+          333.59417724609375,
+          206.7998046875
+        ],
+        [
+          333.59417724609375,
+          228.93731689453125
+        ],
+        [
+          104.40185546875,
+          228.93731689453125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.623291015625,
+          81.5584716796875
+        ],
+        [
+          166.18890380859375,
+          81.5584716796875
+        ],
+        [
+          166.18890380859375,
+          99.6483154296875
+        ],
+        [
+          63.623291015625,
+          99.6483154296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464330_pro"
+}

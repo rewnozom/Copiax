@@ -1,0 +1,266 @@
+{
+  "table_of_contents": [
+    {
+      "title": "XLT Series - General Purpose\nXLT12-12 12V 12Ah",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          297.952880859375,
+          53.755615234375
+        ],
+        [
+          570.390625,
+          53.755615234375
+        ],
+        [
+          570.390625,
+          103.45294189453125
+        ],
+        [
+          297.952880859375,
+          103.45294189453125
+        ]
+      ]
+    },
+    {
+      "title": "Applications",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          422.263671875,
+          277.103515625
+        ],
+        [
+          500.58538818359375,
+          277.103515625
+        ],
+        [
+          500.58538818359375,
+          291.4931640625
+        ],
+        [
+          422.263671875,
+          291.4931640625
+        ]
+      ]
+    },
+    {
+      "title": "Dimensi ons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.52392578125,
+          39.571533203125
+        ],
+        [
+          116.10585021972656,
+          39.571533203125
+        ],
+        [
+          116.10585021972656,
+          52.01507568359375
+        ],
+        [
+          40.52392578125,
+          52.01507568359375
+        ]
+      ]
+    },
+    {
+      "title": "Discharge Characteristics Float Charging Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.11619567871094,
+          191.9990234375
+        ],
+        [
+          484.541015625,
+          191.9990234375
+        ],
+        [
+          484.541015625,
+          202.6884765625
+        ],
+        [
+          41.11619567871094,
+          202.6884765625
+        ]
+      ]
+    },
+    {
+      "title": "Cycle Life in Rel atio n to Depth of Dis cha rge Self Discharge Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.7421875,
+          513.5048828125
+        ],
+        [
+          482.5103454589844,
+          513.5048828125
+        ],
+        [
+          482.5103454589844,
+          524.1943359375
+        ],
+        [
+          40.7421875,
+          524.1943359375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          327.1015625,
+          355.42431640625
+        ],
+        [
+          554.09375,
+          355.42431640625
+        ],
+        [
+          554.09375,
+          365.70263671875
+        ],
+        [
+          327.1015625,
+          365.70263671875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          327.68359375,
+          514.3271484375
+        ],
+        [
+          483.66796875,
+          514.3271484375
+        ],
+        [
+          483.66796875,
+          523.3720703125
+        ],
+        [
+          327.68359375,
+          523.3720703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          306
+        ],
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          492
+        ],
+        [
+          "Line",
+          196
+        ],
+        [
+          "Figure",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142593_pro"
+}

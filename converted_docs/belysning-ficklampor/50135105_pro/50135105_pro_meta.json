@@ -1,0 +1,115 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SafeE Pannlampa 3xAAA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.587799072265625,
+          29.57666015625
+        ],
+        [
+          250.76089477539062,
+          29.57666015625
+        ],
+        [
+          250.76089477539062,
+          47.862274169921875
+        ],
+        [
+          30.587799072265625,
+          47.862274169921875
+        ]
+      ]
+    },
+    {
+      "title": "Funktion tryckknapp",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.2623291015625,
+          121.642578125
+        ],
+        [
+          140.87005615234375,
+          121.642578125
+        ],
+        [
+          140.87005615234375,
+          135.702392578125
+        ],
+        [
+          28.2623291015625,
+          135.702392578125
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.20465087890625,
+          280.93359375
+        ],
+        [
+          101.1548843383789,
+          280.93359375
+        ],
+        [
+          101.1548843383789,
+          295.2693328857422
+        ],
+        [
+          28.20465087890625,
+          295.2693328857422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135105_pro"
+}

@@ -1,0 +1,254 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SM925/926\nS\u00c4KRINGSKORT F\u00d6R INBYGGNAD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.06494140625,
+          53.755615234375
+        ],
+        [
+          291.306640625,
+          53.755615234375
+        ],
+        [
+          291.306640625,
+          98.2607421875
+        ],
+        [
+          78.06494140625,
+          98.2607421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          424.30078125,
+          61.2073974609375
+        ],
+        [
+          527.3203125,
+          61.2073974609375
+        ],
+        [
+          527.3203125,
+          87.3143310546875
+        ],
+        [
+          424.30078125,
+          87.3143310546875
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING SM925",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.134765625,
+          376.1865234375
+        ],
+        [
+          187.2320098876953,
+          376.1865234375
+        ],
+        [
+          187.2320098876953,
+          389.16046142578125
+        ],
+        [
+          70.134765625,
+          389.16046142578125
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING SM926",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.953125,
+          375.9608459472656
+        ],
+        [
+          435.4419860839844,
+          375.9608459472656
+        ],
+        [
+          435.4419860839844,
+          388.72607421875
+        ],
+        [
+          318.953125,
+          388.72607421875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.02996826171875,
+          561.1962890625
+        ],
+        [
+          408.294921875,
+          561.1962890625
+        ],
+        [
+          408.294921875,
+          577.6416015625
+        ],
+        [
+          319.02996826171875,
+          577.6416015625
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLINGSANVISNING SM925 \n Str\u00f6mf\u00f6rs\u00f6rjning med plats f\u00f6r batteri",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          2.0399999618530273,
+          158.67437744140625
+        ],
+        [
+          479.78070068359375,
+          158.67437744140625
+        ],
+        [
+          479.78070068359375,
+          184.084716796875
+        ],
+        [
+          2.0399999618530273,
+          184.084716796875
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLINGSANVISNING SM926",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.0299987792969,
+          171.57061767578125
+        ],
+        [
+          495.83197021484375,
+          171.57061767578125
+        ],
+        [
+          495.83197021484375,
+          184.5986328125
+        ],
+        [
+          319.0299987792969,
+          184.5986328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50093054_pro"
+}

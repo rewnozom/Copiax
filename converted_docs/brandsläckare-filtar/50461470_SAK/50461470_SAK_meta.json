@@ -1,0 +1,2006 @@
+{
+  "table_of_contents": [
+    {
+      "title": "S\u00c4KERHETSDATABLAD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          235.4530029296875,
+          86.8004150390625
+        ],
+        [
+          362.896484375,
+          86.8004150390625
+        ],
+        [
+          362.896484375,
+          101.1900634765625
+        ],
+        [
+          235.4530029296875,
+          101.1900634765625
+        ]
+      ]
+    },
+    {
+      "title": "SUN ABC STANDARD TILL MODELL PE1HR-A, PE2HR-A,\nPE2CR-A, PE4HR-A, PE4CR-A, PE6HR-C, PE12HR-A,\nPE12CR-A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.9521484375,
+          108.847412109375
+        ],
+        [
+          527.3203125,
+          108.847412109375
+        ],
+        [
+          527.3203125,
+          180.9586181640625
+        ],
+        [
+          67.9521484375,
+          180.9586181640625
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 1: Namnet p\u00e5 \u00e4mnet / blandningen och bolaget / f\u00f6retaget",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.94921875,
+          261.8916015625
+        ],
+        [
+          463.005859375,
+          261.8916015625
+        ],
+        [
+          463.005859375,
+          276.6923828125
+        ],
+        [
+          59.94921875,
+          276.6923828125
+        ]
+      ]
+    },
+    {
+      "title": "1.1. Produktbeteckning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.494140625,
+          330.1396484375
+        ],
+        [
+          186.541015625,
+          330.1396484375
+        ],
+        [
+          186.541015625,
+          343.9628601074219
+        ],
+        [
+          58.494140625,
+          343.9628601074219
+        ]
+      ]
+    },
+    {
+      "title": "1.2 Relevanta identifierade anv\u00e4ndningar av \u00e4mnet eller blandningen och anv\u00e4ndningar\nsom det avr\u00e5ds fr\u00e5n",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.6396484375,
+          454.712890625
+        ],
+        [
+          519.75390625,
+          454.712890625
+        ],
+        [
+          519.75390625,
+          483.8228759765625
+        ],
+        [
+          58.6396484375,
+          483.8228759765625
+        ]
+      ]
+    },
+    {
+      "title": "1.3 N\u00e4rmare upplysningar om den som tillhandah\u00e5ller s\u00e4kerhetsdatablad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.87299728393555,
+          550.5068359375
+        ],
+        [
+          442.92578125,
+          550.5068359375
+        ],
+        [
+          442.92578125,
+          563.6630859375
+        ],
+        [
+          58.87299728393555,
+          563.6630859375
+        ]
+      ]
+    },
+    {
+      "title": "1.4. Telefonnummer f\u00f6r n\u00f6dsituationer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.78515625,
+          118.097900390625
+        ],
+        [
+          265.98828125,
+          118.097900390625
+        ],
+        [
+          265.98828125,
+          131.80291748046875
+        ],
+        [
+          58.78515625,
+          131.80291748046875
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 2: Farliga egenskaper",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.658203125,
+          181.206787109375
+        ],
+        [
+          244.744140625,
+          181.206787109375
+        ],
+        [
+          244.744140625,
+          197.035400390625
+        ],
+        [
+          59.658203125,
+          197.035400390625
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Klassificering av \u00e4mnet eller blandningen",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.56689453125,
+          207.6220703125
+        ],
+        [
+          298.0,
+          207.6220703125
+        ],
+        [
+          298.0,
+          220.9029541015625
+        ],
+        [
+          58.56689453125,
+          220.9029541015625
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 3: Sammans\u00e4ttning/information om best\u00e5ndsdelar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.3671875,
+          474.8583984375
+        ],
+        [
+          417.31640625,
+          474.8583984375
+        ],
+        [
+          417.31640625,
+          490.4814453125
+        ],
+        [
+          59.3671875,
+          490.4814453125
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Blandningar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.494140625,
+          502.8154296875
+        ],
+        [
+          146.380859375,
+          502.8154296875
+        ],
+        [
+          146.380859375,
+          516.0130004882812
+        ],
+        [
+          58.494140625,
+          516.0130004882812
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 4: \u00c5tg\u00e4rder vid f\u00f6rsta hj\u00e4lpen",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.076171875,
+          647.123046875
+        ],
+        [
+          291.015625,
+          647.123046875
+        ],
+        [
+          291.015625,
+          662.74609375
+        ],
+        [
+          59.076171875,
+          662.74609375
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Beskrivning av \u00e5tg\u00e4rder vid f\u00f6rsta hj\u00e4lpen",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.42138671875,
+          675.4912109375
+        ],
+        [
+          302.65625,
+          675.4912109375
+        ],
+        [
+          302.65625,
+          688.6474609375
+        ],
+        [
+          58.42138671875,
+          688.6474609375
+        ]
+      ]
+    },
+    {
+      "title": "4.2 De viktigaste symptomen och effekterna, b\u00e5de akuta och f\u00f6rdr\u00f6jda",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.78515625,
+          175.862060546875
+        ],
+        [
+          431.28515625,
+          175.862060546875
+        ],
+        [
+          431.28515625,
+          189.018310546875
+        ],
+        [
+          58.78515625,
+          189.018310546875
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Beskrivning av omedelbar medicinsk behandling och s\u00e4rskild behandling som\neventuellt kr\u00e4vs",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.87299728393555,
+          235.78466796875
+        ],
+        [
+          488.90625,
+          235.78466796875
+        ],
+        [
+          488.90625,
+          265.66290283203125
+        ],
+        [
+          58.87299728393555,
+          265.66290283203125
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 5: Brandbek\u00e4mpnings\u00e5tg\u00e4rder",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.73095703125,
+          301.771484375
+        ],
+        [
+          299.455078125,
+          301.771484375
+        ],
+        [
+          299.455078125,
+          316.5802001953125
+        ],
+        [
+          59.73095703125,
+          316.5802001953125
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Sl\u00e4ckmedel",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.87299728393555,
+          328.70068359375
+        ],
+        [
+          142.23388671875,
+          328.70068359375
+        ],
+        [
+          142.23388671875,
+          342.16290283203125
+        ],
+        [
+          58.87299728393555,
+          342.16290283203125
+        ]
+      ]
+    },
+    {
+      "title": "5.2 S\u00e4rskilda faror som \u00e4mnet eller blandningen kan medf\u00f6ra",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.494140625,
+          395.30419921875
+        ],
+        [
+          382.9765625,
+          395.30419921875
+        ],
+        [
+          382.9765625,
+          409.242919921875
+        ],
+        [
+          58.494140625,
+          409.242919921875
+        ]
+      ]
+    },
+    {
+      "title": "5.3. R\u00e5d till brandbek\u00e4mpningspersonal",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.87299728393555,
+          489.248046875
+        ],
+        [
+          268.607421875,
+          489.248046875
+        ],
+        [
+          268.607421875,
+          502.404296875
+        ],
+        [
+          58.87299728393555,
+          502.404296875
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 6: \u00c5tg\u00e4rder vid oavsiktliga utsl\u00e4pp",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.94921875,
+          581.341796875
+        ],
+        [
+          321.572265625,
+          581.341796875
+        ],
+        [
+          321.572265625,
+          596.96484375
+        ],
+        [
+          59.94921875,
+          596.96484375
+        ]
+      ]
+    },
+    {
+      "title": "6.1 Personliga skydds\u00e5tg\u00e4rder, skyddsutrustning och \u00e5tg\u00e4rder vid n\u00f6dsituationer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.6396484375,
+          608.4765625
+        ],
+        [
+          484.83203125,
+          608.4765625
+        ],
+        [
+          484.83203125,
+          621.8229064941406
+        ],
+        [
+          58.6396484375,
+          621.8229064941406
+        ]
+      ]
+    },
+    {
+      "title": "6.2. Milj\u00f6skydds\u00e5tg\u00e4rder",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.530517578125,
+          682.8916015625
+        ],
+        [
+          194.107421875,
+          682.8916015625
+        ],
+        [
+          194.107421875,
+          696.0478515625
+        ],
+        [
+          58.530517578125,
+          696.0478515625
+        ]
+      ]
+    },
+    {
+      "title": "6.3. Metoder och material f\u00f6r inneslutning och sanering",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.69384765625,
+          730.994140625
+        ],
+        [
+          354.166015625,
+          730.994140625
+        ],
+        [
+          354.166015625,
+          744.97265625
+        ],
+        [
+          57.69384765625,
+          744.97265625
+        ]
+      ]
+    },
+    {
+      "title": "6.4 H\u00e4nvisning till andra avsnitt",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.87299728393555,
+          125.60107421875
+        ],
+        [
+          225.9736328125,
+          125.60107421875
+        ],
+        [
+          225.9736328125,
+          138.40289306640625
+        ],
+        [
+          58.87299728393555,
+          138.40289306640625
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 7: Hantering och lagring",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.3857421875,
+          174.628662109375
+        ],
+        [
+          261.4775390625,
+          174.628662109375
+        ],
+        [
+          261.4775390625,
+          189.3201904296875
+        ],
+        [
+          60.3857421875,
+          189.3201904296875
+        ]
+      ]
+    },
+    {
+      "title": "7.1 F\u00f6rsiktighetsm\u00e5tt f\u00f6r s\u00e4ker hantering",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.87299728393555,
+          201.66064453125
+        ],
+        [
+          277.046875,
+          201.66064453125
+        ],
+        [
+          277.046875,
+          214.90289306640625
+        ],
+        [
+          58.87299728393555,
+          214.90289306640625
+        ]
+      ]
+    },
+    {
+      "title": "Skydds\u00e5tg\u00e4rder",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.71240234375,
+          288.40966796875
+        ],
+        [
+          142.37939453125,
+          288.40966796875
+        ],
+        [
+          142.37939453125,
+          301.56591796875
+        ],
+        [
+          58.71240234375,
+          301.56591796875
+        ]
+      ]
+    },
+    {
+      "title": "7.2 F\u00f6rh\u00e5llanden f\u00f6r s\u00e4ker lagring, inklusive eventuell of\u00f6renlighet",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.203125,
+          361.796875
+        ],
+        [
+          410.623046875,
+          361.796875
+        ],
+        [
+          410.623046875,
+          375.3642578125
+        ],
+        [
+          58.203125,
+          375.3642578125
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rh\u00e5llanden f\u00f6r s\u00e4ker lagring",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.42138671875,
+          409.28271484375
+        ],
+        [
+          219.42578125,
+          409.28271484375
+        ],
+        [
+          219.42578125,
+          423.3429260253906
+        ],
+        [
+          58.42138671875,
+          423.3429260253906
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Specifik slutanv\u00e4ndning",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.71240234375,
+          458.001953125
+        ],
+        [
+          204.79461669921875,
+          458.001953125
+        ],
+        [
+          204.79461669921875,
+          471.82293701171875
+        ],
+        [
+          58.71240234375,
+          471.82293701171875
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 8: Begr\u00e4nsning av exponeringen/personligt skydd",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.94921875,
+          507.7490234375
+        ],
+        [
+          411.787109375,
+          507.7490234375
+        ],
+        [
+          411.787109375,
+          523.3720703125
+        ],
+        [
+          59.94921875,
+          523.3720703125
+        ]
+      ]
+    },
+    {
+      "title": "8.1 Kontrollparametrar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.56689453125,
+          535.294921875
+        ],
+        [
+          181.884765625,
+          535.294921875
+        ],
+        [
+          181.884765625,
+          548.451171875
+        ],
+        [
+          58.56689453125,
+          548.451171875
+        ]
+      ]
+    },
+    {
+      "title": "8.2 Begr\u00e4nsning av exponeringen",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.912109375,
+          264.3583984375
+        ],
+        [
+          235.5771484375,
+          264.3583984375
+        ],
+        [
+          235.5771484375,
+          277.00286865234375
+        ],
+        [
+          57.912109375,
+          277.00286865234375
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kerhets\u00e5tg\u00e4rder f\u00f6r att f\u00f6rhindra exponering",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.0576171875,
+          289.64306640625
+        ],
+        [
+          306.1484375,
+          289.64306640625
+        ],
+        [
+          306.1484375,
+          302.38287353515625
+        ],
+        [
+          58.0576171875,
+          302.38287353515625
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6gon- / ansiktsskydd",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.748779296875,
+          413.80517578125
+        ],
+        [
+          171.1171875,
+          413.80517578125
+        ],
+        [
+          171.1171875,
+          426.462890625
+        ],
+        [
+          58.748779296875,
+          426.462890625
+        ]
+      ]
+    },
+    {
+      "title": "Handskydd",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.42138671875,
+          532.4169921875
+        ],
+        [
+          118.51611328125,
+          532.4169921875
+        ],
+        [
+          118.51611328125,
+          546.19287109375
+        ],
+        [
+          58.42138671875,
+          546.19287109375
+        ]
+      ]
+    },
+    {
+      "title": "Hudskydd",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.83935546875,
+          705.9150390625
+        ],
+        [
+          113.56884765625,
+          705.9150390625
+        ],
+        [
+          113.56884765625,
+          719.4728622436523
+        ],
+        [
+          57.83935546875,
+          719.4728622436523
+        ]
+      ]
+    },
+    {
+      "title": "Andningsskydd",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          57.25732421875,
+          71.8968505859375
+        ],
+        [
+          142.23388671875,
+          71.8968505859375
+        ],
+        [
+          142.23388671875,
+          85.6029052734375
+        ],
+        [
+          57.25732421875,
+          85.6029052734375
+        ]
+      ]
+    },
+    {
+      "title": "Begr\u00e4nsning av milj\u00f6exponeringen",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          58.71240234375,
+          161.1640625
+        ],
+        [
+          242.70703125,
+          161.1640625
+        ],
+        [
+          242.70703125,
+          174.13287353515625
+        ],
+        [
+          58.71240234375,
+          174.13287353515625
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 9: Fysikaliska och kemiska egenskaper",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.58544921875,
+          209.47216796875
+        ],
+        [
+          347.271728515625,
+          209.47216796875
+        ],
+        [
+          347.271728515625,
+          225.0501708984375
+        ],
+        [
+          59.58544921875,
+          225.0501708984375
+        ]
+      ]
+    },
+    {
+      "title": "9.1 Information om grundl\u00e4ggande fysikaliska och kemiska egenskaper",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          58.87299728393555,
+          237.2236328125
+        ],
+        [
+          438.26953125,
+          237.2236328125
+        ],
+        [
+          438.26953125,
+          250.63287353515625
+        ],
+        [
+          58.87299728393555,
+          250.63287353515625
+        ]
+      ]
+    },
+    {
+      "title": "9.2. Annan information",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          58.42138671875,
+          717.4267578125
+        ],
+        [
+          182.466796875,
+          717.4267578125
+        ],
+        [
+          182.466796875,
+          730.5830078125
+        ],
+        [
+          58.42138671875,
+          730.5830078125
+        ]
+      ]
+    },
+    {
+      "title": "10.5. Of\u00f6renliga material",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.87299728393555,
+          413.80517578125
+        ],
+        [
+          190.1173095703125,
+          413.80517578125
+        ],
+        [
+          190.1173095703125,
+          425.95294189453125
+        ],
+        [
+          58.87299728393555,
+          425.95294189453125
+        ]
+      ]
+    },
+    {
+      "title": "10.6 Farliga s\u00f6nderdelningsprodukter",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.3486328125,
+          460.8798828125
+        ],
+        [
+          257.1123046875,
+          460.8798828125
+        ],
+        [
+          257.1123046875,
+          474.4329528808594
+        ],
+        [
+          58.3486328125,
+          474.4329528808594
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 11: Toxikologisk information",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.3671875,
+          510.626953125
+        ],
+        [
+          286.650390625,
+          510.626953125
+        ],
+        [
+          286.650390625,
+          525.427734375
+        ],
+        [
+          59.3671875,
+          525.427734375
+        ]
+      ]
+    },
+    {
+      "title": "11.1 Information om de toxikologiska effekterna",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.85791015625,
+          538.583984375
+        ],
+        [
+          314.587890625,
+          538.583984375
+        ],
+        [
+          314.587890625,
+          550.9329223632812
+        ],
+        [
+          58.85791015625,
+          550.9329223632812
+        ]
+      ]
+    },
+    {
+      "title": "Symtom p\u00e5 exponering",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.78515625,
+          481.4365234375
+        ],
+        [
+          182.17578125,
+          481.4365234375
+        ],
+        [
+          182.17578125,
+          494.5927734375
+        ],
+        [
+          58.78515625,
+          494.5927734375
+        ]
+      ]
+    },
+    {
+      "title": "11.2 Information om andra faror",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.71240234375,
+          565.71875
+        ],
+        [
+          228.15625,
+          565.71875
+        ],
+        [
+          228.15625,
+          579.7628784179688
+        ],
+        [
+          58.71240234375,
+          579.7628784179688
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 12: Ekologisk information",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          59.43994140625,
+          646.7119140625
+        ],
+        [
+          271.2265625,
+          646.7119140625
+        ],
+        [
+          271.2265625,
+          661.8801574707031
+        ],
+        [
+          59.43994140625,
+          661.8801574707031
+        ]
+      ]
+    },
+    {
+      "title": "12.1 Toxicitet",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.85791015625,
+          675.4912109375
+        ],
+        [
+          131.61181640625,
+          675.4912109375
+        ],
+        [
+          131.61181640625,
+          687.8251953125
+        ],
+        [
+          58.85791015625,
+          687.8251953125
+        ]
+      ]
+    },
+    {
+      "title": "12.2 Persistens och nedbrytbarhet",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          58.494140625,
+          306.91064453125
+        ],
+        [
+          240.9609375,
+          306.91064453125
+        ],
+        [
+          240.9609375,
+          320.202880859375
+        ],
+        [
+          58.494140625,
+          320.202880859375
+        ]
+      ]
+    },
+    {
+      "title": "12.3 Bioackumuleringsf\u00f6rm\u00e5ga",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          58.42138671875,
+          368.58056640625
+        ],
+        [
+          226.41015625,
+          368.58056640625
+        ],
+        [
+          226.41015625,
+          381.73681640625
+        ],
+        [
+          58.42138671875,
+          381.73681640625
+        ]
+      ]
+    },
+    {
+      "title": "12.4 R\u00f6rlighet i jord",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          58.6396484375,
+          416.68310546875
+        ],
+        [
+          162.74488830566406,
+          416.68310546875
+        ],
+        [
+          162.74488830566406,
+          429.7629089355469
+        ],
+        [
+          58.6396484375,
+          429.7629089355469
+        ]
+      ]
+    },
+    {
+      "title": "12.5 Resultat av PBT- och vPvB-bed\u00f6mningen",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          58.3486328125,
+          464.9912109375
+        ],
+        [
+          302.07421875,
+          464.9912109375
+        ],
+        [
+          302.07421875,
+          478.242919921875
+        ],
+        [
+          58.3486328125,
+          478.242919921875
+        ]
+      ]
+    },
+    {
+      "title": "12.6 Hormonst\u00f6rande egenskaper",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          58.87299728393555,
+          539.40625
+        ],
+        [
+          239.21484375,
+          539.40625
+        ],
+        [
+          239.21484375,
+          551.9229125976562
+        ],
+        [
+          58.87299728393555,
+          551.9229125976562
+        ]
+      ]
+    },
+    {
+      "title": "12.7 Andra skadliga effekter",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          58.6396484375,
+          588.3310546875
+        ],
+        [
+          208.8037109375,
+          588.3310546875
+        ],
+        [
+          208.8037109375,
+          600.6650390625
+        ],
+        [
+          58.6396484375,
+          600.6650390625
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 13: Avfallshantering",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.3671875,
+          650.0009765625
+        ],
+        [
+          238.923828125,
+          650.0009765625
+        ],
+        [
+          238.923828125,
+          663.9794921875
+        ],
+        [
+          59.3671875,
+          663.9794921875
+        ]
+      ]
+    },
+    {
+      "title": "13.1 Avfallsbehandlingsmetoder",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          58.56689453125,
+          676.724609375
+        ],
+        [
+          231.6484375,
+          676.724609375
+        ],
+        [
+          231.6484375,
+          689.880859375
+        ],
+        [
+          58.56689453125,
+          689.880859375
+        ]
+      ]
+    },
+    {
+      "title": "14.3 Faroklass f\u00f6r transport",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.0576171875,
+          318.83349609375
+        ],
+        [
+          206.62109375,
+          318.83349609375
+        ],
+        [
+          206.62109375,
+          332.5339050292969
+        ],
+        [
+          58.0576171875,
+          332.5339050292969
+        ]
+      ]
+    },
+    {
+      "title": "14.4 F\u00f6rpackningsgrupp",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.239501953125,
+          368.375
+        ],
+        [
+          189.5966796875,
+          368.375
+        ],
+        [
+          189.5966796875,
+          381.53125
+        ],
+        [
+          58.239501953125,
+          381.53125
+        ]
+      ]
+    },
+    {
+      "title": "14.5 Milj\u00f6faror",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.56689453125,
+          416.4775390625
+        ],
+        [
+          138.30517578125,
+          416.4775390625
+        ],
+        [
+          138.30517578125,
+          429.6337890625
+        ],
+        [
+          58.56689453125,
+          429.6337890625
+        ]
+      ]
+    },
+    {
+      "title": "14.6. S\u00e4rskilda skydds\u00e5tg\u00e4rder",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.494140625,
+          464.1689453125
+        ],
+        [
+          224.5185546875,
+          464.1689453125
+        ],
+        [
+          224.5185546875,
+          477.97393798828125
+        ],
+        [
+          58.494140625,
+          477.97393798828125
+        ]
+      ]
+    },
+    {
+      "title": "14.7. Bulktransport till sj\u00f6ss enligt IMO:s instrument",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.87299728393555,
+          522.138671875
+        ],
+        [
+          335.541015625,
+          522.138671875
+        ],
+        [
+          335.541015625,
+          535.3039245605469
+        ],
+        [
+          58.87299728393555,
+          535.3039245605469
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 15: G\u00e4llande f\u00f6reskrifter",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          60.6767578125,
+          570.65234375
+        ],
+        [
+          263.2236328125,
+          570.65234375
+        ],
+        [
+          263.2236328125,
+          586.275390625
+        ],
+        [
+          60.6767578125,
+          586.275390625
+        ]
+      ]
+    },
+    {
+      "title": "15.1 F\u00f6reskrifter/lagstiftning om \u00e4mnet eller blandningen n\u00e4r det g\u00e4ller s\u00e4kerhet, h\u00e4lsa\noch milj\u00f6",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.87299728393555,
+          598.609375
+        ],
+        [
+          519.462890625,
+          598.609375
+        ],
+        [
+          519.462890625,
+          629.033203125
+        ],
+        [
+          58.87299728393555,
+          629.033203125
+        ]
+      ]
+    },
+    {
+      "title": "15.2 Kemikalies\u00e4kerhetsbed\u00f6mning",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          57.7666015625,
+          112.342041015625
+        ],
+        [
+          250.7099609375,
+          112.342041015625
+        ],
+        [
+          250.7099609375,
+          125.80291748046875
+        ],
+        [
+          57.7666015625,
+          125.80291748046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          51
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Table",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "Table",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Table",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50461470_SAK"
+}

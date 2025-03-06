@@ -1,0 +1,366 @@
+{
+  "table_of_contents": [
+    {
+      "title": "User Manual\nBattery Pack",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          148.05001831054688,
+          203.8564453125
+        ],
+        [
+          279.31640625,
+          203.8564453125
+        ],
+        [
+          279.31640625,
+          251.8740234375
+        ],
+        [
+          148.05001831054688,
+          251.8740234375
+        ]
+      ]
+    },
+    {
+      "title": "1. Important Safety Warnings",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.81103515625,
+          53.656005859375
+        ],
+        [
+          211.23046875,
+          53.656005859375
+        ],
+        [
+          211.23046875,
+          68.497802734375
+        ],
+        [
+          38.81103515625,
+          68.497802734375
+        ]
+      ]
+    },
+    {
+      "title": "Installation and Setup",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.7333984375,
+          186.541015625
+        ],
+        [
+          168.0615234375,
+          186.541015625
+        ],
+        [
+          168.0615234375,
+          200.21875
+        ],
+        [
+          41.7333984375,
+          200.21875
+        ]
+      ]
+    },
+    {
+      "title": "Storage & Maintenance",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.1435546875,
+          246.78125
+        ],
+        [
+          174.6240234375,
+          246.78125
+        ],
+        [
+          174.6240234375,
+          260.458984375
+        ],
+        [
+          42.1435546875,
+          260.458984375
+        ]
+      ]
+    },
+    {
+      "title": "Storage",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.912841796875,
+          330.302734375
+        ],
+        [
+          84.75479888916016,
+          330.302734375
+        ],
+        [
+          84.75479888916016,
+          342.525390625
+        ],
+        [
+          41.912841796875,
+          342.525390625
+        ]
+      ]
+    },
+    {
+      "title": "How to assemble BP S48T-12x9Ah",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          171.3779296875,
+          66.8056640625
+        ],
+        [
+          436.5483703613281,
+          66.8056640625
+        ],
+        [
+          436.5483703613281,
+          85.86639404296875
+        ],
+        [
+          171.3779296875,
+          85.86639404296875
+        ]
+      ]
+    },
+    {
+      "title": "Warning:\nBe careful when connect batteries, do not make batteries have short circuit.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          30.0,
+          86.3349609375
+        ],
+        [
+          574.34765625,
+          86.3349609375
+        ],
+        [
+          574.34765625,
+          120.7529296875
+        ],
+        [
+          30.0,
+          120.7529296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          22
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135348_man"
+}

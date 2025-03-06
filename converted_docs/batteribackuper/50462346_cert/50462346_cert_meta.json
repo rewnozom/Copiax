@@ -1,0 +1,841 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Nr 21-203",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          257.2578125,
+          281.42041015625
+        ],
+        [
+          341.2739562988281,
+          281.42041015625
+        ],
+        [
+          341.2739562988281,
+          304.66693115234375
+        ],
+        [
+          257.2578125,
+          304.66693115234375
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rs\u00f6rjningsutrustning\nPSV 1265, 1235, 1215 Larmklass 3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          163.6962890625,
+          321.0947265625
+        ],
+        [
+          434.6519775390625,
+          321.0947265625
+        ],
+        [
+          434.6519775390625,
+          367.072998046875
+        ],
+        [
+          163.6962890625,
+          367.072998046875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          130.083984375,
+          171.853515625
+        ],
+        [
+          462.71484375,
+          171.853515625
+        ],
+        [
+          462.71484375,
+          233.31787109375
+        ],
+        [
+          130.083984375,
+          233.31787109375
+        ]
+      ]
+    },
+    {
+      "title": "No21-203",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          258.8399963378906,
+          280.392578125
+        ],
+        [
+          340.4339904785156,
+          280.392578125
+        ],
+        [
+          340.4339904785156,
+          304.66693115234375
+        ],
+        [
+          258.8399963378906,
+          304.66693115234375
+        ]
+      ]
+    },
+    {
+      "title": "Power supply equipment\nPSV 1265, 1235, 1215 Larmklass 3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          164.1328125,
+          321.30029296875
+        ],
+        [
+          434.6519775390625,
+          321.30029296875
+        ],
+        [
+          434.6519775390625,
+          367.072998046875
+        ],
+        [
+          164.1328125,
+          367.072998046875
+        ]
+      ]
+    },
+    {
+      "title": "Ref. Certif. No.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          420.80859375,
+          36.51373291015625
+        ],
+        [
+          494.6649874055415,
+          36.51373291015625
+        ],
+        [
+          494.6649874055415,
+          48.07684326171875
+        ],
+        [
+          420.80859375,
+          48.07684326171875
+        ]
+      ]
+    },
+    {
+      "title": "IEC SYSTEM FOR MUTUAL RECOGNITION OF TEST CERTIFICATES FOR\nELECTRICAL EQUIPMENT (IECEE) CB SCHEME",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.05541561712846,
+          117.71504897595726
+        ],
+        [
+          483.0859375,
+          119.228515625
+        ],
+        [
+          483.0859375,
+          146.7744140625
+        ],
+        [
+          66.05541561712846,
+          146.7744140625
+        ]
+      ]
+    },
+    {
+      "title": "CB TEST CERTIFICATE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.80604534005037,
+          170.6201171875
+        ],
+        [
+          201.673828125,
+          170.6201171875
+        ],
+        [
+          201.673828125,
+          185.4208984375
+        ],
+        [
+          66.80604534005037,
+          185.4208984375
+        ]
+      ]
+    },
+    {
+      "title": "SE-100168",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          423.3551637279597,
+          66.4493408203125
+        ],
+        [
+          494.7265625,
+          66.4493408203125
+        ],
+        [
+          494.7265625,
+          82.0723876953125
+        ],
+        [
+          423.3551637279597,
+          82.0723876953125
+        ]
+      ]
+    },
+    {
+      "title": "Ratings and principal characteristics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.55415617128463,
+          120.564697265625
+        ],
+        [
+          240.9609375,
+          120.564697265625
+        ],
+        [
+          240.9609375,
+          132.898681640625
+        ],
+        [
+          64.55415617128463,
+          132.898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Additional information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.80352644836272,
+          198.5771484375
+        ],
+        [
+          173.3954659949622,
+          198.5771484375
+        ],
+        [
+          173.3954659949622,
+          210.5
+        ],
+        [
+          64.55415617128463,
+          211.43722172751558
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Conformity\nwith\nEuropean standards\nfor Components and Systems",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          175.64735516372795,
+          59.982190560997324
+        ],
+        [
+          457.13350125944584,
+          59.982190560997324
+        ],
+        [
+          457.13350125944584,
+          172.67578125
+        ],
+        [
+          175.64735516372795,
+          172.67578125
+        ]
+      ]
+    },
+    {
+      "title": "Alarmtech Sweden AB\nStaffans Vag 6A\nSE-192 78 SOLLENTUNA\nSweden",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          169.64231738035264,
+          356.041015625
+        ],
+        [
+          291.888671875,
+          356.041015625
+        ],
+        [
+          291.888671875,
+          402.087890625
+        ],
+        [
+          169.64231738035264,
+          402.087890625
+        ]
+      ]
+    },
+    {
+      "title": "EN 50131-6:2017",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          169.64231738035264,
+          435.3896484375
+        ],
+        [
+          250.85546875,
+          435.3896484375
+        ],
+        [
+          250.85546875,
+          445.36776491540513
+        ],
+        [
+          169.64231738035264,
+          445.36776491540513
+        ]
+      ]
+    },
+    {
+      "title": "Enclosure 1",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          75.81360201511335,
+          115.46571682991986
+        ],
+        [
+          136.6318359375,
+          115.46571682991986
+        ],
+        [
+          136.6318359375,
+          130.4612644701692
+        ],
+        [
+          75.81360201511335,
+          130.4612644701692
+        ]
+      ]
+    },
+    {
+      "title": "Enclosure 1",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.81360201511335,
+          115.46571682991986
+        ],
+        [
+          135.904296875,
+          115.46571682991986
+        ],
+        [
+          135.904296875,
+          130.4612644701692
+        ],
+        [
+          75.81360201511335,
+          130.4612644701692
+        ]
+      ]
+    },
+    {
+      "title": "Enclosure 2",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          75.81360201511335,
+          116.21549421193232
+        ],
+        [
+          136.3408203125,
+          116.21549421193232
+        ],
+        [
+          136.3408203125,
+          130.4612644701692
+        ],
+        [
+          75.81360201511335,
+          130.4612644701692
+        ]
+      ]
+    },
+    {
+      "title": "C EN, ROHS, REACH and WEEE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          150.6234256926952,
+          107.18627450980392
+        ],
+        [
+          450.02685546875,
+          108.3074951171875
+        ],
+        [
+          450.02685546875,
+          133.42067736185382
+        ],
+        [
+          150.6234256926952,
+          131.3035888671875
+        ]
+      ]
+    },
+    {
+      "title": "MANUFACTURERS DECLARATION\nOF CONFORMITY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          149.12468513853906,
+          152.15953654188948
+        ],
+        [
+          444.3765743073048,
+          152.15953654188948
+        ],
+        [
+          444.3765743073048,
+          192.181640625
+        ],
+        [
+          149.12468513853906,
+          192.63547237076648
+        ]
+      ]
+    },
+    {
+      "title": "Product: Power supply unit, VIP\nArticle: PSV 12xx",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          54.704030226700255,
+          237.60873440285204
+        ],
+        [
+          247.81982421875,
+          237.60873440285204
+        ],
+        [
+          247.81982421875,
+          268.3404634581105
+        ],
+        [
+          54.704030226700255,
+          268.3404634581105
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          16
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Handwriting",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          92
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          88
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          76
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          6
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50462346_cert"
+}

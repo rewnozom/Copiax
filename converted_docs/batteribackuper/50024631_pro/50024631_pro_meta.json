@@ -1,0 +1,146 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PSV 1225-18",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.04052734375,
+          64.033935546875
+        ],
+        [
+          209.67123413085938,
+          64.033935546875
+        ],
+        [
+          209.67123413085938,
+          89.318603515625
+        ],
+        [
+          61.04052734375,
+          89.318603515625
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rs\u00f6rjning, VIP, 12 V 2,5 A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.4228515625,
+          141.63525390625
+        ],
+        [
+          362.60546875,
+          141.63525390625
+        ],
+        [
+          362.60546875,
+          163.630859375
+        ],
+        [
+          62.4228515625,
+          163.630859375
+        ]
+      ]
+    },
+    {
+      "title": "Produktdetajler:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.568359375,
+          224.0673828125
+        ],
+        [
+          159.0869903564453,
+          224.0673828125
+        ],
+        [
+          159.0869903564453,
+          236.8125
+        ],
+        [
+          62.568359375,
+          236.8125
+        ]
+      ]
+    },
+    {
+      "title": "BEST\u00c4LLINGSINFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.568359375,
+          485.958984375
+        ],
+        [
+          176.673095703125,
+          485.958984375
+        ],
+        [
+          176.673095703125,
+          496.7016296386719
+        ],
+        [
+          62.568359375,
+          496.7016296386719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50024631_pro"
+}

@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "NEO Serien",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          465.333984375,
+          31.7086181640625
+        ],
+        [
+          571.263671875,
+          31.7086181640625
+        ],
+        [
+          571.263671875,
+          54.6292724609375
+        ],
+        [
+          465.333984375,
+          54.6292724609375
+        ]
+      ]
+    },
+    {
+      "title": "NEO FLX M Display",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.4853515625,
+          106.072265625
+        ],
+        [
+          256.384765625,
+          106.072265625
+        ],
+        [
+          256.384765625,
+          133.00146484375
+        ],
+        [
+          34.4853515625,
+          133.00146484375
+        ]
+      ]
+    },
+    {
+      "title": "POWER SUPPLIES - MADE IN SWEDEN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.41419982910156,
+          19.93994140625
+        ],
+        [
+          189.8876953125,
+          19.93994140625
+        ],
+        [
+          189.8876953125,
+          40.6214599609375
+        ],
+        [
+          103.41419982910156,
+          40.6214599609375
+        ]
+      ]
+    },
+    {
+      "title": "NEO Serien",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          465.916015625,
+          31.42596435546875
+        ],
+        [
+          571.263671875,
+          31.42596435546875
+        ],
+        [
+          571.263671875,
+          54.577880859375
+        ],
+        [
+          465.916015625,
+          54.577880859375
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.8858642578125,
+          86.646240234375
+        ],
+        [
+          93.23710632324219,
+          86.646240234375
+        ],
+        [
+          93.23710632324219,
+          99.36627197265625
+        ],
+        [
+          35.8858642578125,
+          99.36627197265625
+        ]
+      ]
+    },
+    {
+      "title": "Exempel p\u00e5 tillval",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0,
+          657.4013671875
+        ],
+        [
+          118.66162109375,
+          657.4013671875
+        ],
+        [
+          118.66162109375,
+          669.7353515625
+        ],
+        [
+          36.0,
+          669.7353515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          357
+        ],
+        [
+          "TableCell",
+          209
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50457199_pro"
+}

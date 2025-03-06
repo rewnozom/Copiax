@@ -1,0 +1,420 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.69287109375,
+          128.787353515625
+        ],
+        [
+          169.2255859375,
+          128.787353515625
+        ],
+        [
+          169.2255859375,
+          147.89019775390625
+        ],
+        [
+          104.69287109375,
+          147.89019775390625
+        ]
+      ]
+    },
+    {
+      "title": "AX-Power 4 (Med patchpanel)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.474609375,
+          206.902587890625
+        ],
+        [
+          360.568359375,
+          206.902587890625
+        ],
+        [
+          360.568359375,
+          228.93731689453125
+        ],
+        [
+          104.474609375,
+          228.93731689453125
+        ]
+      ]
+    },
+    {
+      "title": "Introduktion",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.314453125,
+          69.68701171875
+        ],
+        [
+          189.9838104248047,
+          69.68701171875
+        ],
+        [
+          189.9838104248047,
+          91.946533203125
+        ],
+        [
+          64.314453125,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kerhet",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.841552734375,
+          328.4951171875
+        ],
+        [
+          156.4208984375,
+          328.4951171875
+        ],
+        [
+          156.4208984375,
+          350.696533203125
+        ],
+        [
+          63.841552734375,
+          350.696533203125
+        ]
+      ]
+    },
+    {
+      "title": "Denna instruktion skall l\u00e4sas igenom i sin helhet av all handhavande\npersonal.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.1689453125,
+          359.12451171875
+        ],
+        [
+          490.0703125,
+          359.12451171875
+        ],
+        [
+          490.0703125,
+          393.24853515625
+        ],
+        [
+          64.1689453125,
+          393.24853515625
+        ]
+      ]
+    },
+    {
+      "title": "Anslutningar",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.132568359375,
+          70.1495361328125
+        ],
+        [
+          192.8820037841797,
+          70.1495361328125
+        ],
+        [
+          192.8820037841797,
+          91.946533203125
+        ],
+        [
+          64.132568359375,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling 230 VAC",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.95068359375,
+          487.603515625
+        ],
+        [
+          262.39813232421875,
+          487.603515625
+        ],
+        [
+          262.39813232421875,
+          508.982421875
+        ],
+        [
+          63.95068359375,
+          508.982421875
+        ]
+      ]
+    },
+    {
+      "title": "Batterier i serie",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.5,
+          71.228759765625
+        ],
+        [
+          225.2339324951172,
+          71.228759765625
+        ],
+        [
+          225.2339324951172,
+          91.946533203125
+        ],
+        [
+          64.5,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Ungef\u00e4rliga batteritider",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.09619140625,
+          270.9365234375
+        ],
+        [
+          300.1317443847656,
+          270.9365234375
+        ],
+        [
+          300.1317443847656,
+          293.1376953125
+        ],
+        [
+          64.09619140625,
+          293.1376953125
+        ]
+      ]
+    },
+    {
+      "title": "PoE-Portar Batterier 30W/utg. 15W/utg. 6W/utg.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.8779296875,
+          356.65771484375
+        ],
+        [
+          386.46875,
+          356.65771484375
+        ],
+        [
+          386.46875,
+          371.04736328125
+        ],
+        [
+          63.8779296875,
+          371.04736328125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data och prestanda",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.8779296875,
+          481.4365234375
+        ],
+        [
+          344.5625,
+          481.4365234375
+        ],
+        [
+          344.5625,
+          502.1965026855469
+        ],
+        [
+          63.8779296875,
+          502.1965026855469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          394
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50458723_man"
+}

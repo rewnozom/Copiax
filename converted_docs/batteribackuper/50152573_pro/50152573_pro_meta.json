@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Batteribackup NEO FLX M",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.50390625,
+          20.004180908203125
+        ],
+        [
+          347.47265625,
+          20.004180908203125
+        ],
+        [
+          347.47265625,
+          50.09405517578125
+        ],
+        [
+          35.50390625,
+          50.09405517578125
+        ]
+      ]
+    },
+    {
+      "title": "Flexibel & Utbyggnadsbar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.448974609375,
+          456.357421875
+        ],
+        [
+          174.4638671875,
+          456.357421875
+        ],
+        [
+          174.4638671875,
+          471.13604736328125
+        ],
+        [
+          34.448974609375,
+          471.13604736328125
+        ]
+      ]
+    },
+    {
+      "title": "Typiska Anv\u00e4ndningsomr\u00e5den:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.521728515625,
+          529.1279296875
+        ],
+        [
+          183.08328247070312,
+          529.1279296875
+        ],
+        [
+          183.08328247070312,
+          542.5494689941406
+        ],
+        [
+          34.521728515625,
+          542.5494689941406
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rv\u00e4ntad drifttid vid potentiellt str\u00f6mavbrott \n(nya batterier): Vid nedan last:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.123046875,
+          659.8681640625
+        ],
+        [
+          529.1460571289062,
+          659.8681640625
+        ],
+        [
+          529.1460571289062,
+          696.0478515625
+        ],
+        [
+          38.123046875,
+          696.0478515625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          436.232421875,
+          668.9130859375
+        ],
+        [
+          531.685546875,
+          668.9130859375
+        ],
+        [
+          531.685546875,
+          685.3583984375
+        ],
+        [
+          436.232421875,
+          685.3583984375
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.57666015625,
+          19.34893798828125
+        ],
+        [
+          150.1640625,
+          19.34893798828125
+        ],
+        [
+          150.1640625,
+          43.8343505859375
+        ],
+        [
+          35.57666015625,
+          43.8343505859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "TableCell",
+          80
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "TableCell",
+          188
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152573_pro"
+}

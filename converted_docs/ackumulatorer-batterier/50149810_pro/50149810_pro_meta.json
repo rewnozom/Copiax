@@ -1,0 +1,350 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BE IN CHARGE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          381.8125,
+          50.8262939453125
+        ],
+        [
+          562.2421875,
+          50.8262939453125
+        ],
+        [
+          562.2421875,
+          87.2115478515625
+        ],
+        [
+          381.8125,
+          87.2115478515625
+        ]
+      ]
+    },
+    {
+      "title": "DATASHEET SUPER B EPSILON\nSB12V1200WH-M",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.6494140625,
+          118.8173828125
+        ],
+        [
+          367.84375,
+          118.8173828125
+        ],
+        [
+          367.84375,
+          186.44873046875
+        ],
+        [
+          35.6494140625,
+          186.44873046875
+        ]
+      ]
+    },
+    {
+      "title": "BATTERY MONITORING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.72216796875,
+          283.06494140625
+        ],
+        [
+          209.240234375,
+          283.06494140625
+        ],
+        [
+          209.240234375,
+          304.44384765625
+        ],
+        [
+          35.72216796875,
+          304.44384765625
+        ]
+      ]
+    },
+    {
+      "title": "FEATURES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.86767578125,
+          408.666015625
+        ],
+        [
+          113.56884765625,
+          408.666015625
+        ],
+        [
+          113.56884765625,
+          427.9892578125
+        ],
+        [
+          35.86767578125,
+          427.9892578125
+        ]
+      ]
+    },
+    {
+      "title": "PERFORMANCE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.43115234375,
+          680.4248046875
+        ],
+        [
+          152.201171875,
+          680.4248046875
+        ],
+        [
+          152.201171875,
+          700.9814453125
+        ],
+        [
+          35.43115234375,
+          700.9814453125
+        ]
+      ]
+    },
+    {
+      "title": "SAFETY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.8673095703125,
+          29.2418212890625
+        ],
+        [
+          94.79833984375,
+          29.2418212890625
+        ],
+        [
+          94.79833984375,
+          51.9569091796875
+        ],
+        [
+          34.8673095703125,
+          51.9569091796875
+        ]
+      ]
+    },
+    {
+      "title": "Super B batteries are based on Lithium Iron \nPhosphate technology (LiFePO4). This is the \nsafest Lithium technology available today. On top \nof that our bespoke casing and electronics further \nincrease safety and durability.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.417301177978516,
+          59.100341796875
+        ],
+        [
+          299.1640625,
+          59.100341796875
+        ],
+        [
+          299.1640625,
+          137.5390625
+        ],
+        [
+          37.417301177978516,
+          137.5390625
+        ]
+      ]
+    },
+    {
+      "title": "3-YEAR WARRANTY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0,
+          144.71875
+        ],
+        [
+          185.66796875,
+          144.71875
+        ],
+        [
+          185.66796875,
+          166.919921875
+        ],
+        [
+          36.0,
+          166.919921875
+        ]
+      ]
+    },
+    {
+      "title": "APP",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0,
+          269.49755859375
+        ],
+        [
+          67.188232421875,
+          269.49755859375
+        ],
+        [
+          67.188232421875,
+          288.4093017578125
+        ],
+        [
+          36.0,
+          288.4093017578125
+        ]
+      ]
+    },
+    {
+      "title": "TECHNICAL SPECIFICATIONS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.921875,
+          352.13525390625
+        ],
+        [
+          249.982421875,
+          352.13525390625
+        ],
+        [
+          249.982421875,
+          373.51416015625
+        ],
+        [
+          34.921875,
+          373.51416015625
+        ]
+      ]
+    },
+    {
+      "title": "ENVIRONMENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.365234375,
+          30.39813232421875
+        ],
+        [
+          419.0850830078125,
+          30.39813232421875
+        ],
+        [
+          419.0850830078125,
+          52.83056640625
+        ],
+        [
+          302.365234375,
+          52.83056640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50149810_pro"
+}

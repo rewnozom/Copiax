@@ -1,0 +1,405 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UPS2200 \nUPS f\u00f6r industri och kr\u00e4vande milj\u00f6",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          87.37744140625,
+          37.721435546875
+        ],
+        [
+          333.794921875,
+          37.721435546875
+        ],
+        [
+          333.794921875,
+          87.057373046875
+        ],
+        [
+          87.37744140625,
+          87.057373046875
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.0299987792969,
+          121.90087890625
+        ],
+        [
+          405.7659912109375,
+          121.90087890625
+        ],
+        [
+          405.7659912109375,
+          135.87939453125
+        ],
+        [
+          319.0299987792969,
+          135.87939453125
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.080078125,
+          440.3232421875
+        ],
+        [
+          420.4060363769531,
+          440.3232421875
+        ],
+        [
+          420.4060363769531,
+          454.4300537109375
+        ],
+        [
+          318.080078125,
+          454.4300537109375
+        ]
+      ]
+    },
+    {
+      "title": "UPS2200 \nUPS f\u00f6r industri och kr\u00e4vande milj\u00f6",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          87.013671875,
+          36.899169921875
+        ],
+        [
+          332.991455078125,
+          36.899169921875
+        ],
+        [
+          332.991455078125,
+          85.823974609375
+        ],
+        [
+          87.013671875,
+          85.823974609375
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.20751953125,
+          134.337646484375
+        ],
+        [
+          140.156005859375,
+          134.337646484375
+        ],
+        [
+          140.156005859375,
+          150.166259765625
+        ],
+        [
+          70.20751953125,
+          150.166259765625
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.37109375,
+          133.41259765625
+        ],
+        [
+          397.0059509277344,
+          133.41259765625
+        ],
+        [
+          397.0059509277344,
+          148.4189453125
+        ],
+        [
+          318.37109375,
+          148.4189453125
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.9892578125,
+          127.553955078125
+        ],
+        [
+          140.156005859375,
+          127.553955078125
+        ],
+        [
+          140.156005859375,
+          144.410400390625
+        ],
+        [
+          69.9892578125,
+          144.410400390625
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.37109375,
+          133.6181640625
+        ],
+        [
+          397.0059509277344,
+          133.6181640625
+        ],
+        [
+          397.0059509277344,
+          148.21337890625
+        ],
+        [
+          318.37109375,
+          148.21337890625
+        ]
+      ]
+    },
+    {
+      "title": "UPS2200 \nUPS f\u00f6r industri och kr\u00e4vande milj\u00f6",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          86.06787109375,
+          37.4644775390625
+        ],
+        [
+          334.0859375,
+          37.4644775390625
+        ],
+        [
+          334.0859375,
+          85.7725830078125
+        ],
+        [
+          86.06787109375,
+          85.7725830078125
+        ]
+      ]
+    },
+    {
+      "title": "Optional Accessories",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.89794921875,
+          134.4404296875
+        ],
+        [
+          196.94598388671875,
+          134.4404296875
+        ],
+        [
+          196.94598388671875,
+          150.0634765625
+        ],
+        [
+          68.89794921875,
+          150.0634765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          182
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152068_pro"
+}

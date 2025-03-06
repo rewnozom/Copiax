@@ -1,0 +1,193 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Batteribackup NOVA FLX S",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.63389587402344,
+          11.113433837890625
+        ],
+        [
+          359.6953125,
+          11.113433837890625
+        ],
+        [
+          359.6953125,
+          40.73968505859375
+        ],
+        [
+          35.63389587402344,
+          40.73968505859375
+        ]
+      ]
+    },
+    {
+      "title": "SSF1014-certifierad batteribackup 24V, upp till 10A med plats f\u00f6r upp till 2x 14Ah-batterier. \nV\u00e4gg eller 19 \"rackmonteras. M\u00f6jligt att komplettera upp till 2x batteriboxar f\u00f6r upp till 70Ah batterikapacitet.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.921875,
+          289.64306640625
+        ],
+        [
+          554.384765625,
+          289.64306640625
+        ],
+        [
+          554.384765625,
+          315.36199951171875
+        ],
+        [
+          34.921875,
+          315.36199951171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          432.44921875,
+          709.615234375
+        ],
+        [
+          529.6484375,
+          709.615234375
+        ],
+        [
+          529.6484375,
+          726.060546875
+        ],
+        [
+          432.44921875,
+          726.060546875
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.72216796875,
+          10.6380615234375
+        ],
+        [
+          151.91015625,
+          10.6380615234375
+        ],
+        [
+          151.91015625,
+          34.47998046875
+        ],
+        [
+          35.72216796875,
+          34.47998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "TableCell",
+          143
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152569_pro"
+}

@@ -1,0 +1,173 @@
+{
+  "table_of_contents": [
+    {
+      "title": "12-20 (12V20AH) \nUSL\nUSL SERIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          404.06048583984375,
+          57.8790283203125
+        ],
+        [
+          607.3169555664062,
+          57.8790283203125
+        ],
+        [
+          607.3169555664062,
+          122.1722412109375
+        ],
+        [
+          404.06048583984375,
+          122.1722412109375
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          299.48388671875,
+          133.895263671875
+        ],
+        [
+          410.517578125,
+          133.895263671875
+        ],
+        [
+          410.517578125,
+          147.764892578125
+        ],
+        [
+          299.48388671875,
+          147.764892578125
+        ]
+      ]
+    },
+    {
+      "title": "0 0 Constant Current Discharge (Amperes) at 20 C 8 F )\n (6",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          203.642578125,
+          571.4287109375
+        ],
+        [
+          500.7039489746094,
+          571.4287109375
+        ],
+        [
+          500.7039489746094,
+          585.1773071289062
+        ],
+        [
+          203.642578125,
+          585.1773071289062
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.032470703125,
+          42.75732421875
+        ],
+        [
+          114.84239959716797,
+          42.75732421875
+        ],
+        [
+          114.84239959716797,
+          56.81365966796875
+        ],
+        [
+          39.032470703125,
+          56.81365966796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          388
+        ],
+        [
+          "TableCell",
+          290
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          405
+        ],
+        [
+          "Line",
+          209
+        ],
+        [
+          "Figure",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142584_pro"
+}

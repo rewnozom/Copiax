@@ -1,0 +1,227 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Product Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          16.296875,
+          20.68511962890625
+        ],
+        [
+          319.5979919433594,
+          20.68511962890625
+        ],
+        [
+          319.5979919433594,
+          56.016845703125
+        ],
+        [
+          16.296875,
+          56.016845703125
+        ]
+      ]
+    },
+    {
+      "title": "PowerWalker Battery Pack",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.45703125,
+          108.1279296875
+        ],
+        [
+          328.9940490722656,
+          108.1279296875
+        ],
+        [
+          328.9940490722656,
+          135.4599609375
+        ],
+        [
+          56.45703125,
+          135.4599609375
+        ]
+      ]
+    },
+    {
+      "title": "Product Details",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.22021484375,
+          518.02734375
+        ],
+        [
+          133.79443359375,
+          518.02734375
+        ],
+        [
+          133.79443359375,
+          531.510009765625
+        ],
+        [
+          55.22021484375,
+          531.510009765625
+        ]
+      ]
+    },
+    {
+      "title": "Product Information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          19.0615234375,
+          21.14764404296875
+        ],
+        [
+          321.28125,
+          21.14764404296875
+        ],
+        [
+          321.28125,
+          54.372314453125
+        ],
+        [
+          19.0615234375,
+          54.372314453125
+        ]
+      ]
+    },
+    {
+      "title": "Runtime Curve\u00b4s",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.747314453125,
+          74.62060546875
+        ],
+        [
+          155.95309448242188,
+          74.62060546875
+        ],
+        [
+          155.95309448242188,
+          90.7099609375
+        ],
+        [
+          54.747314453125,
+          90.7099609375
+        ]
+      ]
+    },
+    {
+      "title": "Longer backup time",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.911376953125,
+          366.93603515625
+        ],
+        [
+          174.5531005859375,
+          366.93603515625
+        ],
+        [
+          174.5531005859375,
+          382.8397521972656
+        ],
+        [
+          55.911376953125,
+          382.8397521972656
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135437_pro"
+}

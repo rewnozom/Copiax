@@ -1,0 +1,135 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MC1-Batteri Batteribackup f\u00f6r MC1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          306.1417236328125,
+          157.4647216796875
+        ],
+        [
+          534.7653198242188,
+          157.4647216796875
+        ],
+        [
+          534.7653198242188,
+          187.12518310546875
+        ],
+        [
+          306.1417236328125,
+          187.12518310546875
+        ]
+      ]
+    },
+    {
+      "title": "www.aptus.se",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          332.598388671875,
+          529.4804077148438
+        ],
+        [
+          540.2109375,
+          529.4804077148438
+        ],
+        [
+          540.2109375,
+          565.4804077148438
+        ],
+        [
+          332.598388671875,
+          565.4804077148438
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          93
+        ],
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50092829_produktblad"
+}

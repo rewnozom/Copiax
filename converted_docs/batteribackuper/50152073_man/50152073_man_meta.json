@@ -1,0 +1,1297 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SPM90x-Moduler",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          162.38671875,
+          322.12255859375
+        ],
+        [
+          470.988037109375,
+          322.12255859375
+        ],
+        [
+          470.988037109375,
+          361.59130859375
+        ],
+        [
+          162.38671875,
+          361.59130859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.7451171875,
+          80.3250732421875
+        ],
+        [
+          177.3740234375,
+          80.3250732421875
+        ],
+        [
+          177.3740234375,
+          97.1815185546875
+        ],
+        [
+          48.7451171875,
+          97.1815185546875
+        ]
+      ]
+    },
+    {
+      "title": "1 S\u00e4kerhet och support",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.46728515625,
+          82.2265625
+        ],
+        [
+          285.8695983886719,
+          82.2265625
+        ],
+        [
+          285.8695983886719,
+          100.394287109375
+        ],
+        [
+          84.46728515625,
+          100.394287109375
+        ]
+      ]
+    },
+    {
+      "title": "1.1 Support",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          83.8125,
+          271.96435546875
+        ],
+        [
+          189.1351318359375,
+          271.96435546875
+        ],
+        [
+          189.1351318359375,
+          287.41522216796875
+        ],
+        [
+          83.8125,
+          287.41522216796875
+        ]
+      ]
+    },
+    {
+      "title": "2 Modul\u00f6versikt",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.4800033569336,
+          81.19873046875
+        ],
+        [
+          235.28298950195312,
+          81.19873046875
+        ],
+        [
+          235.28298950195312,
+          100.394287109375
+        ],
+        [
+          84.4800033569336,
+          100.394287109375
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Grundl\u00e4ggande",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.9765625,
+          121.48974609375
+        ],
+        [
+          234.6961212158203,
+          121.48974609375
+        ],
+        [
+          234.6961212158203,
+          138.140625
+        ],
+        [
+          84.9765625,
+          138.140625
+        ]
+      ]
+    },
+    {
+      "title": "2.2 SPM900",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.685546875,
+          219.544921875
+        ],
+        [
+          190.1851348876953,
+          219.544921875
+        ],
+        [
+          190.1851348876953,
+          236.2952880859375
+        ],
+        [
+          84.685546875,
+          236.2952880859375
+        ]
+      ]
+    },
+    {
+      "title": "2.3 SPM901",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.61279296875,
+          293.1376953125
+        ],
+        [
+          190.1851348876953,
+          293.1376953125
+        ],
+        [
+          190.1851348876953,
+          309.97528076171875
+        ],
+        [
+          84.61279296875,
+          309.97528076171875
+        ]
+      ]
+    },
+    {
+      "title": "2.4 SPM902",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.39453125,
+          366.93603515625
+        ],
+        [
+          190.1851348876953,
+          366.93603515625
+        ],
+        [
+          190.1851348876953,
+          383.65533447265625
+        ],
+        [
+          84.39453125,
+          383.65533447265625
+        ]
+      ]
+    },
+    {
+      "title": "2.5 SPM903",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          84.5400390625,
+          441.556640625
+        ],
+        [
+          190.1851348876953,
+          441.556640625
+        ],
+        [
+          190.1851348876953,
+          457.3353576660156
+        ],
+        [
+          84.5400390625,
+          457.3353576660156
+        ]
+      ]
+    },
+    {
+      "title": "3 SPM900",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          84.4800033569336,
+          81.0445556640625
+        ],
+        [
+          187.07669067382812,
+          81.0445556640625
+        ],
+        [
+          187.07669067382812,
+          100.394287109375
+        ],
+        [
+          84.4800033569336,
+          100.394287109375
+        ]
+      ]
+    },
+    {
+      "title": "3.1 \u00d6versikt",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          84.39453125,
+          121.2841796875
+        ],
+        [
+          191.48570251464844,
+          121.2841796875
+        ],
+        [
+          191.48570251464844,
+          138.13525390625
+        ],
+        [
+          84.39453125,
+          138.13525390625
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Funktioner",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          85.08000183105469,
+          80.9417724609375
+        ],
+        [
+          207.2349853515625,
+          80.9417724609375
+        ],
+        [
+          207.2349853515625,
+          96.9752197265625
+        ],
+        [
+          85.08000183105469,
+          96.9752197265625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Installation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          84.8310546875,
+          165.994873046875
+        ],
+        [
+          209.6826629638672,
+          165.994873046875
+        ],
+        [
+          209.6826629638672,
+          182.77520751953125
+        ],
+        [
+          84.8310546875,
+          182.77520751953125
+        ]
+      ]
+    },
+    {
+      "title": "4 SPM901 \u2013 SL\u00c4PPS under 2019!",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          83.59423828125,
+          80.78759765625
+        ],
+        [
+          353.86639404296875,
+          80.78759765625
+        ],
+        [
+          353.86639404296875,
+          100.394287109375
+        ],
+        [
+          83.59423828125,
+          100.394287109375
+        ]
+      ]
+    },
+    {
+      "title": "4.1 \u00d6versikt",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          85.08000183105469,
+          120.66748046875
+        ],
+        [
+          191.48570251464844,
+          120.66748046875
+        ],
+        [
+          191.48570251464844,
+          138.5517578125
+        ],
+        [
+          85.08000183105469,
+          138.5517578125
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Funktioner",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          84.90380859375,
+          104.427734375
+        ],
+        [
+          207.2349853515625,
+          104.427734375
+        ],
+        [
+          207.2349853515625,
+          121.09521484375
+        ],
+        [
+          84.90380859375,
+          121.09521484375
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Installation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          83.88525390625,
+          360.5634765625
+        ],
+        [
+          209.6826629638672,
+          360.5634765625
+        ],
+        [
+          209.6826629638672,
+          377.419921875
+        ],
+        [
+          83.88525390625,
+          377.419921875
+        ]
+      ]
+    },
+    {
+      "title": "5 SPM902 \u2013 SL\u00c4PPS under 2019!",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          84.4800033569336,
+          80.58203125
+        ],
+        [
+          353.86639404296875,
+          80.58203125
+        ],
+        [
+          353.86639404296875,
+          100.394287109375
+        ],
+        [
+          84.4800033569336,
+          100.394287109375
+        ]
+      ]
+    },
+    {
+      "title": "5.1 \u00d6versikt",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          84.2490234375,
+          120.873046875
+        ],
+        [
+          193.525390625,
+          120.873046875
+        ],
+        [
+          193.525390625,
+          138.13525390625
+        ],
+        [
+          84.2490234375,
+          138.13525390625
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Funktioner",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          85.08000183105469,
+          81.60986328125
+        ],
+        [
+          207.2349853515625,
+          81.60986328125
+        ],
+        [
+          207.2349853515625,
+          96.855224609375
+        ],
+        [
+          85.08000183105469,
+          96.855224609375
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Installation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          84.685546875,
+          408.04931640625
+        ],
+        [
+          209.6826629638672,
+          408.04931640625
+        ],
+        [
+          209.6826629638672,
+          424.2152404785156
+        ],
+        [
+          84.685546875,
+          424.2152404785156
+        ]
+      ]
+    },
+    {
+      "title": "6 SPM903 \u2013 SL\u00c4PPS under 2019!",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          83.9580078125,
+          80.684814453125
+        ],
+        [
+          353.86639404296875,
+          80.684814453125
+        ],
+        [
+          353.86639404296875,
+          100.394287109375
+        ],
+        [
+          83.9580078125,
+          100.394287109375
+        ]
+      ]
+    },
+    {
+      "title": "6.2 Funktioner",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          85.08000183105469,
+          81.60986328125
+        ],
+        [
+          207.2349853515625,
+          81.60986328125
+        ],
+        [
+          207.2349853515625,
+          96.9752197265625
+        ],
+        [
+          85.08000183105469,
+          96.9752197265625
+        ]
+      ]
+    },
+    {
+      "title": "6.3 Installation",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          84.8310546875,
+          208.033203125
+        ],
+        [
+          209.6826629638672,
+          208.033203125
+        ],
+        [
+          209.6826629638672,
+          223.4552001953125
+        ],
+        [
+          84.8310546875,
+          223.4552001953125
+        ]
+      ]
+    },
+    {
+      "title": "7 Dokumenthistorik",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          84.4800033569336,
+          81.507080078125
+        ],
+        [
+          261.41131591796875,
+          81.507080078125
+        ],
+        [
+          261.41131591796875,
+          100.394287109375
+        ],
+        [
+          84.4800033569336,
+          100.394287109375
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Revision 1",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          84.9765625,
+          122.825927734375
+        ],
+        [
+          202.93951416015625,
+          122.825927734375
+        ],
+        [
+          202.93951416015625,
+          138.13525390625
+        ],
+        [
+          84.9765625,
+          138.13525390625
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Revision 2",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          85.08000183105469,
+          171.545166015625
+        ],
+        [
+          202.93951416015625,
+          171.545166015625
+        ],
+        [
+          202.93951416015625,
+          187.579345703125
+        ],
+        [
+          85.08000183105469,
+          187.579345703125
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Revision 3",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          85.08000183105469,
+          219.75048828125
+        ],
+        [
+          202.93951416015625,
+          219.75048828125
+        ],
+        [
+          202.93951416015625,
+          236.7752685546875
+        ],
+        [
+          85.08000183105469,
+          236.7752685546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          81
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152073_man"
+}

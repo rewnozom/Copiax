@@ -1,0 +1,147 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Om kortet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.28887939453125,
+          42.015380859375
+        ],
+        [
+          95.58837890625,
+          40.851318359375
+        ],
+        [
+          95.58837890625,
+          57.05902099609375
+        ],
+        [
+          39.28887939453125,
+          57.05902099609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.5115966796875,
+          17.788330078125
+        ],
+        [
+          122.517578125,
+          17.788330078125
+        ],
+        [
+          122.517578125,
+          30.265625
+        ],
+        [
+          35.5115966796875,
+          30.265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "TableCell",
+          130
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "TableCell",
+          197
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152628_ins"
+}

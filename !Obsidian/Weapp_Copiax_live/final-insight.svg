@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 250">
+  <!-- Bakgrund -->
+  <rect width="750" height="250" fill="#f9f9f9" rx="10" ry="10" stroke="#ddd" stroke-width="2"/>
+  
+  <!-- Rubrik -->
+  <text x="375" y="40" font-family="Arial" font-size="22" text-anchor="middle" font-weight="bold" fill="#333">Från data till kunskap</text>
+  
+  <!-- Staplar -->
+  <rect x="100" y="80" width="100" height="120" fill="#e1f5fe" rx="5" ry="5" stroke="#29b6f6" stroke-width="2"/>
+  <text x="150" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#0277bd">Data</text>
+  <text x="150" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">Markdown-filer</text>
+  
+  <rect x="250" y="80" width="100" height="120" fill="#e8f5e9" rx="5" ry="5" stroke="#66bb6a" stroke-width="2"/>
+  <text x="300" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#2e7d32">Information</text>
+  <text x="300" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">Extraherad data</text>
+  
+  <rect x="400" y="80" width="100" height="120" fill="#fff3e0" rx="5" ry="5" stroke="#ffa726" stroke-width="2"/>
+  <text x="450" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#ef6c00">Kunskap</text>
+  <text x="450" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">Strukturerad data</text>
+  
+  <rect x="550" y="80" width="100" height="120" fill="#e8eaf6" rx="5" ry="5" stroke="#5c6bc0" stroke-width="2"/>
+  <text x="600" y="70" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold" fill="#303f9f">Insikt</text>
+  <text x="600" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">Bot-svar</text>
+  
+  <!-- Pilar -->
+  <line x1="205" y1="140" x2="245" y2="140" stroke="#333" stroke-width="2" marker-end="url(#markerArrow)"/>
+  <line x1="355" y1="140" x2="395" y2="140" stroke="#333" stroke-width="2" marker-end="url(#markerArrow)"/>
+  <line x1="505" y1="140" x2="545" y2="140" stroke="#333" stroke-width="2" marker-end="url(#markerArrow)"/>
+  
+  <defs>
+    <marker id="markerArrow" markerWidth="13" markerHeight="13" refX="13" refY="6.5" orient="auto">
+      <path d="M2,2 L2,11 L10,6.5 L2,2" fill="#333"/>
+    </marker>
+  </defs>
+  
+  <!-- Vågade linjer under för "flöde" -->
+  <path d="M100,220 C150,240 200,200 250,220 C300,240 350,200 400,220 C450,240 500,200 550,220 C600,240 650,200 700,220" 
+        fill="none" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+</svg>

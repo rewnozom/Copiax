@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "AI & ML",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Data & Verktyg",
+      "color": {
+        "a": 1,
+        "rgb": 2727531
+      }
+    },
+    {
+      "query": "tag:#tools  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.4015625,
+  "lineSizeMultiplier": 1.37604166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.572916666666667,
+  "repelStrength": 10.625,
+  "linkStrength": 0.692708333333333,
+  "linkDistance": 258,
+  "scale": 0.4833431087737101,
+  "close": false
+}

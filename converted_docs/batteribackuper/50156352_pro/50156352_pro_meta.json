@@ -1,0 +1,166 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PoE injector 1p S",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.99462890625,
+          104.2735595703125
+        ],
+        [
+          223.5,
+          104.2735595703125
+        ],
+        [
+          223.5,
+          132.17919921875
+        ],
+        [
+          34.99462890625,
+          132.17919921875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rv\u00e4ntad drifttid vid potentiellt str\u00f6mavbrott \n(nya batterier): Vid nedan effekt:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.869140625,
+          694.4033203125
+        ],
+        [
+          523.6040649414062,
+          694.4033203125
+        ],
+        [
+          523.6040649414062,
+          723.1826171875
+        ],
+        [
+          39.869140625,
+          723.1826171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          439.724609375,
+          700.1591796875
+        ],
+        [
+          525.865234375,
+          700.1591796875
+        ],
+        [
+          525.865234375,
+          715.7822265625
+        ],
+        [
+          439.724609375,
+          715.7822265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "TableCell",
+          100
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50156352_pro"
+}

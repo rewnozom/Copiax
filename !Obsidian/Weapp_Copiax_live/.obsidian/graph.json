@@ -1,0 +1,114 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:core OR file:(.*/)?core\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:frontend OR file:(.*/)?frontend\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    },
+    {
+      "query": "path:backend OR file:(.*/)?backend\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:ai OR file:(.*/)?ai\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:agents OR file:(.*/)?agents\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:utils OR file:utils.md OR tag:#utility",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:config OR file:(.*/)?config\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 16751103
+      }
+    },
+    {
+      "query": "path:public OR file:(.*/)?public\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 16740096
+      }
+    },
+    {
+      "query": "path:tests OR file:(.*/)?tests\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 13934640
+      }
+    },
+    {
+      "query": "path:logs OR file:(.*/)?logs\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    },
+    {
+      "query": "path:workspace OR file:(.*/)?workspace\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:docs OR file:(.*/)?docs\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:services OR file:service[s]?\\.md OR tag:#service",
+      "color": {
+        "a": 1,
+        "rgb": 16751103
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.8,
+  "nodeSizeMultiplier": 1.784375,
+  "lineSizeMultiplier": 2.21822916666667,
+  "collapse-forces": false,
+  "centerStrength": 0.567708333333333,
+  "repelStrength": 15.3125,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.32423330350179824,
+  "close": false
+}

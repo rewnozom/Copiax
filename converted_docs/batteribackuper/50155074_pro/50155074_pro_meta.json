@@ -1,0 +1,204 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ASSA ABLOY 3PS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          24.8818359375,
+          24.48809814453125
+        ],
+        [
+          266.5204772949219,
+          24.48809814453125
+        ],
+        [
+          266.5204772949219,
+          65.82037353515625
+        ],
+        [
+          24.8818359375,
+          65.82037353515625
+        ]
+      ]
+    },
+    {
+      "title": "24V/3A n\u00e4taggregat och batteribackup",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          25.7548828125,
+          125.18994140625
+        ],
+        [
+          288.9626159667969,
+          125.18994140625
+        ],
+        [
+          288.9626159667969,
+          143.566650390625
+        ],
+        [
+          25.7548828125,
+          143.566650390625
+        ]
+      ]
+    },
+    {
+      "title": "ASSA ABLOY 3PS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          24.66357421875,
+          22.81787109375
+        ],
+        [
+          265.811767578125,
+          22.81787109375
+        ],
+        [
+          265.811767578125,
+          65.82037353515625
+        ],
+        [
+          24.66357421875,
+          65.82037353515625
+        ]
+      ]
+    },
+    {
+      "title": "24V/3A n\u00e4taggregat och batteribackup",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          25.7548828125,
+          123.33984375
+        ],
+        [
+          288.9626159667969,
+          123.33984375
+        ],
+        [
+          288.9626159667969,
+          142.1492919921875
+        ],
+        [
+          25.7548828125,
+          142.1492919921875
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          138.32240295410156,
+          291.08203125
+        ],
+        [
+          186.60240173339844,
+          291.08203125
+        ],
+        [
+          186.60240173339844,
+          302.15911865234375
+        ],
+        [
+          138.32240295410156,
+          302.15911865234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50155074_pro"
+}

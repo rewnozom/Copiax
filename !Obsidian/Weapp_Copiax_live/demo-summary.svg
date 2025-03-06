@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Dark background -->
+  <rect width="800" height="500" fill="#1e2030" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" fill="#e4ecff" text-anchor="middle" font-weight="bold">DocuMentor-Suite: Sammanställning</text>
+  
+  <!-- Central diagram -->
+  <rect x="150" y="70" width="500" height="300" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  
+  <!-- Flow chart elements -->
+  <rect x="200" y="100" width="120" height="60" rx="6" ry="6" fill="#4c1d95"/>
+  <text x="260" y="135" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Markdown Docs</text>
+  
+  <!-- Arrow down -->
+  <path d="M 260 160 L 260 190" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Extractor layer -->
+  <rect x="200" y="190" width="120" height="60" rx="6" ry="6" fill="#5b21b6"/>
+  <text x="260" y="225" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Extraktorer</text>
+  
+  <!-- Arrow right -->
+  <path d="M 320 220 L 360 220" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- JSONL layer -->
+  <rect x="360" y="190" width="120" height="60" rx="6" ry="6" fill="#6d28d9"/>
+  <text x="420" y="225" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">JSONL-filer</text>
+  
+  <!-- Arrow down -->
+  <path d="M 420 250 L 420 280" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Bottom layer -->
+  <rect x="360" y="280" width="120" height="60" rx="6" ry="6" fill="#7c3aed"/>
+  <text x="420" y="315" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Bot Engine</text>
+  
+  <!-- Arrow left -->
+  <path d="M 360 310 L 320 310" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- User responses -->
+  <rect x="200" y="280" width="120" height="60" rx="6" ry="6" fill="#8b5cf6"/>
+  <text x="260" y="315" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Användar-UI</text>
+  
+  <!-- Key features boxes -->
+  <rect x="50" y="390" width="700" height="90" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  <text x="400" y="415" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Nyckelfunktioner</text>
+  
+  <!-- Feature boxes -->
+  <rect x="70" y="430" width="120" height="35" fill="#1e40af" rx="4" ry="4"/>
+  <text x="130" y="453" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">Automatiserad</text>
+  
+  <rect x="200" y="430" width="120" height="35" fill="#4c1d95" rx="4" ry="4"/>
+  <text x="260" y="453" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">Hög precision</text>
+  
+  <rect x="330" y="430" width="120" height="35" fill="#5b21b6" rx="4" ry="4"/>
+  <text x="390" y="453" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">Flexibilitet</text>
+  
+  <rect x="460" y="430" width="120" height="35" fill="#6d28d9" rx="4" ry="4"/>
+  <text x="520" y="453" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">Intuitiv sökning</text>
+  
+  <rect x="590" y="430" width="120" height="35" fill="#7c3aed" rx="4" ry="4"/>
+  <text x="650" y="453" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">Validering</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L0,10 L10,5 Z" fill="#6366f1"/>
+    </marker>
+  </defs>
+</svg>

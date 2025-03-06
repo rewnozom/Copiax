@@ -1,0 +1,488 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OM RELAY CARD NOVA SERIES (PRO3)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.734130859375,
+          83.73974609375
+        ],
+        [
+          302.45648193359375,
+          83.73974609375
+        ],
+        [
+          302.45648193359375,
+          98.87255859375
+        ],
+        [
+          67.734130859375,
+          98.87255859375
+        ]
+      ]
+    },
+    {
+      "title": "Montering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.322998046875,
+          359.986328125
+        ],
+        [
+          107.76023864746094,
+          359.986328125
+        ],
+        [
+          107.76023864746094,
+          371.626953125
+        ],
+        [
+          67.322998046875,
+          371.626953125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data, Relay Card NOVA Series (PRO3/NEO3)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          426.9448547363281,
+          482.794921875
+        ],
+        [
+          674.2578125,
+          482.794921875
+        ],
+        [
+          674.2578125,
+          494.435546875
+        ],
+        [
+          426.9448547363281,
+          494.435546875
+        ]
+      ]
+    },
+    {
+      "title": "RS-485 p\u00e5 rel\u00e4kort",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.02930450439453,
+          202.4013671875
+        ],
+        [
+          145.027099609375,
+          202.4013671875
+        ],
+        [
+          145.027099609375,
+          213.70742797851562
+        ],
+        [
+          68.02930450439453,
+          213.70742797851562
+        ]
+      ]
+    },
+    {
+      "title": "Adress och kontaktuppgifter",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.9910888671875,
+          288.2509765625
+        ],
+        [
+          195.69921875,
+          288.2509765625
+        ],
+        [
+          195.69921875,
+          299.57574462890625
+        ],
+        [
+          67.9910888671875,
+          299.57574462890625
+        ]
+      ]
+    },
+    {
+      "title": "ABOUT RELAY CARD NOVA SERIES (PRO3)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          67.117431640625,
+          83.44873046875
+        ],
+        [
+          325.3814697265625,
+          83.44873046875
+        ],
+        [
+          325.3814697265625,
+          98.72705078125
+        ],
+        [
+          67.117431640625,
+          98.72705078125
+        ]
+      ]
+    },
+    {
+      "title": "Mounting",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          65.884033203125,
+          355.330078125
+        ],
+        [
+          105.763916015625,
+          355.330078125
+        ],
+        [
+          105.763916015625,
+          366.970703125
+        ],
+        [
+          65.884033203125,
+          366.970703125
+        ]
+      ]
+    },
+    {
+      "title": "P4",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          65.4215087890625,
+          72.3173828125
+        ],
+        [
+          79.427734375,
+          72.3173828125
+        ],
+        [
+          79.427734375,
+          84.20745849609375
+        ],
+        [
+          65.4215087890625,
+          84.20745849609375
+        ]
+      ]
+    },
+    {
+      "title": "Address and contact details",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          68.031494140625,
+          158.7490234375
+        ],
+        [
+          190.87149047851562,
+          158.7490234375
+        ],
+        [
+          190.87149047851562,
+          170.07574462890625
+        ],
+        [
+          68.031494140625,
+          170.07574462890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          476
+        ],
+        [
+          "TableCell",
+          163
+        ],
+        [
+          "Line",
+          157
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          467
+        ],
+        [
+          "TableCell",
+          183
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464438_man"
+}

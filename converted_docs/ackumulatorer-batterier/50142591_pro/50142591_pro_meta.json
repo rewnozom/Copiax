@@ -1,0 +1,285 @@
+{
+  "table_of_contents": [
+    {
+      "title": "XLT Series - General Purpose\nXLT12-40 12V 40.0Ah",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          297.41796875,
+          53.3958740234375
+        ],
+        [
+          570.390625,
+          53.3958740234375
+        ],
+        [
+          570.390625,
+          102.39166259765625
+        ],
+        [
+          297.41796875,
+          102.39166259765625
+        ]
+      ]
+    },
+    {
+      "title": "Applications",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          420.80859375,
+          275.66455078125
+        ],
+        [
+          501.12890625,
+          275.66455078125
+        ],
+        [
+          501.12890625,
+          289.23193359375
+        ],
+        [
+          420.80859375,
+          289.23193359375
+        ]
+      ]
+    },
+    {
+      "title": "Dimensi ons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.7421875,
+          39.777099609375
+        ],
+        [
+          116.10585021972656,
+          39.777099609375
+        ],
+        [
+          116.10585021972656,
+          52.01507568359375
+        ],
+        [
+          40.7421875,
+          52.01507568359375
+        ]
+      ]
+    },
+    {
+      "title": "T6 Termin al\nUnit: mm [inches]\nM6 [0.236]\n16 [0.63]\n6 [0.236]\n\n170\n \n2\n\nXLT12-40\nMaintenance-free Sealed Lead-acid Battery\nWarning: Risk of fire, explosion or burns.\nDo not disassemble, heat above 60\u221eC or incinerate.\nNon-spillable\nBATTERY MUST BE RECYCLED\nPb.\nC O N S TA N T   VO LTA G E  C H A R G E\nS TA N D B Y U S E\nC Y C L E U S E\nI N I T I A L C U R R E N T",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.12451171875,
+          64.8048095703125
+        ],
+        [
+          250.79946899414062,
+          64.8048095703125
+        ],
+        [
+          250.79946899414062,
+          201.24951171875
+        ],
+        [
+          42.12451171875,
+          201.24951171875
+        ]
+      ]
+    },
+    {
+      "title": "Cycle Life in Rel atio n to Depth of Dis cha rge Self Discharge Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.5966796875,
+          512.6826171875
+        ],
+        [
+          482.5103454589844,
+          512.6826171875
+        ],
+        [
+          482.5103454589844,
+          524.1943359375
+        ],
+        [
+          40.5966796875,
+          524.1943359375
+        ]
+      ]
+    },
+    {
+      "title": "Discharge Characteristics Float Charging Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.11619567871094,
+          191.690673828125
+        ],
+        [
+          483.958984375,
+          191.690673828125
+        ],
+        [
+          483.958984375,
+          202.49041748046875
+        ],
+        [
+          41.11619567871094,
+          202.49041748046875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          326.228515625,
+          354.8076171875
+        ],
+        [
+          553.802734375,
+          354.8076171875
+        ],
+        [
+          553.802734375,
+          365.908203125
+        ],
+        [
+          326.228515625,
+          365.908203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          327.68359375,
+          513.5048828125
+        ],
+        [
+          483.0859375,
+          513.5048828125
+        ],
+        [
+          483.0859375,
+          523.3720703125
+        ],
+        [
+          327.68359375,
+          523.3720703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          306
+        ],
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          524
+        ],
+        [
+          "Line",
+          213
+        ],
+        [
+          "Figure",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142591_pro"
+}

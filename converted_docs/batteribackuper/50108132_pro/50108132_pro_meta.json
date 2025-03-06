@@ -1,0 +1,212 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PSV 2465-40",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.222412109375,
+          65.3187255859375
+        ],
+        [
+          209.67123413085938,
+          65.3187255859375
+        ],
+        [
+          209.67123413085938,
+          88.446533203125
+        ],
+        [
+          61.222412109375,
+          88.446533203125
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rs\u00f6rjning, VIP, 24 V 6,5 A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.8408203125,
+          142.04638671875
+        ],
+        [
+          361.63916015625,
+          142.04638671875
+        ],
+        [
+          361.63916015625,
+          163.42529296875
+        ],
+        [
+          61.8408203125,
+          163.42529296875
+        ]
+      ]
+    },
+    {
+      "title": "Produktdetajler:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.72699737548828,
+          240.71826171875
+        ],
+        [
+          159.0869903564453,
+          240.71826171875
+        ],
+        [
+          159.0869903564453,
+          252.64111328125
+        ],
+        [
+          62.72699737548828,
+          252.64111328125
+        ]
+      ]
+    },
+    {
+      "title": "ALARMTECH SWEDEN AB",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.3671875,
+          13.02777099609375
+        ],
+        [
+          257.548828125,
+          13.02777099609375
+        ],
+        [
+          257.548828125,
+          30.0340576171875
+        ],
+        [
+          59.3671875,
+          30.0340576171875
+        ]
+      ]
+    },
+    {
+      "title": "Relaterade produkter och tillbeh\u00f6r:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.27587890625,
+          60.2823486328125
+        ],
+        [
+          301.4921875,
+          60.2823486328125
+        ],
+        [
+          301.4921875,
+          74.7747802734375
+        ],
+        [
+          58.27587890625,
+          74.7747802734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50108132_pro"
+}

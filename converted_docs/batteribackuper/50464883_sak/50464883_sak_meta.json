@@ -1,0 +1,92 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Declaration of conformity\n Str\u00f6mf\u00f6rs\u00f6rjning med plats f\u00f6r batteri",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          -65.66399383544922,
+          115.71435546875
+        ],
+        [
+          412.0807189941406,
+          115.71435546875
+        ],
+        [
+          412.0807189941406,
+          135.75433349609375
+        ],
+        [
+          -65.66399383544922,
+          135.75433349609375
+        ]
+      ]
+    },
+    {
+      "title": "the EMC Directive 2004/108/EC & the Low Voltage Directive 2006/95/EC\nincluding amendments by the CE-marking Directive 93/68/EEC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          110.4404296875,
+          173.70361328125
+        ],
+        [
+          485.4140625,
+          173.70361328125
+        ],
+        [
+          485.4140625,
+          199.90966796875
+        ],
+        [
+          110.4404296875,
+          199.90966796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Handwriting",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464883_sak"
+}

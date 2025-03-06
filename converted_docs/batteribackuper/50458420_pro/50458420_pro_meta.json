@@ -1,0 +1,193 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Power supplies HPSB series",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.65087890625,
+          8.50531005859375
+        ],
+        [
+          256.71258544921875,
+          8.50531005859375
+        ],
+        [
+          256.71258544921875,
+          31.24609375
+        ],
+        [
+          39.65087890625,
+          31.24609375
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.83935546875,
+          461.291015625
+        ],
+        [
+          114.15087890625,
+          461.291015625
+        ],
+        [
+          114.15087890625,
+          473.625
+        ],
+        [
+          57.83935546875,
+          473.625
+        ]
+      ]
+    },
+    {
+      "title": "DISPLAYING PARAMETERS OF THE POWER SUPPLY:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.52978515625,
+          515.560546875
+        ],
+        [
+          316.625,
+          515.560546875
+        ],
+        [
+          316.625,
+          527.89453125
+        ],
+        [
+          56.52978515625,
+          527.89453125
+        ]
+      ]
+    },
+    {
+      "title": "Power supplies HPSB series\nBuffer switched mode power supply",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.50537109375,
+          7.5545654296875
+        ],
+        [
+          256.71258544921875,
+          7.5545654296875
+        ],
+        [
+          256.71258544921875,
+          39.7462158203125
+        ],
+        [
+          39.50537109375,
+          39.7462158203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "TableCell",
+          61
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50458420_pro"
+}

@@ -1,0 +1,269 @@
+{
+  "table_of_contents": [
+    {
+      "title": "USC12-150 (12V150AH) \nUSC SERIES-Deep Cycle",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          273.845703125,
+          21.230712890625
+        ],
+        [
+          566.025390625,
+          21.230712890625
+        ],
+        [
+          566.025390625,
+          80.655029296875
+        ],
+        [
+          273.845703125,
+          80.655029296875
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          250.56445312499997,
+          94.6875
+        ],
+        [
+          353.2579040527344,
+          94.6875
+        ],
+        [
+          353.2579040527344,
+          108.1015625
+        ],
+        [
+          250.56445312499997,
+          108.1015625
+        ]
+      ]
+    },
+    {
+      "title": "0 0 Co ns ta nt C ur re nt D is ch ar ge (A m pe re s) a t 2 0 C 6 8 F )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          171.408203125,
+          536.4815063476562
+        ],
+        [
+          466.4347229003906,
+          536.4815063476562
+        ],
+        [
+          466.4347229003906,
+          549.0365295410156
+        ],
+        [
+          171.408203125,
+          549.0365295410156
+        ]
+      ]
+    },
+    {
+      "title": "0 0 Co ns ta nt P ow er D is ch ar ge (W at ts ) a t 2 0 C (6 8 F )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.376953125,
+          663.99609375
+        ],
+        [
+          458.6021423339844,
+          663.99609375
+        ],
+        [
+          458.6021423339844,
+          677.0177917480469
+        ],
+        [
+          185.376953125,
+          677.0177917480469
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.088134765625,
+          27.814453125
+        ],
+        [
+          105.73934173583984,
+          27.814453125
+        ],
+        [
+          105.73934173583984,
+          40.98193359375
+        ],
+        [
+          42.088134765625,
+          40.98193359375
+        ]
+      ]
+    },
+    {
+      "title": "T11 Terminal",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.9619140625,
+          58.4892578125
+        ],
+        [
+          130.65591430664062,
+          58.4892578125
+        ],
+        [
+          130.65591430664062,
+          73.6787109375
+        ],
+        [
+          44.9619140625,
+          73.6787109375
+        ]
+      ]
+    },
+    {
+      "title": "Discharge characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          79.08349609375,
+          197.7587890625
+        ],
+        [
+          231.35742187499997,
+          197.7587890625
+        ],
+        [
+          231.35742187499997,
+          215.216796875
+        ],
+        [
+          79.08349609375,
+          215.216796875
+        ]
+      ]
+    },
+    {
+      "title": "Self Discharge Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.953125,
+          598.109375
+        ],
+        [
+          461.2828063964844,
+          598.109375
+        ],
+        [
+          461.2828063964844,
+          609.15625
+        ],
+        [
+          318.953125,
+          609.15625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          783
+        ],
+        [
+          "TableCell",
+          288
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          374
+        ],
+        [
+          "Line",
+          169
+        ],
+        [
+          "Figure",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142569_pro"
+}

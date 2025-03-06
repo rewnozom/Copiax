@@ -1,0 +1,197 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Online UPS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          12.8592529296875,
+          30.4752197265625
+        ],
+        [
+          80.97599792480469,
+          30.4752197265625
+        ],
+        [
+          80.97599792480469,
+          43.470703125
+        ],
+        [
+          12.8592529296875,
+          43.470703125
+        ]
+      ]
+    },
+    {
+      "title": "PowerWalker VFI 1000-3000 TG(S) Series",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.794921875,
+          64.445068359375
+        ],
+        [
+          497.26031494140625,
+          64.445068359375
+        ],
+        [
+          497.26031494140625,
+          87.5712890625
+        ],
+        [
+          35.794921875,
+          87.5712890625
+        ]
+      ]
+    },
+    {
+      "title": "VFI TG Series VFI TGS Series",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          101.78271484375,
+          88.6505126953125
+        ],
+        [
+          497.4612121582031,
+          88.6505126953125
+        ],
+        [
+          497.4612121582031,
+          101.948486328125
+        ],
+        [
+          101.78271484375,
+          101.948486328125
+        ]
+      ]
+    },
+    {
+      "title": "BATTERY PACKS AND BACKUP TABLE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.9921875,
+          419.97216796875
+        ],
+        [
+          245.59567260742188,
+          419.97216796875
+        ],
+        [
+          245.59567260742188,
+          432.6085205078125
+        ],
+        [
+          77.9921875,
+          432.6085205078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "TableCell",
+          65
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          483
+        ],
+        [
+          "TableCell",
+          309
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Picture",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135352_pro"
+}

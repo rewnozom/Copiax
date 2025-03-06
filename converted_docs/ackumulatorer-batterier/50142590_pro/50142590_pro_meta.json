@@ -1,0 +1,173 @@
+{
+  "table_of_contents": [
+    {
+      "title": "US",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          294.449462890625,
+          48.69354248046875
+        ],
+        [
+          498.544921875,
+          48.69354248046875
+        ],
+        [
+          498.544921875,
+          106.27783203125
+        ],
+        [
+          294.449462890625,
+          106.27783203125
+        ]
+      ]
+    },
+    {
+      "title": "General Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          264.815673828125,
+          115.46571682991986
+        ],
+        [
+          364.61181640625,
+          115.46571682991986
+        ],
+        [
+          364.61181640625,
+          128.96170970614426
+        ],
+        [
+          264.815673828125,
+          128.96170970614426
+        ]
+      ]
+    },
+    {
+      "title": "Co ns tant C urrent Dis ch arge (A mperes)  a t 2 0 \u00b0C 6 8\u00b0F )",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          169.35768261964736,
+          551.086375779163
+        ],
+        [
+          465.3589420654912,
+          551.086375779163
+        ],
+        [
+          465.3589420654912,
+          564.5823686553873
+        ],
+        [
+          169.35768261964736,
+          564.5823686553873
+        ]
+      ]
+    },
+    {
+      "title": "Dimensi ons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.21788413098237,
+          51.67425537109375
+        ],
+        [
+          109.40806045340051,
+          51.67425537109375
+        ],
+        [
+          109.40806045340051,
+          63.314453125
+        ],
+        [
+          38.21788413098237,
+          63.314453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          316
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          173
+        ],
+        [
+          "Span",
+          173
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142590_pro"
+}

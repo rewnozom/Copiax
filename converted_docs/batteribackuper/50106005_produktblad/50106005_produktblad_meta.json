@@ -1,0 +1,154 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Str\u00f6mf\u00f6rs\u00f6rjning switchat 24 V, 3 A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.45000076293945,
+          79.2972412109375
+        ],
+        [
+          196.9775390625,
+          79.2972412109375
+        ],
+        [
+          196.9775390625,
+          91.2200927734375
+        ],
+        [
+          40.45000076293945,
+          91.2200927734375
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rs\u00f6rjning switchat 24 V, 3 A\n\nDenna effektiva str\u00f6mf\u00f6rs\u00f6rjning \u00e4r idealisk f\u00f6r anv\u00e4ndning i",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.5675048828125,
+          112.547607421875
+        ],
+        [
+          278.4819641113281,
+          112.547607421875
+        ],
+        [
+          278.4819641113281,
+          133.309814453125
+        ],
+        [
+          38.5675048828125,
+          133.309814453125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.183998107910156,
+          242.568359375
+        ],
+        [
+          91.0076904296875,
+          242.568359375
+        ],
+        [
+          91.0076904296875,
+          252.435546875
+        ],
+        [
+          40.183998107910156,
+          252.435546875
+        ]
+      ]
+    },
+    {
+      "title": "Order data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.5791015625,
+          452.24609375
+        ],
+        [
+          84.9066162109375,
+          452.24609375
+        ],
+        [
+          84.9066162109375,
+          461.291015625
+        ],
+        [
+          43.5791015625,
+          461.291015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          132
+        ],
+        [
+          "Span",
+          132
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50106005_produktblad"
+}

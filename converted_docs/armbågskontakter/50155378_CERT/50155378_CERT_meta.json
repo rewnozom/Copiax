@@ -1,0 +1,476 @@
+{
+  "table_of_contents": [
+    {
+      "title": "F\u00d6RS\u00c4KRAN F\u00d6R INBYGGNAD AV EN \nDELVIS FULLBORDAD MASKIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          163.55078125,
+          52.4708251953125
+        ],
+        [
+          432.5067138671875,
+          52.4708251953125
+        ],
+        [
+          432.5067138671875,
+          94.5091552734375
+        ],
+        [
+          163.55078125,
+          94.5091552734375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rs\u00e4krar att den delvis fullbordade maskinen:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.00341796875,
+          227.56201171875
+        ],
+        [
+          237.177734375,
+          227.56201171875
+        ],
+        [
+          237.177734375,
+          238.25146484375
+        ],
+        [
+          59.00341796875,
+          238.25146484375
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6verensst\u00e4mmer \u00e4ven med f\u00f6ljande direktiv:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.73095703125,
+          348.43505859375
+        ],
+        [
+          230.775390625,
+          348.43505859375
+        ],
+        [
+          230.775390625,
+          359.12451171875
+        ],
+        [
+          59.73095703125,
+          359.12451171875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6ljande harmoniserade standarder har beaktats:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.999977111816406,
+          401.265625
+        ],
+        [
+          247.654296875,
+          401.265625
+        ],
+        [
+          247.654296875,
+          411.5439453125
+        ],
+        [
+          59.999977111816406,
+          411.5439453125
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6ljande andra standarder och specifikationer har till\u00e4mpats:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.8037109375,
+          442.7900390625
+        ],
+        [
+          291.7431640625,
+          442.7900390625
+        ],
+        [
+          291.7431640625,
+          453.4794921875
+        ],
+        [
+          59.8037109375,
+          453.4794921875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rs\u00e4krar dessutom (i till\u00e4mpliga fall) att:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.14892578125,
+          485.13671875
+        ],
+        [
+          217.85128784179688,
+          485.13671875
+        ],
+        [
+          217.85128784179688,
+          495.826171875
+        ],
+        [
+          59.14892578125,
+          495.826171875
+        ]
+      ]
+    },
+    {
+      "title": "Beh\u00f6rig att sammanst\u00e4lla relevant teknisk dokumentation:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.58544921875,
+          534.0615234375
+        ],
+        [
+          283.44921875,
+          534.0615234375
+        ],
+        [
+          283.44921875,
+          544.338623046875
+        ],
+        [
+          59.58544921875,
+          544.338623046875
+        ]
+      ]
+    },
+    {
+      "title": "Signatur:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.43994140625,
+          616.69921875
+        ],
+        [
+          96.10791015625,
+          616.69921875
+        ],
+        [
+          96.10791015625,
+          627.388671875
+        ],
+        [
+          59.43994140625,
+          627.388671875
+        ]
+      ]
+    },
+    {
+      "title": "DECLARATION OF INCORPORATION OF \nPARTLY COMPLETED MACHINERY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          158.021484375,
+          53.4986572265625
+        ],
+        [
+          438.746826171875,
+          53.4986572265625
+        ],
+        [
+          438.746826171875,
+          94.2008056640625
+        ],
+        [
+          158.021484375,
+          94.2008056640625
+        ]
+      ]
+    },
+    {
+      "title": "Manufacturer (and where appropriate his authorised representative):",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.73095703125,
+          166.611572265625
+        ],
+        [
+          323.02734375,
+          166.611572265625
+        ],
+        [
+          323.02734375,
+          176.889892578125
+        ],
+        [
+          59.73095703125,
+          176.889892578125
+        ]
+      ]
+    },
+    {
+      "title": "Hereby declares that the partly completed machinery:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.9306640625,
+          227.56201171875
+        ],
+        [
+          265.37127685546875,
+          227.56201171875
+        ],
+        [
+          265.37127685546875,
+          237.84033203125
+        ],
+        [
+          58.9306640625,
+          237.84033203125
+        ]
+      ]
+    },
+    {
+      "title": "Complies also with applicable requirements of the following EC directives:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.58544921875,
+          349.0517578125
+        ],
+        [
+          341.65234375,
+          349.0517578125
+        ],
+        [
+          341.65234375,
+          358.9386901855469
+        ],
+        [
+          59.58544921875,
+          358.9386901855469
+        ]
+      ]
+    },
+    {
+      "title": "The following harmonized standards have been considered:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.658203125,
+          401.265625
+        ],
+        [
+          287.5234375,
+          401.265625
+        ],
+        [
+          287.5234375,
+          411.4986572265625
+        ],
+        [
+          59.658203125,
+          411.4986572265625
+        ]
+      ]
+    },
+    {
+      "title": "The following other standards and specifications have been applied:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.5126953125,
+          443.201171875
+        ],
+        [
+          320.1171875,
+          443.201171875
+        ],
+        [
+          320.1171875,
+          453.378662109375
+        ],
+        [
+          59.5126953125,
+          453.378662109375
+        ]
+      ]
+    },
+    {
+      "title": "Declares also (if applicable) that:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.9306640625,
+          485.5478515625
+        ],
+        [
+          184.25128173828125,
+          485.5478515625
+        ],
+        [
+          184.25128173828125,
+          495.4150390625
+        ],
+        [
+          58.9306640625,
+          495.4150390625
+        ]
+      ]
+    },
+    {
+      "title": "Authorized to compile the relevant technical documentation:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.658203125,
+          533.650390625
+        ],
+        [
+          292.470703125,
+          533.650390625
+        ],
+        [
+          292.470703125,
+          544.338623046875
+        ],
+        [
+          59.658203125,
+          544.338623046875
+        ]
+      ]
+    },
+    {
+      "title": "Signature:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.258056640625,
+          617.1103515625
+        ],
+        [
+          101.2734375,
+          617.1103515625
+        ],
+        [
+          101.2734375,
+          626.9775390625
+        ],
+        [
+          59.258056640625,
+          626.9775390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50155378_CERT"
+}

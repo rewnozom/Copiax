@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GPBM Nordic AB",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.36000061035156,
+          429.22265625
+        ],
+        [
+          412.078125,
+          429.22265625
+        ],
+        [
+          412.078125,
+          463.0899658203125
+        ],
+        [
+          180.36000061035156,
+          463.0899658203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Handwriting",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464888_cert"
+}

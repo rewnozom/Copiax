@@ -1,0 +1,776 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Str\u00f6mf\u00f6rs\u00f6rjning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.11181640625,
+          44.19781494140625
+        ],
+        [
+          260.458984375,
+          44.19781494140625
+        ],
+        [
+          260.458984375,
+          73.73162841796875
+        ],
+        [
+          57.11181640625,
+          73.73162841796875
+        ]
+      ]
+    },
+    {
+      "title": "Datablad, Installationsanvisning och Bruksanvisning f\u00f6r PSV 12V serien",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.63999938964844,
+          81.5009765625
+        ],
+        [
+          503.5565185546875,
+          81.5009765625
+        ],
+        [
+          503.5565185546875,
+          97.72998046875
+        ],
+        [
+          56.63999938964844,
+          97.72998046875
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.09326171875,
+          109.7999267578125
+        ],
+        [
+          127.53759765625,
+          109.7999267578125
+        ],
+        [
+          127.53759765625,
+          123.260009765625
+        ],
+        [
+          56.09326171875,
+          123.260009765625
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.4100036621094,
+          159.6060791015625
+        ],
+        [
+          371.91796875,
+          159.6060791015625
+        ],
+        [
+          371.91796875,
+          173.17999267578125
+        ],
+        [
+          303.4100036621094,
+          173.17999267578125
+        ]
+      ]
+    },
+    {
+      "title": "TILL\u00c4MPNINGAR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.63818359375,
+          526.875
+        ],
+        [
+          142.81591796875,
+          526.875
+        ],
+        [
+          142.81591796875,
+          540.4599914550781
+        ],
+        [
+          54.63818359375,
+          540.4599914550781
+        ]
+      ]
+    },
+    {
+      "title": "1. Kombinationer av str\u00f6mf\u00f6rs\u00f6rjningar och l\u00e5dor",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.5654296875,
+          49.0858154296875
+        ],
+        [
+          287.3779296875,
+          49.0858154296875
+        ],
+        [
+          287.3779296875,
+          62.6400146484375
+        ],
+        [
+          54.5654296875,
+          62.6400146484375
+        ]
+      ]
+    },
+    {
+      "title": "12V moduler",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.493408203125,
+          125.338623046875
+        ],
+        [
+          112.4775390625,
+          125.338623046875
+        ],
+        [
+          112.4775390625,
+          137.75
+        ],
+        [
+          56.493408203125,
+          137.75
+        ]
+      ]
+    },
+    {
+      "title": "V\u00e4ggmonterade l\u00e5dor [BxHxD]",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.38427734375,
+          449.07861328125
+        ],
+        [
+          183.630859375,
+          449.07861328125
+        ],
+        [
+          183.630859375,
+          461.0799865722656
+        ],
+        [
+          56.38427734375,
+          461.0799865722656
+        ]
+      ]
+    },
+    {
+      "title": "Rackmonterade l\u00e5dor [BxHxD]",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.4100036621094,
+          445.78564453125
+        ],
+        [
+          433.03125,
+          445.78564453125
+        ],
+        [
+          433.03125,
+          458.44000244140625
+        ],
+        [
+          303.4100036621094,
+          458.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "2. INSTALLATION av PSV 1265-M (h\u00e4r i l\u00e5da B1)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.8564453125,
+          49.934783935546875
+        ],
+        [
+          292.6162109375,
+          49.934783935546875
+        ],
+        [
+          292.6162109375,
+          63.0
+        ],
+        [
+          54.8564453125,
+          63.0
+        ]
+      ]
+    },
+    {
+      "title": "INSTALLATION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.693115234375,
+          85.35992431640625
+        ],
+        [
+          129.2760009765625,
+          85.35992431640625
+        ],
+        [
+          129.2760009765625,
+          99.01995849609375
+        ],
+        [
+          55.693115234375,
+          99.01995849609375
+        ]
+      ]
+    },
+    {
+      "title": "PSV 1265-B1-18 Installationsanvisning och Uppstart:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          83.88525390625,
+          560.6279296875
+        ],
+        [
+          302.947265625,
+          560.6279296875
+        ],
+        [
+          302.947265625,
+          572.4700012207031
+        ],
+        [
+          83.88525390625,
+          572.4700012207031
+        ]
+      ]
+    },
+    {
+      "title": "3. TEKNISK BESKRIVNING",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.038330078125,
+          43.554656982421875
+        ],
+        [
+          175.0458984375,
+          43.554656982421875
+        ],
+        [
+          175.0458984375,
+          56.6400146484375
+        ],
+        [
+          55.038330078125,
+          56.6400146484375
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Indikeringspanel p\u00e5 locket",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.183837890625,
+          62.2576904296875
+        ],
+        [
+          197.30859375,
+          62.2576904296875
+        ],
+        [
+          197.30859375,
+          75.96002197265625
+        ],
+        [
+          55.183837890625,
+          75.96002197265625
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Interna indikeringar p\u00e5 kretskortet samt anslutningar i str\u00f6mf\u00f6rs\u00f6rjningsenheten",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.15999984741211,
+          327.444580078125
+        ],
+        [
+          441.470703125,
+          327.444580078125
+        ],
+        [
+          441.470703125,
+          340.7300109863281
+        ],
+        [
+          56.15999984741211,
+          340.7300109863281
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Byglingar:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.29296875,
+          49.831878662109375
+        ],
+        [
+          122.9541015625,
+          49.831878662109375
+        ],
+        [
+          122.9541015625,
+          63.0
+        ],
+        [
+          55.29296875,
+          63.0
+        ]
+      ]
+    },
+    {
+      "title": "SDT (Storage Device Test)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.911376953125,
+          83.970703125
+        ],
+        [
+          163.1142578125,
+          83.970703125
+        ],
+        [
+          163.1142578125,
+          96.5899658203125
+        ],
+        [
+          55.911376953125,
+          96.5899658203125
+        ]
+      ]
+    },
+    {
+      "title": "Kickstart",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.94775390625,
+          275.991943359375
+        ],
+        [
+          95.96240234375,
+          275.991943359375
+        ],
+        [
+          95.96240234375,
+          287.517333984375
+        ],
+        [
+          55.94775390625,
+          287.517333984375
+        ]
+      ]
+    },
+    {
+      "title": "3.4 In- och utg\u00e5ngar",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.7294921875,
+          412.85595703125
+        ],
+        [
+          153.07421875,
+          412.85595703125
+        ],
+        [
+          153.07421875,
+          425.1100158691406
+        ],
+        [
+          55.7294921875,
+          425.1100158691406
+        ]
+      ]
+    },
+    {
+      "title": "4. TEKNISKA DATA (PSV 1265/PSV 1235/PSV 1215)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.583984375,
+          568.8603515625
+        ],
+        [
+          289.8144836425781,
+          568.8603515625
+        ],
+        [
+          289.8144836425781,
+          581.8600158691406
+        ],
+        [
+          55.583984375,
+          581.8600158691406
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.3115234375,
+          116.7974853515625
+        ],
+        [
+          100.8369140625,
+          116.7974853515625
+        ],
+        [
+          100.8369140625,
+          128.1170654296875
+        ],
+        [
+          56.3115234375,
+          128.1170654296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          357
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          297
+        ],
+        [
+          "TableCell",
+          77
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50462346_ins"
+}

@@ -1,0 +1,108 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BT-15 FLX LARGE COM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.392578125,
+          134.954345703125
+        ],
+        [
+          266.279296875,
+          134.954345703125
+        ],
+        [
+          266.279296875,
+          161.677978515625
+        ],
+        [
+          29.392578125,
+          161.677978515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          77
+        ],
+        [
+          "Span",
+          77
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\BT-1520FLX20LARGE20COM_PRO"
+}

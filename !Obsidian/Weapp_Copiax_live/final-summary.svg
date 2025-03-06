@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Dark background -->
+  <rect width="800" height="500" fill="#1e2030" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" fill="#e4ecff" text-anchor="middle" font-weight="bold">Slutsats och Sammanfattning</text>
+  
+  <!-- Main container -->
+  <rect x="50" y="60" width="700" height="420" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  
+  <!-- Central flow diagram -->
+  <rect x="200" y="80" width="400" height="280" fill="#1f2937" rx="6" ry="6"/>
+  
+  <!-- Input documents box -->
+  <rect x="330" y="100" width="140" height="40" rx="4" ry="4" fill="#4c1d95"/>
+  <text x="400" y="125" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">Produktdokument</text>
+  
+  <!-- Arrow down -->
+  <path d="M 400 140 L 400 170" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- LLM Processing -->
+  <rect x="285" y="170" width="230" height="60" rx="4" ry="4" fill="#6d28d9"/>
+  <text x="400" y="195" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle" font-weight="bold">LLM-baserad</text>
+  <text x="400" y="215" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle" font-weight="bold">Informationsextraktion</text>
+  
+  <!-- Arrow down -->
+  <path d="M 400 230 L 400 260" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Structured output -->
+  <rect x="330" y="260" width="140" height="40" rx="4" ry="4" fill="#8b5cf6"/>
+  <text x="400" y="285" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">Strukturerad Data</text>
+  
+  <!-- Arrow down -->
+  <path d="M 400 300 L 400 330" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Applications -->
+  <g>
+    <rect x="220" y="330" width="360" height="20" rx="4" ry="4" fill="#a5b4fc"/>
+    <text x="400" y="345" font-family="Arial, sans-serif" font-size="12" fill="#e4ecff" text-anchor="middle">Integrationer och Applikationer</text>
+  </g>
+  
+  <!-- Key features bullet points -->
+  <rect x="70" y="380" width="660" height="80" fill="#1f2937" rx="4" ry="4"/>
+  <text x="400" y="405" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Nyckelfunktioner</text>
+  
+  <!-- Features -->
+  <circle cx="120" cy="430" r="5" fill="#6366f1"/>
+  <text x="135" y="435" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start">Automatiserad extraktion</text>
+  
+  <circle cx="350" cy="430" r="5" fill="#6366f1"/>
+  <text x="365" y="435" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start">Lokal LLM-bearbetning</text>
+  
+  <circle cx="550" cy="430" r="5" fill="#6366f1"/>
+  <text x="565" y="435" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start">Robust hantering</text>
+  
+  <circle cx="120" cy="455" r="5" fill="#6366f1"/>
+  <text x="135" y="460" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start">Omfattande validering</text>
+  
+  <circle cx="350" cy="455" r="5" fill="#6366f1"/>
+  <text x="365" y="460" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start">Parallell bearbetning</text>
+  
+  <circle cx="550" cy="455" r="5" fill="#6366f1"/>
+  <text x="565" y="460" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="start">Strukturerad utdata</text>
+  
+  <!-- Side indicators for input/output -->
+  <rect x="70" y="115" width="100" height="30" rx="4" ry="4" fill="#4c1d95"/>
+  <text x="120" y="135" font-family="Arial, sans-serif" font-size="11" fill="#e4ecff" text-anchor="middle">Input</text>
+  
+  <path d="M 170 130 L 330 115" stroke="#4c1d95" stroke-width="2" stroke-dasharray="5,3" fill="none"/>
+  
+  <rect x="630" y="265" width="100" height="30" rx="4" ry="4" fill="#8b5cf6"/>
+  <text x="680" y="285" font-family="Arial, sans-serif" font-size="11" fill="#e4ecff" text-anchor="middle">Output</text>
+  
+  <path d="M 630 280 L 470 280" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="5,3" fill="none"/>
+  
+  <!-- Use cases -->
+  <rect x="70" y="180" width="100" height="80" rx="4" ry="4" fill="#0d9488"/>
+  <text x="120" y="205" font-family="Arial, sans-serif" font-size="10" fill="#e4ecff" text-anchor="middle">Kundtjänst</text>
+  <text x="120" y="220" font-family="Arial, sans-serif" font-size="10" fill="#e4ecff" text-anchor="middle">Produktsupport</text>
+  <text x="120" y="235" font-family="Arial, sans-serif" font-size="10" fill="#e4ecff" text-anchor="middle">Automatiserade</text>
+  <text x="120" y="250" font-family="Arial, sans-serif" font-size="10" fill="#e4ecff" text-anchor="middle">svar</text>
+  
+  <rect x="630" y="180" width="100" height="80" rx="4" ry="4" fill="#0891b2"/>
+  <text x="680" y="205" font-family="Arial, sans-serif" font-size="10" fill="#e4ecff" text-anchor="middle">Data-integration</text>
+  <text x="680" y="220" font-family="Arial, sans-serif" font-size="10" fill="#e4ecff" text-anchor="middle">Sökmotor</text>
+  <text x="680" y="235" font-family="Arial, sans-serif" font-size="10" fill="#e4ecff" text-anchor="middle">Produktdatabas</text>
+  <text x="680" y="250" font-family="Arial, sans-serif" font-size="10" fill="#e4ecff" text-anchor="middle">API:er</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L0,10 L10,5 Z" fill="#6366f1"/>
+    </marker>
+  </defs>
+</svg>

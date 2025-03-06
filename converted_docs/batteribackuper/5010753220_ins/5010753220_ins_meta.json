@@ -1,0 +1,460 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PSV 2435-12",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          466.29998779296875,
+          80.677734375
+        ],
+        [
+          540.125,
+          80.677734375
+        ],
+        [
+          540.125,
+          97.72998046875
+        ],
+        [
+          466.29998779296875,
+          97.72998046875
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.09326171875,
+          110.314453125
+        ],
+        [
+          125.93701171875,
+          110.314453125
+        ],
+        [
+          125.93701171875,
+          123.260009765625
+        ],
+        [
+          56.09326171875,
+          123.260009765625
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.4100036621094,
+          134.394287109375
+        ],
+        [
+          370.75390625,
+          134.394287109375
+        ],
+        [
+          370.75390625,
+          148.219970703125
+        ],
+        [
+          303.4100036621094,
+          148.219970703125
+        ]
+      ]
+    },
+    {
+      "title": "1. INSTALLATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.347900390625,
+          45.5999755859375
+        ],
+        [
+          141.724609375,
+          45.5999755859375
+        ],
+        [
+          141.724609375,
+          59.53070068359375
+        ],
+        [
+          56.347900390625,
+          59.53070068359375
+        ]
+      ]
+    },
+    {
+      "title": "PSV 2435-12 Installationsanvisning och Uppstart:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          85.10399627685547,
+          600.1435546875
+        ],
+        [
+          288.3377380371094,
+          600.1435546875
+        ],
+        [
+          288.3377380371094,
+          612.3099975585938
+        ],
+        [
+          85.10399627685547,
+          612.3099975585938
+        ]
+      ]
+    },
+    {
+      "title": "2. TEKNISK BESKRIVNING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.63818359375,
+          47.90240478515625
+        ],
+        [
+          175.482421875,
+          47.90240478515625
+        ],
+        [
+          175.482421875,
+          62.6400146484375
+        ],
+        [
+          54.63818359375,
+          62.6400146484375
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Frontpanel",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.620361328125,
+          68.58636474609375
+        ],
+        [
+          128.62890625,
+          68.58636474609375
+        ],
+        [
+          128.62890625,
+          81.97998046875
+        ],
+        [
+          55.620361328125,
+          81.97998046875
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Interna indikeringar p\u00e5 kretskortet samt anslutningar i str\u00f6mf\u00f6rs\u00f6rjningsenheten",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.15999984741211,
+          320.65283203125
+        ],
+        [
+          442.052734375,
+          320.65283203125
+        ],
+        [
+          442.052734375,
+          334.489990234375
+        ],
+        [
+          56.15999984741211,
+          334.489990234375
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Bygelf\u00e4lt",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.001953125,
+          44.19781494140625
+        ],
+        [
+          118.5888671875,
+          44.19781494140625
+        ],
+        [
+          118.5888671875,
+          57.47259521484375
+        ],
+        [
+          55.001953125,
+          57.47259521484375
+        ]
+      ]
+    },
+    {
+      "title": "2.4 In och utg\u00e5ngar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.09326171875,
+          207.662841796875
+        ],
+        [
+          148.49072265625,
+          207.662841796875
+        ],
+        [
+          148.49072265625,
+          220.58001708984375
+        ],
+        [
+          56.09326171875,
+          220.58001708984375
+        ]
+      ]
+    },
+    {
+      "title": "3. TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.838623046875,
+          367.57763671875
+        ],
+        [
+          145.5078125,
+          367.57763671875
+        ],
+        [
+          145.5078125,
+          381.1700134277344
+        ],
+        [
+          55.838623046875,
+          381.1700134277344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          325
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          377
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "TableCell",
+          107
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\5010753220_ins"
+}

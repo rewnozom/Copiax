@@ -1,0 +1,316 @@
+{
+  "table_of_contents": [
+    {
+      "title": "10 output module POWER SUPPLIES - MADE IN SWEDEN\nOm kortet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.4451904296875,
+          15.8057861328125
+        ],
+        [
+          797.654052734375,
+          15.8057861328125
+        ],
+        [
+          797.654052734375,
+          56.09326171875
+        ],
+        [
+          40.4451904296875,
+          56.09326171875
+        ]
+      ]
+    },
+    {
+      "title": "I vilka batteribackuper passar kortet?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.8798828125,
+          340.779296875
+        ],
+        [
+          267.5268859863281,
+          340.779296875
+        ],
+        [
+          267.5268859863281,
+          360.568359375
+        ],
+        [
+          39.8798828125,
+          360.568359375
+        ]
+      ]
+    },
+    {
+      "title": "10 output module passar till:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.599365234375,
+          373.373046875
+        ],
+        [
+          181.50929260253906,
+          373.373046875
+        ],
+        [
+          181.50929260253906,
+          388.505859375
+        ],
+        [
+          40.599365234375,
+          388.505859375
+        ]
+      ]
+    },
+    {
+      "title": "1.Montering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.126953125,
+          37.650146484375
+        ],
+        [
+          375.775390625,
+          37.650146484375
+        ],
+        [
+          375.775390625,
+          56.00927734375
+        ],
+        [
+          300.126953125,
+          56.00927734375
+        ]
+      ]
+    },
+    {
+      "title": "2.Inkoppling av matning fr\u00e5n \nbatteribackup",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          302.38818359375,
+          471.4453125
+        ],
+        [
+          480.6142578125,
+          471.4453125
+        ],
+        [
+          480.6142578125,
+          506.75572967529297
+        ],
+        [
+          302.38818359375,
+          506.75572967529297
+        ]
+      ]
+    },
+    {
+      "title": "3.Inkoppling av last",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          556.673828125,
+          36.5770263671875
+        ],
+        [
+          679.2098999023438,
+          36.5770263671875
+        ],
+        [
+          679.2098999023438,
+          56.00927734375
+        ],
+        [
+          556.673828125,
+          56.00927734375
+        ]
+      ]
+    },
+    {
+      "title": "4. Inkoppling av larm och last",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          559.962890625,
+          150.8916015625
+        ],
+        [
+          744.150390625,
+          150.8916015625
+        ],
+        [
+          744.150390625,
+          168.6435546875
+        ],
+        [
+          559.962890625,
+          168.6435546875
+        ]
+      ]
+    },
+    {
+      "title": "5. Drifts\u00e4tt batteribackup",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          559.140625,
+          427.79296875
+        ],
+        [
+          712.08203125,
+          427.79296875
+        ],
+        [
+          712.08203125,
+          446.41796875
+        ],
+        [
+          559.140625,
+          446.41796875
+        ]
+      ]
+    },
+    {
+      "title": "10 output module POWER SUPPLIES - MADE IN SWEDEN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.6693000793457,
+          15.03277587890625
+        ],
+        [
+          797.654052734375,
+          15.03277587890625
+        ],
+        [
+          797.654052734375,
+          33.8319091796875
+        ],
+        [
+          41.6693000793457,
+          33.8319091796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "TableCell",
+          55
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          331
+        ],
+        [
+          "Line",
+          157
+        ],
+        [
+          "TableCell",
+          154
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152629_ins"
+}

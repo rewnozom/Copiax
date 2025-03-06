@@ -1,0 +1,289 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SM40 0,5-10A \nSTR\u00d6MF\u00d6RS\u00d6RJNING MED PLATS F\u00d6R BATTERIER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.171875,
+          47.2288818359375
+        ],
+        [
+          391.998046875,
+          47.2288818359375
+        ],
+        [
+          391.998046875,
+          99.287109375
+        ],
+        [
+          72.171875,
+          99.287109375
+        ]
+      ]
+    },
+    {
+      "title": "Tillbeh\u00f6r att montera i likriktaren",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.55999755859375,
+          252.64111328125
+        ],
+        [
+          223.00181579589844,
+          252.64111328125
+        ],
+        [
+          223.00181579589844,
+          264.15283203125
+        ],
+        [
+          70.55999755859375,
+          264.15283203125
+        ]
+      ]
+    },
+    {
+      "title": "SPM900-serien",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.91650390625,
+          351.72412109375
+        ],
+        [
+          142.52490234375,
+          351.72412109375
+        ],
+        [
+          142.52490234375,
+          362.82470703125
+        ],
+        [
+          69.91650390625,
+          362.82470703125
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.080078125,
+          119.02294921875
+        ],
+        [
+          386.177734375,
+          119.02294921875
+        ],
+        [
+          386.177734375,
+          131.35693359375
+        ],
+        [
+          318.080078125,
+          131.35693359375
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.9599914550781,
+          369.197265625
+        ],
+        [
+          405.966796875,
+          369.197265625
+        ],
+        [
+          405.966796875,
+          381.78118896484375
+        ],
+        [
+          318.9599914550781,
+          381.78118896484375
+        ]
+      ]
+    },
+    {
+      "title": "SM40 0,5-10A \nSTR\u00d6MF\u00d6RS\u00d6RJNING MED PLATS F\u00d6R BATTERIER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.462890625,
+          50.7235107421875
+        ],
+        [
+          391.416015625,
+          50.7235107421875
+        ],
+        [
+          391.416015625,
+          102.3206787109375
+        ],
+        [
+          72.462890625,
+          102.3206787109375
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.80000305175781,
+          127.8623046875
+        ],
+        [
+          120.3349609375,
+          127.8623046875
+        ],
+        [
+          120.3349609375,
+          140.607421875
+        ],
+        [
+          70.80000305175781,
+          140.607421875
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.9599914550781,
+          128.787353515625
+        ],
+        [
+          378.029296875,
+          128.787353515625
+        ],
+        [
+          378.029296875,
+          140.504638671875
+        ],
+        [
+          318.9599914550781,
+          140.504638671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          399
+        ],
+        [
+          "TableCell",
+          181
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464884_man"
+}

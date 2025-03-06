@@ -1,0 +1,196 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PRODUCT SPECIFICATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          205.6025390625,
+          153.249755859375
+        ],
+        [
+          388.796875,
+          153.249755859375
+        ],
+        [
+          388.796875,
+          170.722900390625
+        ],
+        [
+          205.6025390625,
+          170.722900390625
+        ]
+      ]
+    },
+    {
+      "title": "GP USB Cable\nModel : CY1N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.654296875,
+          185.62646484375
+        ],
+        [
+          346.017578125,
+          185.62646484375
+        ],
+        [
+          346.017578125,
+          220.16162109375
+        ],
+        [
+          247.654296875,
+          220.16162109375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          126.7373046875,
+          65.267333984375
+        ],
+        [
+          435.94140625,
+          65.267333984375
+        ],
+        [
+          435.94140625,
+          120.770263671875
+        ],
+        [
+          126.7373046875,
+          120.770263671875
+        ]
+      ]
+    },
+    {
+      "title": "Product Specification Model no.: CY1N",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.578857421875,
+          138.860107421875
+        ],
+        [
+          522.873046875,
+          138.860107421875
+        ],
+        [
+          522.873046875,
+          155.305419921875
+        ],
+        [
+          41.578857421875,
+          155.305419921875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          412.078125,
+          137.318359375
+        ],
+        [
+          523.24609375,
+          137.318359375
+        ],
+        [
+          523.24609375,
+          154.79150390625
+        ],
+        [
+          412.078125,
+          154.79150390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50463379_PRO"
+}

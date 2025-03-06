@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Avs\u00e4kringskort & Larmdons\u00f6vervakningskort",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.267704010009766,
+          11.71728515625
+        ],
+        [
+          444.08984375,
+          11.71728515625
+        ],
+        [
+          444.08984375,
+          34.47998046875
+        ],
+        [
+          35.267704010009766,
+          34.47998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          298
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152628_pro"
+}

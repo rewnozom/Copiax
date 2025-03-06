@@ -1,0 +1,235 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ECO Serien",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          465.625,
+          30.50091552734375
+        ],
+        [
+          570.5303955078125,
+          30.50091552734375
+        ],
+        [
+          570.5303955078125,
+          55.2459716796875
+        ],
+        [
+          465.625,
+          55.2459716796875
+        ]
+      ]
+    },
+    {
+      "title": "ECO FLX S",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.84912109375,
+          104.941650390625
+        ],
+        [
+          161.8046875,
+          104.941650390625
+        ],
+        [
+          161.8046875,
+          131.048583984375
+        ],
+        [
+          34.84912109375,
+          131.048583984375
+        ]
+      ]
+    },
+    {
+      "title": "POWER SUPPLIES - MADE IN SWEDEN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.41419982910156,
+          20.042724609375
+        ],
+        [
+          190.32421875,
+          20.042724609375
+        ],
+        [
+          190.32421875,
+          40.6214599609375
+        ],
+        [
+          103.41419982910156,
+          40.6214599609375
+        ]
+      ]
+    },
+    {
+      "title": "ECO Serien",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          466.0704040527344,
+          30.9891357421875
+        ],
+        [
+          570.5303955078125,
+          30.9891357421875
+        ],
+        [
+          570.5303955078125,
+          54.577880859375
+        ],
+        [
+          466.0704040527344,
+          54.577880859375
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0313720703125,
+          86.5948486328125
+        ],
+        [
+          93.23710632324219,
+          86.5948486328125
+        ],
+        [
+          93.23710632324219,
+          99.36627197265625
+        ],
+        [
+          36.0313720703125,
+          99.36627197265625
+        ]
+      ]
+    },
+    {
+      "title": "Exempel p\u00e5 tillval",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.6494140625,
+          647.9250335693359
+        ],
+        [
+          117.29552459716797,
+          647.9250335693359
+        ],
+        [
+          117.29552459716797,
+          659.45703125
+        ],
+        [
+          35.6494140625,
+          659.45703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          322
+        ],
+        [
+          "TableCell",
+          182
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50457191_pro"
+}

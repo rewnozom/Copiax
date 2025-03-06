@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "NOVA Serien",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          460.38671875,
+          30.75787353515625
+        ],
+        [
+          577.95703125,
+          30.75787353515625
+        ],
+        [
+          577.95703125,
+          55.4515380859375
+        ],
+        [
+          460.38671875,
+          55.4515380859375
+        ]
+      ]
+    },
+    {
+      "title": "NOVA FLX M",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.33984375,
+          105.45556640625
+        ],
+        [
+          182.0302734375,
+          105.45556640625
+        ],
+        [
+          182.0302734375,
+          132.384765625
+        ],
+        [
+          34.33984375,
+          132.384765625
+        ]
+      ]
+    },
+    {
+      "title": "POWER SUPPLIES - MADE IN SWEDEN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.41419982910156,
+          20.081268310546875
+        ],
+        [
+          189.7421875,
+          20.081268310546875
+        ],
+        [
+          189.7421875,
+          40.6214599609375
+        ],
+        [
+          103.41419982910156,
+          40.6214599609375
+        ]
+      ]
+    },
+    {
+      "title": "NOVA Serien",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          460.96875,
+          30.50091552734375
+        ],
+        [
+          578.5390625,
+          30.50091552734375
+        ],
+        [
+          578.5390625,
+          55.400146484375
+        ],
+        [
+          460.96875,
+          55.400146484375
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.9949951171875,
+          86.6976318359375
+        ],
+        [
+          93.23710632324219,
+          86.6976318359375
+        ],
+        [
+          93.23710632324219,
+          99.36627197265625
+        ],
+        [
+          35.9949951171875,
+          99.36627197265625
+        ]
+      ]
+    },
+    {
+      "title": "Exempel p\u00e5 tillval",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0859375,
+          708.79296875
+        ],
+        [
+          117.7158203125,
+          708.79296875
+        ],
+        [
+          117.7158203125,
+          720.4995269775391
+        ],
+        [
+          36.0859375,
+          720.4995269775391
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          368
+        ],
+        [
+          "TableCell",
+          212
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50457194_pro"
+}

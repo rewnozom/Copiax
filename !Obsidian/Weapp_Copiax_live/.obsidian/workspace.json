@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "be41c776ae0684fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb9880d28f6c9ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f24998f755145352",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_COPIAX_LIVE_.canvas",
+                "viewState": {
+                  "x": 4914.424877811091,
+                  "y": 2441.4726714134476,
+                  "zoom": -2.3333333333333326
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "_COPIAX_LIVE_"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11f338cf5cd4bb9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "be72acac83b5c7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6af7363ceb3176f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b77898d93367e17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6b85b96d52592611",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7ed740aee72d554c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b82d32a9c451d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76028126ca40b779",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Lösningar_/Lora.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lora"
+            }
+          },
+          {
+            "id": "b3465dc578ce660f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1cEua90n/0R7Fyjqc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0R7Fyjqc"
+            }
+          },
+          {
+            "id": "3e23f643fc30ecd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "74bf26ea2843611c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1cEua90n/0R7Fyjqc.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0R7Fyjqc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f24998f755145352",
+  "lastOpenFiles": [
+    "_COPIAX_LIVE_.canvas",
+    "architecture-diagram.svg",
+    "z/xxx.md",
+    "z/X3_överblick på planen.md",
+    "z/workflow.md",
+    "z/WORKFLOW-NEW_PLAN.md",
+    "z/workflow UPDATE.md",
+    "z/Untitled.md",
+    "z/Untitled 9.md",
+    "z/Untitled 8.md",
+    "z/Untitled 7.md",
+    "z/Untitled 6.md",
+    "z/Untitled 5.md",
+    "z/Untitled 4.md",
+    "z/Untitled 34.md",
+    "z/Untitled 33.md",
+    "z/Untitled 32.md",
+    "z/Untitled 31.md",
+    "z/Untitled 28.md",
+    "z/Untitled 30.md",
+    "z/Untitled 3.md",
+    "z/Untitled 29.md",
+    "z/Untitled 26.md",
+    "z/Untitled 27.md",
+    "z/Untitled 25.md",
+    "z/Untitled 24.md",
+    "z/Untitled 22.md",
+    "z",
+    "Untitled",
+    "DocuMen-BOT/Test1.canvas",
+    "DocuMen-BOT/showcase 1 1.canvas",
+    "DocuMen-BOT/showcase.canvas",
+    "DocuMen-BOT/showcase 1.canvas",
+    "DocuMen-BOT",
+    "Copiax info",
+    "_Problem_",
+    "_Lösningar_",
+    "1.py",
+    "1 copy.py",
+    "1 copy 2.py",
+    "installation-guide.svg",
+    "Pasted image 20250301171750.png",
+    "Pasted image 20250301170640.png",
+    "markdown-formatting.svg",
+    "llm-system-overview 1.svg",
+    "llm-system-overview.svg",
+    "jsonl-editor.svg",
+    "final-insight.svg",
+    "file-structure.svg",
+    "COPIAX_LIVE 1 1 1 1 1 1 1 1 1 1.canvas",
+    "COPIAX_LIVE 1 1 1 1 1 1 1.canvas",
+    "COPIAX_LIVE 1 1 1 1 1 1 1 1.canvas",
+    "COPIAX_LIVE 1 1 1 1 1 1 1 1 1.canvas",
+    "llm_mermaid.canvas",
+    "architecture-diagram.mermaid"
+  ]
+}

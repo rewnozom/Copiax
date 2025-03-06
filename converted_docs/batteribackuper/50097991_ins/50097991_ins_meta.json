@@ -1,0 +1,478 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          195.7080078125,
+          166.611572265625
+        ],
+        [
+          362.0234375,
+          166.611572265625
+        ],
+        [
+          362.0234375,
+          189.635009765625
+        ],
+        [
+          195.7080078125,
+          189.635009765625
+        ]
+      ]
+    },
+    {
+      "title": "Manual Likriktare SM2100",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          176.9375,
+          269.703125
+        ],
+        [
+          402.6739807128906,
+          269.703125
+        ],
+        [
+          402.6739807128906,
+          293.548828125
+        ],
+        [
+          176.9375,
+          293.548828125
+        ]
+      ]
+    },
+    {
+      "title": "1. S\u00e4kerhet",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.600341796875,
+          70.2523193359375
+        ],
+        [
+          129.68316650390625,
+          70.2523193359375
+        ],
+        [
+          129.68316650390625,
+          88.3421630859375
+        ],
+        [
+          50.600341796875,
+          88.3421630859375
+        ]
+      ]
+    },
+    {
+      "title": "2. Presentation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.454833984375,
+          205.5791015625
+        ],
+        [
+          155.24317932128906,
+          205.5791015625
+        ],
+        [
+          155.24317932128906,
+          234.14013671875
+        ],
+        [
+          50.454833984375,
+          234.14013671875
+        ]
+      ]
+    },
+    {
+      "title": "3. Funktionsbeskrivning",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.63671875,
+          441.1455078125
+        ],
+        [
+          215.99322509765625,
+          441.1455078125
+        ],
+        [
+          215.99322509765625,
+          459.2353515625
+        ],
+        [
+          50.63671875,
+          459.2353515625
+        ]
+      ]
+    },
+    {
+      "title": "4. Drifts\u00e4ttning",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.0,
+          69.995361328125
+        ],
+        [
+          153.6831512451172,
+          69.995361328125
+        ],
+        [
+          153.6831512451172,
+          87.77685546875
+        ],
+        [
+          51.0,
+          87.77685546875
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling SM2100 fr\u00e5n 10 A och upp\u00e5t",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          179.1800079345703,
+          227.767578125
+        ],
+        [
+          404.51171875,
+          227.767578125
+        ],
+        [
+          404.51171875,
+          242.568359375
+        ],
+        [
+          179.1800079345703,
+          242.568359375
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling SM2100 2,5 - 5 A",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          208.94921875,
+          511.0380859375
+        ],
+        [
+          373.6640625,
+          511.0380859375
+        ],
+        [
+          373.6640625,
+          527.4833984375
+        ],
+        [
+          208.94921875,
+          527.4833984375
+        ]
+      ]
+    },
+    {
+      "title": "P1 Justering av utsp\u00e4nning",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.69091796875,
+          535.7060546875
+        ],
+        [
+          200.21875,
+          535.7060546875
+        ],
+        [
+          200.21875,
+          550.5068359375
+        ],
+        [
+          49.69091796875,
+          550.5068359375
+        ]
+      ]
+    },
+    {
+      "title": "5. Tekniska data",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          113.9326171875,
+          79.96533203125
+        ],
+        [
+          226.9131622314453,
+          79.96533203125
+        ],
+        [
+          226.9131622314453,
+          95.99951171875
+        ],
+        [
+          113.9326171875,
+          95.99951171875
+        ]
+      ]
+    },
+    {
+      "title": "Interna s\u00e4kringar",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.581787109375,
+          79.656982421875
+        ],
+        [
+          151.67599487304688,
+          79.656982421875
+        ],
+        [
+          151.67599487304688,
+          93.841064453125
+        ],
+        [
+          49.581787109375,
+          93.841064453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "TableCell",
+          160
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50097991_ins"
+}

@@ -1,0 +1,177 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UPS \nAVBROTTSFRI KRAFT 800-3000VA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.40869140625,
+          49.2845458984375
+        ],
+        [
+          323.59954833984375,
+          49.2845458984375
+        ],
+        [
+          323.59954833984375,
+          93.7896728515625
+        ],
+        [
+          73.40869140625,
+          93.7896728515625
+        ]
+      ]
+    },
+    {
+      "title": "VI 800/1500SC \n Str\u00f6mf\u00f6rs\u00f6rjning med plats f\u00f6r batteri",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          -7.079999923706055,
+          143.7701416015625
+        ],
+        [
+          422.8919372558594,
+          143.7701416015625
+        ],
+        [
+          422.8919372558594,
+          162.294677734375
+        ],
+        [
+          -7.079999923706055,
+          162.294677734375
+        ]
+      ]
+    },
+    {
+      "title": "VFI 1000/2000/3000TG LCD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          212.0048828125,
+          428.8115234375
+        ],
+        [
+          330.50799560546875,
+          428.8115234375
+        ],
+        [
+          330.50799560546875,
+          441.1455078125
+        ],
+        [
+          212.0048828125,
+          441.1455078125
+        ]
+      ]
+    },
+    {
+      "title": "UPS \nAVBROTTSFRI KRAFT 1000-10000VA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          85.19482421875,
+          50.466552734375
+        ],
+        [
+          350.673828125,
+          50.466552734375
+        ],
+        [
+          350.673828125,
+          93.635498046875
+        ],
+        [
+          85.19482421875,
+          93.635498046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50138662_pro"
+}

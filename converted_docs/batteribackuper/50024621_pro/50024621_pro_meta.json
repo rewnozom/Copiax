@@ -1,0 +1,235 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PSV 2415-12",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.858642578125,
+          64.3936767578125
+        ],
+        [
+          209.67123413085938,
+          64.3936767578125
+        ],
+        [
+          209.67123413085938,
+          88.6505126953125
+        ],
+        [
+          60.858642578125,
+          88.6505126953125
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rs\u00f6rjning, VIP, 24 V 1,5 A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.4228515625,
+          141.63525390625
+        ],
+        [
+          362.60546875,
+          141.63525390625
+        ],
+        [
+          362.60546875,
+          163.630859375
+        ],
+        [
+          62.4228515625,
+          163.630859375
+        ]
+      ]
+    },
+    {
+      "title": "Produktdetajler:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.531982421875,
+          224.0673828125
+        ],
+        [
+          159.0869903564453,
+          224.0673828125
+        ],
+        [
+          159.0869903564453,
+          236.8125
+        ],
+        [
+          62.531982421875,
+          236.8125
+        ]
+      ]
+    },
+    {
+      "title": "BEST\u00c4LLINGSINFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.49560546875,
+          486.3701171875
+        ],
+        [
+          176.673095703125,
+          486.3701171875
+        ],
+        [
+          176.673095703125,
+          497.0595703125
+        ],
+        [
+          62.49560546875,
+          497.0595703125
+        ]
+      ]
+    },
+    {
+      "title": "ALARMTECH SWEDEN AB",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.3671875,
+          13.02777099609375
+        ],
+        [
+          257.548828125,
+          13.02777099609375
+        ],
+        [
+          257.548828125,
+          30.0340576171875
+        ],
+        [
+          59.3671875,
+          30.0340576171875
+        ]
+      ]
+    },
+    {
+      "title": "Relaterade produkter och tillbeh\u00f6r:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.27587890625,
+          60.2823486328125
+        ],
+        [
+          301.4921875,
+          60.2823486328125
+        ],
+        [
+          301.4921875,
+          74.7747802734375
+        ],
+        [
+          58.27587890625,
+          74.7747802734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50024621_pro"
+}

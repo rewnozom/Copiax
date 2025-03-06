@@ -1,0 +1,312 @@
+{
+  "table_of_contents": [
+    {
+      "title": "T-LARMKORT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          149.25,
+          63.80352644836272
+        ],
+        [
+          270.75,
+          64.55415617128463
+        ],
+        [
+          270.75,
+          95.0166015625
+        ],
+        [
+          149.25,
+          95.0166015625
+        ]
+      ]
+    },
+    {
+      "title": "T-LARMKORT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          151.34765625,
+          17.1153564453125
+        ],
+        [
+          267.6099853515625,
+          17.1153564453125
+        ],
+        [
+          267.6099853515625,
+          40.451171875
+        ],
+        [
+          151.34765625,
+          40.451171875
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET - L\u00c4S DET TA F\u00d6RST!",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.408203125,
+          140.05126953125
+        ],
+        [
+          309.052734375,
+          140.05126953125
+        ],
+        [
+          309.052734375,
+          156.74069213867188
+        ],
+        [
+          103.408203125,
+          156.74069213867188
+        ]
+      ]
+    },
+    {
+      "title": "KRETSKORTS\u00d6VERSIKT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          142.6318359375,
+          267.2978515625
+        ],
+        [
+          277.265625,
+          267.2978515625
+        ],
+        [
+          277.265625,
+          282.4147033691406
+        ],
+        [
+          142.6318359375,
+          282.4147033691406
+        ]
+      ]
+    },
+    {
+      "title": "Anslutningar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          167.548828125,
+          469.1171875
+        ],
+        [
+          249.375,
+          469.1171875
+        ],
+        [
+          249.375,
+          485.99609375
+        ],
+        [
+          167.548828125,
+          485.99609375
+        ]
+      ]
+    },
+    {
+      "title": "T-LARMKORT\nMontering p\u00e5 TEQ-COM PRO",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          114.04329681396484,
+          17.2972412109375
+        ],
+        [
+          305.0676574707031,
+          17.2972412109375
+        ],
+        [
+          305.0676574707031,
+          62.9210205078125
+        ],
+        [
+          114.04329681396484,
+          62.9210205078125
+        ]
+      ]
+    },
+    {
+      "title": "T-LARMKORT monteras p\u00e5 TEQ-COM kortet p\u00e5 R19, se nedan.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.658203125,
+          76.24609375
+        ],
+        [
+          342.685546875,
+          76.24609375
+        ],
+        [
+          342.685546875,
+          93.581787109375
+        ],
+        [
+          34.658203125,
+          93.581787109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152549_ins"
+}

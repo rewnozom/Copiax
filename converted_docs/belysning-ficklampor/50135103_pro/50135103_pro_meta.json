@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SafeE Multilight",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          82.0145034790039,
+          32.927215576171875
+        ],
+        [
+          229.02133178710938,
+          32.927215576171875
+        ],
+        [
+          229.02133178710938,
+          55.2891845703125
+        ],
+        [
+          82.0145034790039,
+          55.2891845703125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk specifikation:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.7640380859375,
+          357.005859375
+        ],
+        [
+          161.23495483398438,
+          357.005859375
+        ],
+        [
+          161.23495483398438,
+          370.5119171142578
+        ],
+        [
+          38.7640380859375,
+          370.5119171142578
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135103_pro"
+}

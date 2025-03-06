@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Armb\u00e5gskontakt \nAluminium IP67",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.36328125,
+          98.46630859375
+        ],
+        [
+          441.9496154785156,
+          98.46630859375
+        ],
+        [
+          441.9496154785156,
+          155.5308837890625
+        ],
+        [
+          247.36328125,
+          155.5308837890625
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.2177734375,
+          388.109375
+        ],
+        [
+          335.25,
+          388.109375
+        ],
+        [
+          335.25,
+          402.087890625
+        ],
+        [
+          247.2177734375,
+          402.087890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50101242_pro"
+}

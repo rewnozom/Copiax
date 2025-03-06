@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:core OR file:(.*/)?core\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:agent_framework OR file:agent_framework.md",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    },
+    {
+      "query": "path:agents OR file:agent.md OR tag:#agent",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:nodes OR file:(.*/)?node[s]?\\.md",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:utils OR file:utils.md OR tag:#utility",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:tools OR file:tools.md OR tag:#tool",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:services OR file:service[s]?\\.md OR tag:#service",
+      "color": {
+        "a": 1,
+        "rgb": 16751103
+      }
+    },
+    {
+      "query": "path:testing OR file:test[s]?\\.md OR tag:#test",
+      "color": {
+        "a": 1,
+        "rgb": 16740096
+      }
+    },
+    {
+      "query": "file:nodex.md",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.3,
+  "lineSizeMultiplier": 1.5,
+  "collapse-forces": false,
+  "centerStrength": 0.518713,
+  "repelStrength": 12,
+  "linkStrength": 0.8,
+  "linkDistance": 300,
+  "scale": 0.3242333035017927,
+  "close": false
+}

@@ -1,0 +1,2130 @@
+{
+  "edges": [
+    {
+      "fromNode": "ebe415d5f94ad738",
+      "fromSide": "bottom",
+      "id": "6bf73354f0c54f86",
+      "toNode": "f7f7d3c9a8f500c0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e0f88120f36b52b4",
+      "fromSide": "bottom",
+      "id": "aa0405bc2631ff1f",
+      "toNode": "771e20cac4371bde",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f7f7d3c9a8f500c0",
+      "fromSide": "top",
+      "id": "e1ab0c82022e1b59",
+      "toNode": "a7a81c1a170af490",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "986a68cd91e76c9c",
+      "fromSide": "right",
+      "id": "f5bc1386dc44e4df",
+      "toNode": "b1d58378db0b9314",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "986a68cd91e76c9c",
+      "fromSide": "right",
+      "id": "e1beea2ab8debe42",
+      "toNode": "7398633ad14ead48",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "214f12f267deeaac",
+      "fromSide": "right",
+      "id": "01a76b32bc3c53e1",
+      "toNode": "b1d58378db0b9314",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fa769ae1c8ed7025",
+      "fromSide": "right",
+      "id": "991c4f7e409d00dd",
+      "toNode": "c7d875b6b8ca72a5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9c51f02ebf869852",
+      "fromSide": "right",
+      "id": "b2dcba71217ae7f7",
+      "toNode": "955c00e509c320e2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d1d44572d62cd19a",
+      "fromSide": "right",
+      "id": "804f1e0b4ca89da9",
+      "toNode": "9c51f02ebf869852",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "955c00e509c320e2",
+      "fromSide": "right",
+      "id": "70b6614ffe61f157",
+      "toNode": "fa769ae1c8ed7025",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c65031850a59aa28",
+      "fromSide": "bottom",
+      "id": "101c7e12b21060b6",
+      "toNode": "f53b0b7b8cede67a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c7d875b6b8ca72a5",
+      "fromSide": "right",
+      "id": "a0ab984fa470c46b",
+      "toNode": "c65031850a59aa28",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "214f12f267deeaac",
+      "fromSide": "right",
+      "id": "75058eef8c4237f0",
+      "styleAttributes": {
+      },
+      "toNode": "7398633ad14ead48",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fd0b9ace827a28a4",
+      "fromSide": "right",
+      "id": "33ca49ee4fa7b35d",
+      "styleAttributes": {
+      },
+      "toNode": "fbe5cdcb520736ba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b1d58378db0b9314",
+      "fromSide": "right",
+      "id": "82cab87f8ead54e5",
+      "styleAttributes": {
+      },
+      "toNode": "d5d1c06a7583708e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9a6f7d31819243c8",
+      "fromSide": "right",
+      "id": "807e1092af684d0a",
+      "styleAttributes": {
+      },
+      "toNode": "8925d9458379dc2e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3eee9627739eed2c",
+      "fromSide": "bottom",
+      "id": "770ba210f0fcc2f4",
+      "styleAttributes": {
+      },
+      "toNode": "43981c0364fa4a75",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "43981c0364fa4a75",
+      "fromSide": "bottom",
+      "id": "9ffdc5dbf554b3b2",
+      "styleAttributes": {
+      },
+      "toNode": "6f503013048d1870",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6f503013048d1870",
+      "fromSide": "right",
+      "id": "c1f4dcf948e1c7f3",
+      "styleAttributes": {
+      },
+      "toNode": "a1dc6e35c5d4d38e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9bcc15867281568d",
+      "fromSide": "bottom",
+      "id": "2edd48b7eedd1f41",
+      "styleAttributes": {
+      },
+      "toNode": "85a59c9354d80c99",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "85a59c9354d80c99",
+      "fromSide": "left",
+      "id": "899f9f452ce9ba91",
+      "styleAttributes": {
+      },
+      "toNode": "39a068f253045cc7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b1d58378db0b9314",
+      "fromSide": "right",
+      "id": "f551c37200121990",
+      "styleAttributes": {
+      },
+      "toNode": "4562f7f504772261",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7398633ad14ead48",
+      "fromSide": "right",
+      "id": "b8155174485bc261",
+      "styleAttributes": {
+      },
+      "toNode": "524df60d2af0fcdc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b1d58378db0b9314",
+      "fromSide": "right",
+      "id": "64c91d181a2bda5a",
+      "styleAttributes": {
+      },
+      "toNode": "8ba0dec8162ca06a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7398633ad14ead48",
+      "fromSide": "right",
+      "id": "795e19504ddbf53c",
+      "styleAttributes": {
+      },
+      "toNode": "8ba0dec8162ca06a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b1d58378db0b9314",
+      "fromSide": "right",
+      "id": "048e87fb5828edde",
+      "styleAttributes": {
+      },
+      "toNode": "524df60d2af0fcdc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a1dc6e35c5d4d38e",
+      "fromSide": "bottom",
+      "id": "009759f89c2d1192",
+      "styleAttributes": {
+      },
+      "toNode": "9bcc15867281568d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "038be05bc4927fa5",
+      "fromSide": "bottom",
+      "id": "7087b613ec52b317",
+      "styleAttributes": {
+      },
+      "toNode": "d258b8e999227315",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3a6f2132ee90a60a",
+      "fromSide": "right",
+      "id": "a619d60253a61915",
+      "styleAttributes": {
+      },
+      "toNode": "66bcefb80c82c1e8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d258b8e999227315",
+      "fromSide": "right",
+      "id": "2dc72c7aa2d2a17b",
+      "styleAttributes": {
+      },
+      "toNode": "66bcefb80c82c1e8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5360051bfbe6395",
+      "fromSide": "bottom",
+      "id": "32d29d200f00bc63",
+      "styleAttributes": {
+      },
+      "toNode": "038be05bc4927fa5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "038be05bc4927fa5",
+      "fromSide": "right",
+      "id": "bdf7facc8232296c",
+      "styleAttributes": {
+      },
+      "toNode": "3a6f2132ee90a60a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "66bcefb80c82c1e8",
+      "fromSide": "right",
+      "id": "90ec762b94d59026",
+      "styleAttributes": {
+      },
+      "toNode": "46f4be305f9a03bb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b1d58378db0b9314",
+      "fromSide": "right",
+      "id": "040bbea80e80f6b9",
+      "styleAttributes": {
+      },
+      "toNode": "200499e343d31dcf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5360051bfbe6395",
+      "fromSide": "bottom",
+      "id": "bc25d798d5ef38c6",
+      "styleAttributes": {
+      },
+      "toNode": "2d79dc26edcc173f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3350b1f83516a80a",
+      "fromSide": "bottom",
+      "id": "2dd46f3cd494ae33",
+      "styleAttributes": {
+      },
+      "toNode": "3eee9627739eed2c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2d79dc26edcc173f",
+      "fromSide": "right",
+      "id": "e256d5b16d0afe99",
+      "styleAttributes": {
+      },
+      "toNode": "66bcefb80c82c1e8",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 7080,
+      "id": "d258b8e999227315",
+      "label": "Step_7_# Steg_7: LLM-baserad Produktinformationsextraktor",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 12960,
+      "x": 1245,
+      "y": 14080
+    },
+    {
+      "height": 4740,
+      "id": "3a6f2132ee90a60a",
+      "label": "Step_6",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 6840,
+      "x": 5200,
+      "y": -1460
+    },
+    {
+      "height": 3240,
+      "id": "2d79dc26edcc173f",
+      "label": "Step_NLP",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 5165,
+      "x": 5200,
+      "y": 5820
+    },
+    {
+      "height": 3280,
+      "id": "66bcefb80c82c1e8",
+      "label": "Steg_8: Hybrid - att mixa (AI extraction) och (Bot-Chat)",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3799,
+      "x": 16800,
+      "y": 4880
+    },
+    {
+      "height": 2852,
+      "id": "d5360051bfbe6395",
+      "label": "_Step_4_",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3640,
+      "x": -920,
+      "y": 28
+    },
+    {
+      "height": 3120,
+      "id": "9567231cd63ffd60",
+      "label": "## Steg_7.4: Hur vi kollar att svaren är rätt (validering)",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3120,
+      "x": 1365,
+      "y": 17320
+    },
+    {
+      "height": 2880,
+      "id": "bcfdb417f367b255",
+      "label": "6.6",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2600,
+      "x": 9440,
+      "y": 400
+    },
+    {
+      "height": 2920,
+      "id": "f760f302c2cbe24a",
+      "label": "LLM Setup",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2360,
+      "x": 7165,
+      "y": 14240
+    },
+    {
+      "height": 3080,
+      "id": "ff848da9690b296c",
+      "label": "Processer",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2080,
+      "x": 5325,
+      "y": 18080
+    },
+    {
+      "height": 1880,
+      "id": "6363f580d087029e",
+      "label": "## Steg_7.5: Hur resultatet ser ut",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3160,
+      "x": 8125,
+      "y": 18400
+    },
+    {
+      "height": 2840,
+      "id": "b6d4bddea3a90411",
+      "label": "System Architecture",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2080,
+      "x": 12125,
+      "y": 15420
+    },
+    {
+      "height": 2360,
+      "id": "a636deb10ed2bc73",
+      "label": "Prompt Management",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2400,
+      "x": 3725,
+      "y": 14240
+    },
+    {
+      "height": 2760,
+      "id": "56070ed6c4e6bad1",
+      "label": "Alternativ ->",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1840,
+      "x": 800,
+      "y": 80
+    },
+    {
+      "height": 1400,
+      "id": "c0c882cd8d17f52c",
+      "label": "_Step_3",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2880,
+      "x": -4320,
+      "y": 1240
+    },
+    {
+      "height": 1800,
+      "id": "e150d1adeb0b1bcd",
+      "label": "Workflow",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1980,
+      "x": 12125,
+      "y": 16460
+    },
+    {
+      "height": 1880,
+      "id": "b1f53d51b957eec7",
+      "label": "6.5",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1831,
+      "x": 7160,
+      "y": 829
+    },
+    {
+      "height": 1256,
+      "id": "038be05bc4927fa5",
+      "label": "Steg_5: Jämförelse av lösningarna",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2720,
+      "x": -573,
+      "y": 4484
+    },
+    {
+      "height": 1660,
+      "id": "b84ac4d246fa8771",
+      "label": "6.2",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2020,
+      "x": 9640,
+      "y": -1460
+    },
+    {
+      "height": 1880,
+      "id": "d6186d6e69aee1ce",
+      "label": "LLM System Overview",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1680,
+      "x": 1365,
+      "y": 14240
+    },
+    {
+      "height": 1054,
+      "id": "6f503013048d1870",
+      "label": "_Analysera (fil strukturen)",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2780,
+      "x": -4280,
+      "y": 1440
+    },
+    {
+      "height": 1520,
+      "id": "a983b9dfa9630d13",
+      "label": "System Summary",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1680,
+      "x": 12425,
+      "y": 18860
+    },
+    {
+      "height": 1440,
+      "id": "9572cf5f3a102317",
+      "label": "Workflow",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1720,
+      "x": 7465,
+      "y": 7500
+    },
+    {
+      "height": 1330,
+      "id": "15cec2a1fffd64d8",
+      "label": "6.1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1840,
+      "x": 7160,
+      "y": -1250
+    },
+    {
+      "height": 1500,
+      "id": "57122fa8a551703f",
+      "label": "## Arkitektur",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1380,
+      "x": 5320,
+      "y": 7440
+    },
+    {
+      "height": 1340,
+      "id": "df4ed6b2ab5c77d3",
+      "label": "6.0",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1420,
+      "x": 5200,
+      "y": -1250
+    },
+    {
+      "height": 1434,
+      "id": "9f32a822575b0855",
+      "label": "Step_4.1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1280,
+      "x": -800,
+      "y": 320
+    },
+    {
+      "height": 1556,
+      "id": "0dcaadb6e6b15cc1",
+      "label": "6.4",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1120,
+      "x": 5440,
+      "y": 829
+    },
+    {
+      "height": 840,
+      "id": "968e38eb415daf4d",
+      "label": "Översikt",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1340,
+      "x": 5485,
+      "y": 6060
+    },
+    {
+      "height": 1120,
+      "id": "3350b1f83516a80a",
+      "label": "_Step_1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1000,
+      "x": -3560,
+      "y": -2040
+    },
+    {
+      "height": 1480,
+      "id": "727067f78ac15535",
+      "label": "Systemet genererar färdiga svar för olika bot-kommandon:",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 720,
+      "x": 9325,
+      "y": 5880
+    },
+    {
+      "height": 1199,
+      "id": "6a645c5e8773670f",
+      "label": "Data",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 840,
+      "x": 7725,
+      "y": 5880
+    },
+    {
+      "height": 560,
+      "id": "d5d1c06a7583708e",
+      "label": "**(Regex-Mönster-Lösning) för (Data - Extraktion)?**",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1787,
+      "x": 836,
+      "y": 640
+    },
+    {
+      "height": 520,
+      "id": "200499e343d31dcf",
+      "label": "**(NLP-lösning) för (Data - Extraktion)?**",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1787,
+      "x": 827,
+      "y": 1259
+    },
+    {
+      "color": "2",
+      "height": 1000,
+      "id": "77d74396da8c4f21",
+      "label": "UPPDRAG - Copiax",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 920,
+      "x": -3520,
+      "y": -1980
+    },
+    {
+      "height": 467,
+      "id": "524df60d2af0fcdc",
+      "label": "**(AI - Lösning) som slut mål: Träna (LoRA-Modell)?**",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1787,
+      "x": 844,
+      "y": 1840
+    },
+    {
+      "height": 455,
+      "id": "4562f7f504772261",
+      "label": "**(BOT -Lösning) som slut mål: (Bot-Chat)?**",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1707,
+      "x": 851,
+      "y": 2360
+    },
+    {
+      "height": 420,
+      "id": "8ba0dec8162ca06a",
+      "label": "**(AI - Lösning) För (Data - Extraction)?**",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1783,
+      "x": 840,
+      "y": 160
+    },
+    {
+      "height": 840,
+      "id": "656be76dd83a4fe2",
+      "label": "## Arkitektur",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 840,
+      "x": 5600,
+      "y": 7620
+    },
+    {
+      "height": 800,
+      "id": "a3b16ecb69635874",
+      "label": "Önskemål",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 860,
+      "x": -3490,
+      "y": -1800
+    },
+    {
+      "height": 386,
+      "id": "7685a886b2db973e",
+      "label": "Format",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1400,
+      "x": -4260,
+      "y": 1654
+    },
+    {
+      "height": 640,
+      "id": "3eee9627739eed2c",
+      "label": "_Step_2",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 840,
+      "x": -2800,
+      "y": -80
+    },
+    {
+      "height": 760,
+      "id": "d6590003408e37f4",
+      "label": "_",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 545,
+      "x": -2080,
+      "y": 1700
+    },
+    {
+      "color": "4",
+      "height": 460,
+      "id": "9a27cb4d84449c56",
+      "label": "Fördelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 831,
+      "x": 852,
+      "y": 1309
+    },
+    {
+      "color": "4",
+      "height": 460,
+      "id": "7c575a79e701878d",
+      "label": "Fördelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 831,
+      "x": 866,
+      "y": 700
+    },
+    {
+      "color": "1",
+      "height": 428,
+      "id": "dbee956277dadd96",
+      "label": "Nackdelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 851,
+      "x": 1721,
+      "y": 1341
+    },
+    {
+      "color": "1",
+      "height": 428,
+      "id": "e5b85a3e78de2c9e",
+      "label": "Nackdelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 851,
+      "x": 1730,
+      "y": 716
+    },
+    {
+      "color": "4",
+      "height": 397,
+      "id": "9a6f7d31819243c8",
+      "label": "Fördelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 800,
+      "x": 874,
+      "y": 1890
+    },
+    {
+      "color": "1",
+      "height": 357,
+      "id": "8925d9458379dc2e",
+      "label": "Nackdelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 884,
+      "x": 1705,
+      "y": 1910
+    },
+    {
+      "color": "4",
+      "height": 380,
+      "id": "8ee1c609934bf69e",
+      "label": "Fördelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 754,
+      "x": 877,
+      "y": 2420
+    },
+    {
+      "color": "4",
+      "height": 290,
+      "id": "39a068f253045cc7",
+      "label": "_Plannera_Lösningar & Alternativ_",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 980,
+      "x": -560,
+      "y": 1374
+    },
+    {
+      "color": "4",
+      "height": 340,
+      "id": "fd0b9ace827a28a4",
+      "label": "Fördelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 826,
+      "x": 857,
+      "y": 220
+    },
+    {
+      "color": "1",
+      "height": 320,
+      "id": "fbe5cdcb520736ba",
+      "label": "Nackdelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 866,
+      "x": 1732,
+      "y": 240
+    },
+    {
+      "color": "1",
+      "height": 404,
+      "id": "7ed3aee0fdc50e00",
+      "label": "_Problem_",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 590,
+      "x": -2760,
+      "y": 78
+    },
+    {
+      "color": "1",
+      "height": 245,
+      "id": "241b121678a603bc",
+      "label": "Nackdelar",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 840,
+      "x": 1671,
+      "y": 2465
+    },
+    {
+      "height": 220,
+      "id": "b84f720082c9bd31",
+      "label": "Marker",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 675,
+      "x": -2800,
+      "y": 1654
+    },
+    {
+      "height": 400,
+      "id": "3d8cf321cdfb8069",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 400,
+      "x": 11700,
+      "y": 24020
+    },
+    {
+      "file": "Pasted image 20250301171750.png",
+      "height": 760,
+      "id": "14bbc69ae0499498",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1227,
+      "x": 870,
+      "y": 4780
+    },
+    {
+      "height": 60,
+      "id": "9bebcd6b2eda84d4",
+      "styleAttributes": {
+      },
+      "text": "Bot-Chat är överlägsen när det gäller precision, hastighet, kontroll, time-to-market och underhåll",
+      "type": "text",
+      "width": 840,
+      "x": 1064,
+      "y": 4677
+    },
+    {
+      "height": 271,
+      "id": "4e74716ade2254cb",
+      "styleAttributes": {
+      },
+      "text": "**Fördelar:**\n\n- Kan skräddarsys exakt efter Copiax specifika produktstruktur och informationsbehov\n- Möjlighet att optimera för exakt de frågetyper och produkt relationer som är relevanta och få formulering exakt hur man vill få fram dom.\n- Ingen långsiktig kostnad för externa API-anrop efter initial träning, då den är lokal.",
+      "type": "text",
+      "width": 760,
+      "x": 884,
+      "y": 1946
+    },
+    {
+      "height": 271,
+      "id": "198261b99ed7d18b",
+      "styleAttributes": {
+      },
+      "text": "**Nackdelar:**\n\n- Behöver betydligt mer `specifik` data & struktur för att träna egna modeller effektivt.\n- Kräver resurser (VRAM) för andvänding, hög chans att dom kommer behöva uppdatera sin hårdvara för att köra den effektivt.\n- Längre time-to-market jämfört med Bot-baserade lösningen.\n- För att uppdatera & göra underhållsbehov när produkter läggs till / uppdateras så krävs (omträning) eller (väldigt detaljerad SystemPrompt)\n",
+      "type": "text",
+      "width": 785,
+      "x": 1735,
+      "y": 1946
+    },
+    {
+      "height": 60,
+      "id": "811655e7a1d575ba",
+      "styleAttributes": {
+      },
+      "text": "LoRA-Modellen är starkare på språkflexibilitet och att hantera naturligt språk",
+      "type": "text",
+      "width": 740,
+      "x": 1114,
+      "y": 4604
+    },
+    {
+      "height": 100,
+      "id": "82f35d182af0bb39",
+      "styleAttributes": {
+      },
+      "text": "Slutsatsen är att Bot-Chat ger en snabbare, enklare väg framåt med hög precision och kontroll, medan LoRA-modellen erbjuder mer flexibilitet men till priset av längre utvecklingstid och mer komplicerat underhåll.",
+      "type": "text",
+      "width": 940,
+      "x": 1014,
+      "y": 5600
+    },
+    {
+      "height": 339,
+      "id": "8be0fc1c4dc18ac9",
+      "styleAttributes": {
+      },
+      "text": "Fördelar:\n- Kan extrahera kontext och sammanhang — förstår meningens betydelse, inte bara mönster\n- Kan känna igen variationer i språket — hanterar synonymer och olika formuleringar\n- Förmåga att förstå naturligt språk utan exakta regler — anpassningsbar till olika texttyper\n- Kan identifiera entiteter och relationer i ostrukturerad text — namn, platser, organisationer\n- Möjlighet att träna på domänspecifika data — förbättras med mer relevant träningsdata",
+      "type": "text",
+      "width": 780,
+      "x": 882,
+      "y": 1356
+    },
+    {
+      "file": "Pasted image 20250301170640.png",
+      "height": 760,
+      "id": "476b76d0e799dd9f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1223,
+      "x": -513,
+      "y": 4780
+    },
+    {
+      "height": 60,
+      "id": "b7f4b536ed7403a4",
+      "styleAttributes": {
+      },
+      "text": "Python-lösningen är mer exakt, snabbare i drift och billigare att driva långsiktigt",
+      "type": "text",
+      "width": 700,
+      "x": -251,
+      "y": 4677
+    },
+    {
+      "height": 60,
+      "id": "7fe7652f7ffacf19",
+      "styleAttributes": {
+      },
+      "text": "AI-lösningen är bättre på naturligt språk, snabbare att utveckla och mer flexibel",
+      "type": "text",
+      "width": 700,
+      "x": -251,
+      "y": 4604
+    },
+    {
+      "height": 80,
+      "id": "4cb9a78748e9e0e6",
+      "styleAttributes": {
+      },
+      "text": "Slutsatsen som visas längst ner är att båda lösningarna faktiskt kompletterar varandras svagheter.\nkanske någon hybrid-approach? till framtiden?",
+      "type": "text",
+      "width": 840,
+      "x": -321,
+      "y": 5610
+    },
+    {
+      "height": 340,
+      "id": "6177b2ebe87d665e",
+      "styleAttributes": {
+      },
+      "text": "**Fördelar:**\n\n- **Hög precision & exakthet** – Inga hallucinationer, endast verifierade produktrelationer.\n- **Snabbare och konsekventa svar** – Optimerad & pålitliga resultat.\n- **Full kontroll över svaren** – Ingen gissning, enkelt att ändra & uppdatera. \n- **Exakt produktmatchning** - Hanterar produktmatching genom sökning via indexering. \n- **Tillgång att lägga till Produktlänkar i efterhand** -Kan Hantera `Produktlänkar` via frontend (mer om detta senare).  \n- **Enkel verifiering av svar** – Indexerad data gör granskning smidig.  \n",
+      "type": "text",
+      "width": 712,
+      "x": 901,
+      "y": 2440
+    },
+    {
+      "height": 165,
+      "id": "1f987375dd929c27",
+      "styleAttributes": {
+      },
+      "text": "**Nackdelar:**\n- Mindre flexibel för oväntade eller komplexa produktfrågor\n- Svårare att hantera naturligt språk och kontext variation i kund frågor.",
+      "type": "text",
+      "width": 800,
+      "x": 1691,
+      "y": 2485
+    },
+    {
+      "height": 1980,
+      "id": "41b2105d4e9a994f",
+      "styleAttributes": {
+      },
+      "text": "## Steg_6.3: Bot\n\n### Bot Engine Flöde\n\n```mermaid\nsequenceDiagram\n    participant User\n    participant ChatFrame\n    participant BotEngine\n    participant DataProcessor\n    participant Index\n    \n    User->>ChatFrame: Skriver kommando/fråga\n    ChatFrame->>BotEngine: Skickar inmatning\n    BotEngine->>BotEngine: Tolkar kommando/fråga\n    BotEngine->>Index: Söker produktinformation\n    Index->>DataProcessor: Hämtar produktdata\n    DataProcessor->>BotEngine: Returnerar data\n    BotEngine->>BotEngine: Formaterar svar\n    BotEngine->>ChatFrame: Returnerar svar\n    ChatFrame->>User: Visar svar i chattgränssnittet\n```\n\n### Kommandoformat\n\n- **-t:** Tekniska specifikationer för en produkt\n- **-c:** Kompatibilitetsinformation för en produkt\n- **-s:** Sammanfattande information om en produkt\n- **-f:** Fullständig produktinformation\n\n### Sökmetoder\n\n- **Exakt sökning:** Hitta exakta produktnummer\n- **Regex-sökning:** Flexibel matchning med mönster\n- **Fuzzy matching:** Tolerera stavfel och variationer\n- **Naturligt språk:** Tolka vanliga frågor\n\n### Kod-exempel: Kompatibilitetsrespons\n\n```python\ndef generate_compatibility_response(self, product_id: str) -> Dict[str, Any]:\n    \"\"\"\n    Skapar en strukturerad kompatibilitetsrespons för en produkt.\n    Optimerad för att användas av en bot.\n    \n    Args:\n        product_id: ID för produkten att generera kompatibilitetsrespons för\n        \n    Returns:\n        Dict med formaterade kompatibilitetsdata\n    \"\"\"\n    product_dir = self.products_dir / product_id\n    \n    # Grundläggande responsstruktur\n    response = {\n        \"product_id\": product_id,\n        \"command\": \"-c\",\n        \"timestamp\": datetime.now().isoformat(),\n        \"product_name\": None,\n        \"has_compatibility_info\": False,\n        \"compatibility_groups\": {},\n        \"related_products\": [],\n        \"markdown_response\": \"\"\n    }\n    \n    # Fortsättning...\n```\n",
+      "type": "text",
+      "width": 1120,
+      "x": 9800,
+      "y": 1124
+    },
+    {
+      "file": "Pasted image 20250305130817.png",
+      "height": 854,
+      "id": "3b0940924be37a12",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1260,
+      "x": 1565,
+      "y": 15200
+    },
+    {
+      "height": 792,
+      "id": "c440d71346f1f01a",
+      "styleAttributes": {
+      },
+      "text": "## Steg_6.4: Markdown-formatering av Svar till Chattgränssnittet\n\n\n- **Rubriker:** För produktnamn och sektioner\n- **Listor:** För kompatibla produkter och specifikationer\n- **Tabeller:** För strukturerad data\n- **Fetstil och kursiv:** För att betona viktig information\n\n### Exempel på Kompatibilitetssvar\n\n```markdown\n# Kompatibilitetsinformation för ASSA Låshus 310-50\n\n**Artikelnummer:** EX1234\n**EAN:** 1234567890123\n\n## Passar till\n\n- ASSA ABLOY Trycke 6696 40-75mm prion PP (Art.nr: 50093073)\n- ASSA ABLOY Trycke 6696 40-75mm krom PP (Art.nr: 50010481)\n- ASSA ABLOY Trycke 6696 40-75mm brunoxid SB (Art.nr: 124852)\n\n## Ersätter\n\n- ASSA 310-51\n```\n",
+      "type": "text",
+      "width": 940,
+      "x": 5500,
+      "y": 1509
+    },
+    {
+      "height": 760,
+      "id": "38e40ba42ec8b1f4",
+      "styleAttributes": {
+      },
+      "text": "## Steg_6.5: JSONL-editorn - Finliret\n\n### JSONL-Editor Funktioner\n\n- **Syntaxmarkering:** Färgkodning av JSON-element\n- **Valideringsindikator:** Visar om JSON-strukturen är giltig\n- **Formatering:** Auto-indentering och formatering\n- **Sökfunktion:** Hitta specifika fält eller värden\n- **Filtrering:** Visa endast specifika kategorier eller fält\n\n### Navigering och Organisering\n\n- **Trädvy:** Visar produkter och deras filer\n- **Drag & Drop:** Flytta filer mellan rutor\n- **Snabbknappar:** För vanliga åtgärder\n- **Statusfält:** Visar valideringsresultat och statistik\n\n### Integration med Resten av Systemet\n\n- **Live Preview:** Se hur ändringar påverkar bot-svar\n- **Valideringsrapporter:** Integrering med valideringssystemet\n- **Ändringslogg:** Spåra ändringar i JSONL-filer\n- **Batch-ändringar:** Applicera samma ändring på flera filer\n",
+      "type": "text",
+      "width": 750,
+      "x": 7269,
+      "y": 897
+    },
+    {
+      "height": 620,
+      "id": "8adfe93bd5280b6b",
+      "styleAttributes": {
+      },
+      "text": "#### Tekniska Specifikationer\n\n```json\n{\n  \"product_id\": \"EX1234\",\n  \"specifications\": [\n    {\n      \"name\": \"Höjd\",\n      \"raw_value\": \"225 mm\",\n      \"unit\": \"mm\",\n      \"value\": {\n        \"raw_value\": \"225 mm\",\n        \"normalized_value\": 225,\n        \"is_valid\": true,\n        \"validation_message\": \"Rimligt\"\n      },\n      \"category\": \"DIMENSIONS\",\n      \"importance\": \"high\",\n      \"context\": \"... från specifikationssektionen ...\"\n    }\n  ]\n}\n```\n\n",
+      "type": "text",
+      "width": 760,
+      "x": 8171,
+      "y": 2024
+    },
+    {
+      "height": 1120,
+      "id": "fba8e7c96834f020",
+      "styleAttributes": {
+      },
+      "text": "\n### Systemarkitektur\n\n```mermaid\nflowchart TD\n    A[Input Markdown-filer] --> B[DataProcessor]\n    B --> C1[Artikel-Extraktor]\n    B --> C2[Kompatibilitetsextraktor]\n    B --> C3[Teknisk Specifikationsextraktor]\n    \n    subgraph \"Del 1: Datautvinning & Integration\"\n    C1 --> D[JSONL-filer: Identifierare]\n    C2 --> E[JSONL-filer: Kompatibilitet]\n    C3 --> F[JSONL-filer: Tekniska specifikationer]\n    D & E & F --> G[Index & Rapporter]\n    end\n    \n    subgraph \"Del 2: Bot Engine & Frontend\"\n    G --> H[ProductExplorer]\n    G --> I[BotEngine]\n    H --> J[JSONL-Editor]\n    I --> K[ChatFrame]\n    J & K --> L[ReportViewer]\n    end\n    \n    L --> M[Användare]\n```\n",
+      "type": "text",
+      "width": 960,
+      "x": 10980,
+      "y": 1984
+    },
+    {
+      "height": 530,
+      "id": "272aaf282e8d8d93",
+      "styleAttributes": {
+      },
+      "text": "#### Kompatibilitetsinformation\n\n```json\n{\n  \"product_id\": \"EX1234\",\n  \"compatibility\": [\n    {\n      \"relation_type\": \"Passar till\",\n      \"related_product\": \"Produkt Y\",\n      \"numeric_ids\": [\"9876543210123\"],\n      \"context\": \"... från meningen 'Passar till Produkt Y' ...\"\n    },\n    {\n      \"relation_type\": \"Ersätter\",\n      \"related_product\": \"Produkt Z\",\n      \"context\": \"... från meningen 'Ersätter Produkt Z' ...\"\n    }\n  ]\n}\n```\n\n",
+      "type": "text",
+      "width": 820,
+      "x": 8171,
+      "y": 1474
+    },
+    {
+      "file": "jsonl-editor.svg",
+      "height": 605,
+      "id": "5ca17df64578a433",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 968,
+      "x": 7191,
+      "y": 1729
+    },
+    {
+      "height": 140,
+      "id": "cb78b0f546429312",
+      "styleAttributes": {
+      },
+      "text": "# Validering och kvalitetskontroll\n## Systemet använder flera nivåer av validering för att säkerställa korrekta resultat:\n\n  ",
+      "type": "text",
+      "width": 1120,
+      "x": 2405,
+      "y": 17440
+    },
+    {
+      "height": 920,
+      "id": "1883aa26b0a5fe47",
+      "styleAttributes": {
+      },
+      "text": "\n\n\n\n\n  \n\n#### Förtroendeskala\n\n  \n\nVarje extraktion har en förtroendepoäng baserat på:\n\n  \n\n- LLM:s egen konfidensvärdering\n\n- Hur många gånger informationen hittades i dokumentet\n\n- Konsekvens i överlappande chunks\n\n- Match mot förväntade mönster (t.ex. tekniska specifikationer)\n\n  \n\n```python\n\ndef calculate_confidence(extraction, document):\n\n    \"\"\"Beräkna en förtroendeskala för en extraktion\"\"\"\n\n    base_confidence = extraction.get('confidence', 0.5)\n\n    # Öka förtroendet om informationen matchar förväntade mönster\n\n    if re.search(r'\\d+\\s*(?:mm|cm|kg|V)', extraction.get('raw_value', '')):\n\n        base_confidence += 0.1\n\n    # Öka förtroendet om kontexten innehåller nyckelord\n\n    context = extraction.get('context', '')\n\n    if re.search(r'(?:spec|teknisk|dimension|vikt|mått)', context, re.I):\n\n        base_confidence += 0.1\n\n    # Begränsa till intervallet 0-1\n\n    return min(1.0, max(0.0, base_confidence))\n\n```",
+      "type": "text",
+      "width": 940,
+      "x": 3045,
+      "y": 17630
+    },
+    {
+      "file": "Pasted image 20250305132301.png",
+      "height": 910,
+      "id": "3c6786b742179a82",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1408,
+      "x": 1517,
+      "y": 17640
+    },
+    {
+      "height": 1740,
+      "id": "92e29bdb3ea32d36",
+      "styleAttributes": {
+      },
+      "text": "\n#### 1. Schema-validering -svaren följer förväntad JSON-struktur:\n\n  \n\n```python\n\ndef validate_schema(data, schema_type):\n\n    \"\"\"Validera data mot definierat schema\"\"\"\n\n    schemas = {\n\n        'technical': {\n\n            'type': 'object',\n\n            'required': ['specifications'],\n\n            'properties': {\n\n                'specifications': {\n\n                    'type': 'array',\n\n                    'items': {\n\n                        'type': 'object',\n\n                        'required': ['category', 'name', 'raw_value'],\n\n                        'properties': {\n\n                            'category': {'type': 'string'},\n\n                            'name': {'type': 'string'},\n\n                            'raw_value': {'type': 'string'},\n\n                            'value': {'type': ['number', 'null']},\n\n                            'unit': {'type': ['string', 'null']},\n\n                            'context': {'type': 'string'},\n\n                            'confidence': {'type': 'number'}\n\n                        }\n\n                    }\n\n                }\n\n            }\n\n        },\n\n        # Andra schema-definitioner...\n\n    }\n\n    if schema_type not in schemas:\n\n        raise ValueError(f\"Unknown schema type: {schema_type}\")\n\n    try:\n\n        jsonschema.validate(data, schemas[schema_type])\n\n        return True, None\n\n    except jsonschema.exceptions.ValidationError as e:\n\n        return False, str(e)\n\n```\n\n  ",
+      "type": "text",
+      "width": 800,
+      "x": 1605,
+      "y": 18600
+    },
+    {
+      "height": 1210,
+      "id": "8356d61ce82bea37",
+      "styleAttributes": {
+      },
+      "text": "#### 2. Logisk validering - Kontrollera att extraherad information är rimlig och konsistent:\n\n  \n\n```python\n\ndef validate_technical_specs(specs):\n\n    \"\"\"Validera att tekniska specifikationer är rimliga\"\"\"\n\n    valid_specs = []\n\n    warnings = []\n\n    for spec in specs:\n\n        # Kontrollera basfält\n\n        if not spec.get('name') or not spec.get('raw_value'):\n\n            warnings.append(f\"Incomplete specification: {spec}\")\n\n            continue\n\n        # Validera numeriska värden och enheter\n\n        if spec.get('value') is not None:\n\n            # Kontrollera att värdet är inom rimliga gränser\n\n            if spec.get('unit') == 'mm' and (spec['value'] < 0 or spec['value'] > 10000):\n\n                warnings.append(f\"Unusual value for mm: {spec['value']}\")\n\n            # Liknande kontroller för andra enheter...\n\n        valid_specs.append(spec)\n\n    return valid_specs, warnings\n\n```\n\n  \n",
+      "type": "text",
+      "width": 1040,
+      "x": 2405,
+      "y": 18600
+    },
+    {
+      "height": 830,
+      "id": "d28fbd8d8b3d1266",
+      "styleAttributes": {
+      },
+      "text": "#### 3. Cross-validation -  överlappande chunks för att validera långa dokument:\n\n  \n\n```python\n\ndef cross_validate_chunks(results):\n\n    \"\"\"Validera resultat från överlappande dokumentdelar\"\"\"\n\n    all_specifications = []\n\n    seen_specs = set()\n\n    for chunk_result in results:\n\n        for spec in chunk_result.get('specifications', []):\n\n            # Skapa en nyckel för denna specifikation\n\n            spec_key = f\"{spec['name']}:{spec['raw_value']}\"\n\n            # Om vi sett denna specifikation tidigare, kontrollera för konsekvens\n\n            if spec_key in seen_specs:\n\n                continue\n\n            seen_specs.add(spec_key)\n\n            all_specifications.append(spec)\n\n    return all_specifications\n\n```\n",
+      "type": "text",
+      "width": 940,
+      "x": 3445,
+      "y": 18600
+    },
+    {
+      "height": 100,
+      "id": "63e32807a0115219",
+      "styleAttributes": {
+      },
+      "text": "### Exempel på extraherade data\nHär är några exempel på hur de extraherade data ser ut efter bearbetning:\n\n  ",
+      "type": "text",
+      "width": 655,
+      "x": 9358,
+      "y": 18420
+    },
+    {
+      "height": 1640,
+      "id": "3614654477396c91",
+      "styleAttributes": {
+      },
+      "text": "#### Technical Specifications\n\n  \n\n```json\n\n{\n\n  \"specifications\": [\n\n    {\n\n      \"category\": \"dimensioner\",\n\n      \"name\": \"höjd\",\n\n      \"raw_value\": \"225 mm\",\n\n      \"value\": 225,\n\n      \"unit\": \"mm\",\n\n      \"context\": \"Höjd: 225 mm, exklusive trycke\",\n\n      \"confidence\": 0.98\n\n    },\n\n    {\n\n      \"category\": \"elektriska\",\n\n      \"name\": \"spänning\",\n\n      \"raw_value\": \"12-24V DC\",\n\n      \"value\": [12, 24],\n\n      \"unit\": \"V DC\",\n\n      \"context\": \"Driftspänning: 12-24V DC ±10%\",\n\n      \"confidence\": 0.95\n\n    },\n\n    {\n\n      \"category\": \"material\",\n\n      \"name\": \"stommaterial\",\n\n      \"raw_value\": \"förzinkat stål\",\n\n      \"unit\": null,\n\n      \"context\": \"Låshuset är tillverkat av förzinkat stål för ökad hållbarhet\",\n\n      \"confidence\": 0.89\n\n    }\n\n  ]\n\n}\n\n```\n\n  ",
+      "type": "text",
+      "width": 860,
+      "x": 10325,
+      "y": 18560
+    },
+    {
+      "height": 1440,
+      "id": "cd8a6058b293bc83",
+      "styleAttributes": {
+      },
+      "text": "#### Product Identifiers\n\n  \n\n```json\n\n{\n\n  \"identifiers\": [\n\n    {\n\n      \"type\": \"ean\",\n\n      \"value\": \"7393649124562\",\n\n      \"is_valid\": true,\n\n      \"validation_message\": \"Valid EAN-13\",\n\n      \"confidence\": 0.99,\n\n      \"context\": \"EAN: 7393649124562\"\n\n    },\n\n    {\n\n      \"type\": \"artikelnummer\",\n\n      \"value\": \"E123456\",\n\n      \"supplier\": \"Copiax\",\n\n      \"confidence\": 0.96,\n\n      \"context\": \"Artikelnummer: E123456\"\n\n    },\n\n    {\n\n      \"type\": \"e-nummer\",\n\n      \"value\": \"1234567\",\n\n      \"confidence\": 0.94,\n\n      \"context\": \"E-nr: 1234567\"\n\n    }\n\n  ],\n\n  \"product_name\": \"ASSA ABLOY Låshus 310-50\",\n\n  \"confidence\": 0.97\n\n}\n\n```\n\n  ",
+      "type": "text",
+      "width": 880,
+      "x": 8165,
+      "y": 18560
+    },
+    {
+      "height": 1120,
+      "id": "d07d7660b9195623",
+      "styleAttributes": {
+      },
+      "text": "#### Compatibility Information\n\n  \n\n```json\n\n{\n\n  \"relations\": [\n\n    {\n\n      \"relation_type\": \"passar till\",\n\n      \"related_product\": \"Trycke 6696 40-75mm prion PP\",\n\n      \"article_numbers\": [\n\n        {\"supplier\": \"Copiax\", \"number\": \"50093073\"},\n\n        {\"supplier\": \"ASSA ABLOY\", \"number\": \"470043160001\"}\n\n      ],\n\n      \"context\": \"Dessa trycken är utrustade med returfjäder och är designade för att passa ASSA låshus 310-50 höger.\",\n\n      \"confidence\": 0.95\n\n    },\n\n    {\n\n      \"relation_type\": \"ersätter\",\n\n      \"related_product\": \"ASSA 310-51\",\n\n      \"context\": \"ASSA 310-50 är den nya ersättningsmodellen för den utgående modellen 310-51.\",\n\n      \"confidence\": 0.87\n\n    }\n\n  ]\n\n}\n\n```\n\n  ",
+      "type": "text",
+      "width": 1200,
+      "x": 9085,
+      "y": 18560
+    },
+    {
+      "height": 740,
+      "id": "8ff3a2d2c16bfd1e",
+      "styleAttributes": {
+      },
+      "text": "## Dataintegration\n\n### 1. Spara strukturerad data\n\nFör varje produkt skapar vi en strukturerad katalog med olika filer:\n\n- `article_info.jsonl` - Artikelidentifierare\n- `technical_specs.jsonl` - Tekniska specifikationer\n- `compatibility.jsonl` - Kompatibilitetsrelationer\n- `summary.jsonl` - Sammanfattning av produkten\n- `full_info.md` - Original markdownfil\n\n### 2. Skapa index för snabb sökning\n\nVi genererar också flera index för snabb sökning:\n\n- `article_numbers.json` - Artikelnummer → Produkt-ID\n- `ean_numbers.json` - EAN-koder → Produkt-ID\n- `compatibility_map.json` - Produkt-ID → Kompatibla produkter\n- `technical_specs_index.json` - Kategori → Produkter med specifikation",
+      "type": "text",
+      "width": 700,
+      "x": 7765,
+      "y": 5900
+    },
+    {
+      "height": 360,
+      "id": "518ebc844b21e1e9",
+      "styleAttributes": {
+      },
+      "text": "### Slutsats och sammanfattning\n\n  \n\nLLM-baserad Produktinformationsextraktor erbjuder:\n\n  \n\n1. **Automatiserad extraktion** av produktinformation från ostrukturerade dokument\n\n2. **Lokal LLM-bearbetning** utan beroende av externa API:er\n\n3. **Robust hantering** av långa dokument och komplexa datastrukturer\n\n4. **Omfattande validering** för att säkerställa datakvalitet\n\n5. **Parallell bearbetning** för hög effektivitet\n\n6. **Strukturerad utdata** som kan integreras med andra system\n\n  \n\nDetta ger en flexibel lösning för att automatisera extraktion av produktinformation.",
+      "type": "text",
+      "width": 740,
+      "x": 12925,
+      "y": 18940
+    },
+    {
+      "file": "final-summary.svg",
+      "height": 914,
+      "id": "1ff38a80ef1126d0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1462,
+      "x": 12505,
+      "y": 19340
+    },
+    {
+      "height": 3840,
+      "id": "112870eae9bc3304",
+      "styleAttributes": {
+      },
+      "text": "\n---\n\n  \n\n## Hur processen fungerar, steg för steg\n\n  \n\n### 1. Förberedelse och konfiguration\n\nSystemet startar med att läsa in konfigurationsinställningar som bestämmer:\n\n- Vilken AI-modell som ska användas (t.ex. GPT, Claude eller lokala modeller)\n\n- Var indata och utdata ska sparas\n\n- Hur många parallella bearbetningar som ska köras samtidigt\n\n- Andra tekniska inställningar\n\n  \n\n### 2. Inläsning av promptmallar\n\nSystemet läser in färdiga \"promptmallar\" - dessa är specialskrivna instruktioner som hjälper AI-modellen förstå exakt vad den ska leta efter och hur svaret ska formateras. Det finns olika typer av mallar:\n\n- Extraktionsmallar (för att få ut information)\n\n- Valideringsmallar (för att kontrollera att informationen är korrekt)\n\n- Korrigeringsmallar (för att rätta till fel)\n\n  \n\n### 3. Anslutning till AI-tjänsten\n\nSystemet ansluter till den valda AI-tjänsten via en specialiserad \"klient\":\n\n1. Det verifierar först att anslutningen fungerar\n\n2. Om huvudtjänsten inte svarar, försöker det med en reservtjänst\n\n3. Anslutningen konfigureras för att hantera eventuella avbrott eller fel\n\n  \n\n### 4. Uppstart av bearbetningssystemet\n\nNu startar \"WorkflowManager\" (arbetsflödeshanteraren) som koordinerar hela processen:\n\n1. Den startar flera parallella \"arbetare\" som kan bearbeta filer samtidigt\n\n2. Den startar en schemaläggare som organiserar bearbetningskön\n\n3. Den förbereder kösystemet för att hantera alla filer\n\n  \n\n### 5. Produktbearbetning\n\nNär användaren väljer en katalog med produktdokument sker följande:\n\n1. **Katalogscanning**: Systemet hittar alla relevanta filer enligt angivet mönster\n\n2. **Batchbearbetning**: Filerna delas upp i grupper (batcher) för effektiv hantering\n\n3. **Köplacering**: Varje produkt läggs i en prioriterad kö med ett unikt jobb-ID\n\n4. **Bearbetning**: Arbetarna tar filer från kön och bearbetar dem en i taget\n\n  \n\n### 6. För varje enskild produkt\n\nNär en arbetare bearbetar en produktfil:\n\n1. **Filläsning**: Filen läses in och kontrolleras\n\n2. **Storleksbedömning**: Om filen är för stor delas den upp i mindre bitar\n\n3. **Textpreparering**: Texten förbereds för att skickas till AI-modellen\n\n4. **Promptförberedelse**: Den lämpligaste promptmallen väljs och fylls i med produkttexten\n\n  \n\n### 7. AI-interaktion\n\nVid interaktion med AI-modellen:\n\n1. **Promptformatering**: Specialinstruktioner kombineras med produkttexten\n\n2. **AI-begäran**: Prompten skickas till AI-modellen\n\n3. **Återförsökslogik**: Om svaret misslyckas görs automatiska återförsök\n\n4. **Svarshantering**: AI-modellens svar tas emot och förbereds för bearbetning\n\n  \n\n### 8. Svarsbearbetning\n\nNär AI-modellen har svarat:\n\n1. **JSON-extrahering**: Strukturerad data (JSON) extraheras från svaret\n\n2. **Schemavalidering**: Datan kontrolleras mot fördefinierade scheman\n\n3. **Felhantering**: Om något är fel kan en korrigeringsprompt skickas för att fixa det\n\n4. **Sammanfogning**: Om filen var uppdelad sammanfogas svaren från alla delar\n\n  \n\n### 9. Efterbearbetning och lagring\n\nEfter extraktionen:\n\n1. **Kvalitetskontroll**: Den extraherade informationen kontrolleras en sista gång\n\n2. **Kategorisering**: Resultaten kategoriseras baserat på kvalitet och innehåll\n\n3. **Resultatlagring**: Strukturerad data sparas som JSON-filer i rätt mappstruktur\n\n4. **Indexering**: Resultaten indexeras för framtida sökningar\n\n  \n\n### 10. Rapportering och statistik\n\nEfter en batchbearbetning:\n\n1. **Statistikgenerering**: Systemet sammanställer statistik om bearbetningen\n\n2. **Rapportgenerering**: Detaljerade rapporter skapas för användaren\n\n3. **Visualisering**: Resultat kan visualiseras i dashboard eller terminalutskrifter\n\n4. **Loggning**: Detaljerade loggar sparas för eventuell felsökning\n\n  \n\n### 11. Sökindexering (valfritt)\n\nEfter slutförd bearbetning:\n\n1. **Indexbygge**: Ett sökindex skapas för alla extraherade produkter\n\n2. **Relationsuppbyggnad**: Kompatibilitetsrelationer mellan produkter kartläggs\n\n3. **Grafskapande**: En relationsgraf mellan produkter kan genereras\n\n  \n\n### 12. Underhåll och optimering\n\nUnder systemets gång:\n\n1. **Promptoptimering**: Baserat på resultatstatistik förbättras promptmallarna\n\n2. **Cachening**: Tidigare svar sparas för att förbättra prestanda\n\n3. **Tillståndslagring**: Systemets tillstånd sparas regelbundet för att kunna återuppta arbetet\n\n4. **Rensning**: Gamla temporära filer kan rensas automatiskt\n",
+      "type": "text",
+      "width": 1800,
+      "x": 8160,
+      "y": 22560
+    },
+    {
+      "height": 310,
+      "id": "9367383c99192b45",
+      "styleAttributes": {
+      },
+      "text": "\n# Översikt\n\n## Introduktion, Kombination av NLP + Regex\n`Extrahera, integrera och strukturera produktdata från markdown-filer`\n\n\nI stället för att förlita oss på komplexa regex-mönster skapar vi en intelligent extraktor som använder Natural Language Processing (NLP) för att förstå produktdokument på ett mer mänskligt sätt.\n\n\n\n\n\n",
+      "type": "text",
+      "width": 1200,
+      "x": 5525,
+      "y": 6110
+    },
+    {
+      "file": "Pasted image 20250305121229.png",
+      "height": 375,
+      "id": "d43603aeee86a34a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 700,
+      "x": 7765,
+      "y": 6680
+    },
+    {
+      "height": 292,
+      "id": "6b3f17c3e7f26194",
+      "styleAttributes": {
+      },
+      "text": "## Fördelar med den nya lösningen\n\n1. **Smartare extraktion** genom NLP som förstår innehållets kontext och mening\n2. **Konsekvent struktur** för enkel integrering i andra system\n3. **Snabba botsvar** genom färdigpreparerade command-responses templates\n4. **Omfattande rapportering** för att identifiera mönster och optimera datainsamling\n5. **Skalbarhet** genom parallell bearbetning av stora datamängder\n",
+      "type": "text",
+      "width": 725,
+      "x": 5550,
+      "y": 6469
+    },
+    {
+      "height": 1440,
+      "id": "707d2bf9e8f40a9e",
+      "styleAttributes": {
+      },
+      "text": "## Bot-gränssnitt\n\nVi genererar färdiga svar för botkommandon:\n\n### Tekniska specifikationer (`-t`)\n\n```\n# Tekniska specifikationer för Produkt ABC123\n\n**Artikelnummer:** ABC123\n**EAN:** 1234567890123\n\n## Dimensioner\n\n- **Höjd:** 10 cm\n- **Bredd:** 20 cm\n- **Djup:** 15 cm\n```\n\n### Kompatibilitetsinformation (`-c`)\n\n```\n# Kompatibilitetsinformation för Produkt ABC123\n\n**Artikelnummer:** ABC123\n**EAN:** 1234567890123\n\n## Kompatibel med\n\n- Produkt XYZ (Art.nr: XYZ456)\n- Produkt DEF\n```\n\n### Produktsammanfattning (`-s`)\n\n```\n# Produkt ABC123\n\n**Artikelnummer:** ABC123\n**EAN:** 1234567890123\n\nEn högkvalitativ produkt som löser många problem...\n\n## Tekniska specifikationer\n\n- **Höjd:** 10 cm\n- **Material:** Aluminium\n\n## Kompatibilitet\n\n### Kompatibel med\n- Produkt XYZ (Art.nr: XYZ456)\n```\n",
+      "type": "text",
+      "width": 640,
+      "x": 9365,
+      "y": 5900
+    },
+    {
+      "file": "Pasted image 20250306002653.png",
+      "height": 1010,
+      "id": "9e25a48e30a22143",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1627,
+      "x": 17093,
+      "y": 7095
+    },
+    {
+      "height": 740,
+      "id": "89c3025163cb5016",
+      "styleAttributes": {
+      },
+      "text": "## Översikt - Automatiserad Dataextraktion med LLM\n\nDetta ramverk använder LLM-tjänster för att automatisera och  vilket förenklar integrationen och effektiviserar arbetsflödet.\nAutomatiserad lösning för att läsa produktdokument och omvandla på ett konsekvent sätt och strukturera i JSON eller JSONL-utdata,\n\n### Fördelar\n\n- **Effektivitet** – Automatiserad bearbetning\n- **Strukturerad Data** – JSON-format möjliggör enkel integration med ai/bot lösningen\n- **Skalbarhet & Robusthet** – Parallell bearbetning, schemaläggning och robust felhantering säkerställer att allt flyter på och att det faktiskt blir korrekt\n\n### Lösning\n\nDen LLM vi använder extraherar **( kompatibel + teknisk + artikel )** informationen och strukturerar det direkt i en färdig att använda format och sparar den datan, och även lägger till i snygg struktur och viktig info som förbättrar kundsupport.\n\n### Systemkomponenter\n\n- **Konfigurationsmodul** – Laddar och validerar inställningar (t.ex. kataloger, arbetare, LLM-inställningar).\n- **LLM-klient & Prompt-hantering** – Optimerar promptar och tolkar svar från LLM-tjänster.\n- **Produktprocessor** – Bearbetar och strukturerar information från produktdokument.\n- **Arbetsflödeshantering** – Koordinerar jobbköer, parallell bearbetning och schemaläggning.\n- **Visualisering & Rapportering** – Realtidsloggning och rapportgenerering med tydlig färgkodning.",
+      "type": "text",
+      "width": 1260,
+      "x": 1565,
+      "y": 14400
+    },
+    {
+      "height": 60,
+      "id": "7a678960cf1f6d07",
+      "styleAttributes": {
+      },
+      "text": "## Process: Från extrahering till dataintegrering\n",
+      "type": "text",
+      "width": 640,
+      "x": 5640,
+      "y": 7480
+    },
+    {
+      "height": 1360,
+      "id": "0924a09106188dc4",
+      "styleAttributes": {
+      },
+      "text": "\n```mermaid\nflowchart TD\n    A[Hitta alla produktfiler] --> B[Läs och förbehandla innehåll]\n    B --> C1[NLP-extraktion] & C2[Regex-extraktion]\n    C1 --> D[Sammanslagning och deduplicering]\n    C2 --> D\n    D --> E[Strukturera data]\n    E --> F1[Identifierare] & F2[Tekniska Specifikationer] & F3[Kompatibilitetsrelationer]\n    F1 & F2 & F3 --> G[Integrera data]\n    G --> H[Skapa index]\n    G --> I[Generera bot-svar]\n    G --> J[Skapa rapporter]\n    \n    subgraph \"NLP-extraktion\"\n    NLP1[Tokenisering] --> NLP2[Entitetsigenkänning]\n    NLP2 --> NLP3[Mönstermatchning]\n    NLP3 --> NLP4[Relationsanalys]\n    end\n\n    subgraph \"Regex-extraktion\"\n    REGEX1[EAN-mönster] --> REGEX4[Skapa identifierare]\n    REGEX2[Mönster för tekniska data] --> REGEX5[Skapa specifikationer]\n    REGEX3[Kompatibilitetsmönster] --> REGEX6[Skapa relationer]\n    end\n```",
+      "type": "text",
+      "width": 1600,
+      "x": 7525,
+      "y": 7540
+    },
+    {
+      "height": 360,
+      "id": "0715a3818be02fe5",
+      "styleAttributes": {
+      },
+      "text": "## Arkitektur\n\nModulen är uppbyggd i flera logiska lager:\n\n1. **Datastrukturer** - Definierar hur produktinformation representeras\n2. **Extraktionslager** - Använder både NLP och regex för att hitta information\n3. **Integreringslager** - Kombinerar data från alla källor\n4. **Rapporteringslager** - Genererar användbar statistik och rapporter\n5. **Förberedelse - Förbereder datan för Bot-interfacen",
+      "type": "text",
+      "width": 700,
+      "x": 5640,
+      "y": 7640
+    },
+    {
+      "file": "Pasted image 20250305121258.png",
+      "height": 370,
+      "id": "5c56cc696566e68d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 775,
+      "x": 5640,
+      "y": 8040
+    },
+    {
+      "file": "Pasted image 20250305121203.png",
+      "height": 356,
+      "id": "1698f537a47428d1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1176,
+      "x": 5439,
+      "y": 8542
+    },
+    {
+      "file": "Pasted image 20250305132337.png",
+      "height": 914,
+      "id": "e2267fd1e80457b2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1407,
+      "x": 12515,
+      "y": 15480
+    },
+    {
+      "height": 180,
+      "id": "35792c91e7b6c257",
+      "styleAttributes": {
+      },
+      "text": "### Extraktion med LLM-tjänster\n\n- **Ollama:** Lokala modeller som Llama3, Mixtral, Mistral\n\n- **LM Studio:** Eget gränssnitt för lokala modeller\n\n- **Oobabooga / Text Generation WebUI:** För open-source modeller",
+      "type": "text",
+      "width": 660,
+      "x": 7555,
+      "y": 14300
+    },
+    {
+      "height": 80,
+      "id": "91fc9dc716e75129",
+      "styleAttributes": {
+      },
+      "text": "# Prompt-hantering och design",
+      "type": "text",
+      "width": 560,
+      "x": 3965,
+      "y": 14420
+    },
+    {
+      "height": 2790,
+      "id": "ed4d3425af31bec5",
+      "styleAttributes": {
+      },
+      "text": "\n\n```python\n\nclass LLMClient:\n\n    def __init__(self, config):\n\n        self.config = config\n\n        self.provider = config.get('provider', 'ollama')\n\n        self.model = config.get('model', 'llama3')\n\n        self.temperature = config.get('temperature', 0.1)\n\n        self.max_tokens = config.get('max_tokens', 4000)\n\n        self.chunk_manager = ChunkManager(\n\n            max_chunk_size=config.get('max_chunk_size', 8000),\n\n            overlap=config.get('overlap', 500)\n\n        )\n\n        self.prompt_manager = PromptManager()\n\n    async def query(self, prompt, template=None, context=None, **kwargs):\n\n        \"\"\"Skicka en förfrågan till LLM-tjänsten\"\"\"\n\n        # Om mall anges, generera prompt från den\n\n        if template and context:\n\n            prompt = self.prompt_manager.get_prompt(template, context, **kwargs)\n\n        # Konfigurera LLM-parametrar\n\n        params = {\n\n            'model': self.model,\n\n            'prompt': prompt,\n\n            'temperature': self.temperature,\n\n            'max_tokens': self.max_tokens,\n\n            **kwargs\n\n        }\n\n        # Välj rätt LLM-backend\n\n        if self.provider == 'ollama':\n\n            return await self._query_ollama(params)\n\n        elif self.provider == 'lmstudio':\n\n            return await self._query_lmstudio(params)\n\n        elif self.provider == 'oobabooga':\n\n            return await self._query_oobabooga(params)\n\n        else:\n\n            raise ValueError(f\"Unsupported LLM provider: {self.provider}\")\n\n    async def extract_from_document(self, document, extraction_type):\n\n        \"\"\"Extrahera information från ett dokument\"\"\"\n\n        # Dela upp dokumentet i hanterbara bitar\n\n        chunks = self.chunk_manager.chunk_document(document)\n\n        results = []\n\n        for i, chunk in enumerate(chunks):\n\n            # Välj rätt mall baserat på extraktionstyp\n\n            template = f\"{extraction_type}_extraction\"\n\n            # Lägg till metadata om detta är en del av ett längre dokument\n\n            context_info = {\n\n                'is_partial': len(chunks) > 1,\n\n                'chunk_number': i + 1,\n\n                'total_chunks': len(chunks)\n\n            }\n\n            # Extrahera information från denna bit\n\n            result = await self.query(\n\n                template=template,\n\n                context=chunk,\n\n                **context_info\n\n            )\n\n            results.append(result)\n\n        # Kombinera och de-duplicera resultat från alla bitar\n\n        return self._combine_results(results, extraction_type)\n\n```\n\n  ",
+      "type": "text",
+      "width": 960,
+      "x": 8525,
+      "y": 14330
+    },
+    {
+      "height": 1640,
+      "id": "790a3fc65a279515",
+      "styleAttributes": {
+      },
+      "text": "\n\n\n\n\n\n\n\n### Visualiseringar av resultat\n\n  \n\nSystemet genererar också visualiseringar av data för enklare analys:\n\n  \n\n1. **Rapporter och statistik:**\n\n   - Antal bearbetade dokument\n\n   - Framgångsrik extraktionsfrekvens\n\n   - Fördelning av extraktionstyper\n\n   - Tidsåtgång för bearbetning\n\n  \n\n2. **Terminalvisualisering:**\n\n   - Färgkodad realtidsprogressbar\n\n   - Loggning av extraktionshändelser\n\n   - Felrapportering och varningar\n\n   - Sammanfattning av bearbetning\n\n  \n\n3. **Datautforskare:**\n\n   - Trädvy över extraherad information\n\n   - Filtreringsfunktioner\n\n   - Sökfunktionalitet\n\n   - Exportmöjligheter (JSON, CSV)\n\n  \n\n### Demo: Användningssättetet\n\n  \n\nTerminal-kommando för att köra extraktion:\n\n  \n\n```bash\n\npython extract.py --input ./documents/ --output ./extracted_data/ \\\n\n                  --types technical compatibility identifiers \\\n\n                  --model llama3 --workers 4\n\n```\n\n  \n\nOch resultatet visas i realtid i terminalen:\n\n  \n\n```\n\n[■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% Complete\n\n✓ Processed 256 documents in 08:24\n\n✓ Extracted 1,842 technical specifications\n\n✓ Extracted 734 compatibility relations\n\n✓ Extracted 412 product identifiers\n\n✓ Generated report: ./extracted_data/report_20230401_134522.html\n\n```\n\n  \n\n",
+      "type": "text",
+      "width": 1260,
+      "x": 10145,
+      "y": 14280
+    },
+    {
+      "height": 2260,
+      "id": "235d1880e5d40b6f",
+      "styleAttributes": {
+      },
+      "text": "\n\n\n#### Nyckelkomponenter för AI-kommunikation:\n\n  \n1. **Prompt Templates:** Specialdesignade mallar för olika typer av information:\n\n   - Tekniska specifikationer\n\n   - Kompatibilitetsrelationer\n\n   - Produkt-identifierare\n\n   - FAQ-information\n\n  \n\n2. **Context Management:** Strategier för att maximera relevans och precision:\n\n   - Sliding window för långa dokument\n\n   - Relevanta utdrag för kontext\n\n   - Dokument styckning baserat på semantiskt innehåll\n\n  \n\n3. **Format Control:** Tydlig strukturering av önskad output:\n\n   - JSON-formatering direkt i prompten\n\n   - Schemaspecifikationer för validering\n\n   - Exempel på korrekt utdata\n\n  \n\n#### Exempel på en prompt för teknisk extraktion:\n\n  \n\n```\n\nDu är en produktinformationsexpert som hjälper till att extrahera tekniska specifikationer från produktdokument.\n\n  \n\nDOKUMENT:\n\n```\n\n{dokumentinnehåll}\n\n```\n\n  \n\nUPPGIFT:\n\nExtrahera alla tekniska specifikationer från dokumentet enligt följande schema:\n\n  \n\n{\n\n  \"specifications\": [\n\n    {\n\n      \"category\": \"string\", // Kategori: dimensioner, elektriska, mekaniska, etc.\n\n      \"name\": \"string\", // Specifikt namn på specifikationen (t.ex. höjd, vikt)\n\n      \"raw_value\": \"string\", // Det exakta originalvärdet från dokumentet\n\n      \"value\": \"number or null\", // Numeriskt värde om möjligt\n\n      \"unit\": \"string or null\", // Enhet (t.ex. mm, kg, V)\n\n      \"context\": \"string\", // Meningen eller paragrafen där informationen hittades\n\n      \"confidence\": \"number\" // 0-1 där 1 är högsta säkerhet\n\n    }\n\n  ]\n\n}\n\n  \n\nFORMAT:\n\nSvara ENBART med JSON-data enligt schemat ovan. Inkludera ingen annan text eller förklaringar.\n\n```\n\n  ",
+      "type": "text",
+      "width": 1140,
+      "x": 4925,
+      "y": 14280
+    },
+    {
+      "file": "Pasted image 20250305132036.png",
+      "height": 683,
+      "id": "8c7f0c62211b1b1e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1122,
+      "x": 7324,
+      "y": 14560
+    },
+    {
+      "height": 80,
+      "id": "ce611bdd42cae975",
+      "styleAttributes": {
+      },
+      "text": "# LLM-baserad Produktinformationsextraktor",
+      "type": "text",
+      "width": 920,
+      "x": 1735,
+      "y": 14310
+    },
+    {
+      "file": "prompt-management.svg",
+      "height": 700,
+      "id": "7cdcbd3ddb4f75d8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1120,
+      "x": 3765,
+      "y": 14880
+    },
+    {
+      "file": "batch-processing.svg",
+      "height": 790,
+      "id": "c223b1913cfaa5ec",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1264,
+      "x": 6093,
+      "y": 18120
+    },
+    {
+      "height": 720,
+      "id": "8f290ae1894461be",
+      "styleAttributes": {
+      },
+      "text": "\n\n### Extraktionstyper och processer\n\n  \n\nSystemet använder olika strategier för olika typer av information:\n\n  \n\n1. **Tekniska specifikationer:**\n\n   - Identifierar all numerisk information med enheter\n\n   - Kategoriserar specifikationer (dimensioner, elektriska, etc.)\n\n   - Extraherar både värden och kontext\n\n  \n\n2. **Kompatibilitetsrelationer:**\n\n   - Upptäcker produktrelationer (\"passar med\", \"ersätter\", etc.)\n\n   - Identifierar relaterade produktnummer och EAN-koder\n\n   - Extraherar relaterade produktnamn\n\n  \n\n3. **Produkt-identifierare:**\n\n   - Hittar artikelnummer, EAN-koder, serienummer\n\n   - Validerar koder mot checksum-algoritmer\n\n   - Kopplar identifierare till produktnamn",
+      "type": "text",
+      "width": 600,
+      "x": 5382,
+      "y": 18120
+    },
+    {
+      "height": 2160,
+      "id": "a86af4cfafe6b1e8",
+      "styleAttributes": {
+      },
+      "text": "\n\n  \n\n### Parallell bearbetning av dokumentsamlingar\n\n  \n\n```python\n\nclass BatchProcessor:\n\n    def __init__(self, config, max_workers=None):\n\n        self.config = config\n\n        self.max_workers = max_workers or os.cpu_count()\n\n        self.llm_client = LLMClient(config.get('llm', {}))\n\n    async def process_directory(self, directory_path, extraction_types=None):\n\n        \"\"\"Bearbetar alla dokument i en katalog parallellt\"\"\"\n\n        if extraction_types is None:\n\n            extraction_types = ['technical', 'compatibility', 'identifiers']\n\n        # Hitta alla dokument\n\n        documents = []\n\n        for ext in ['.md', '.txt']:\n\n            documents.extend(Path(directory_path).glob(f'**/*{ext}'))\n\n        results = {}\n\n        # Skapa uppgifter för alla dokument\n\n        tasks = []\n\n        for doc_path in documents:\n\n            task = self.process_document(doc_path, extraction_types)\n\n            tasks.append(task)\n\n        # Kör uppgifterna parallellt\n\n        async with asyncio.TaskGroup() as tg:\n\n            for task in tasks:\n\n                tg.create_task(task)\n\n        return results\n\n    async def process_document(self, doc_path, extraction_types):\n\n        \"\"\"Bearbetar ett enskilt dokument för alla extraktionstyper\"\"\"\n\n        try:\n\n            # Läs dokumentet\n\n            with open(doc_path, 'r', encoding='utf-8') as f:\n\n                content = f.read()\n\n            # Bearbeta var typ av extraktion\n\n            results = {}\n\n            for extraction_type in extraction_types:\n\n                result = await self.llm_client.extract_from_document(\n\n                    content, extraction_type\n\n                )\n\n                results[extraction_type] = result\n\n            # Validera och spara resultaten\n\n            # ...\n\n            return results\n\n        except Exception as e:\n\n            logging.error(f\"Error processing {doc_path}: {str(e)}\")\n\n            return None\n\n```",
+      "type": "text",
+      "width": 800,
+      "x": 5582,
+      "y": 18910
+    },
+    {
+      "height": 60,
+      "id": "49539c4abe46745c",
+      "styleAttributes": {
+      },
+      "text": "# dom 12 stegen i extraktionsprocessen från förberedelse till underhåll.",
+      "type": "text",
+      "width": 1200,
+      "x": 12515,
+      "y": 16480
+    },
+    {
+      "file": "Pasted image 20250305131438.png",
+      "height": 608,
+      "id": "f02a1c7ebfb77624",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 980,
+      "x": 12625,
+      "y": 16580
+    },
+    {
+      "height": 1000,
+      "id": "054036dc8ac9e24d",
+      "styleAttributes": {
+      },
+      "text": "\n---\n### Diagram: Översiktlig Arkitektur\n\n  \n\n```mermaid\n\nflowchart TD\n\n    Start([Input Documents]) --> Config[Configuration Manager]\n\n    Config --> WorkflowMgr[Workflow Manager]\n\n    WorkflowMgr --> ProcQueue[Processing Queue]\n\n    WorkflowMgr --> Workers[Worker Threads]\n\n    WorkflowMgr --> BatchProc[Batch Processor]\n\n    ProcQueue <--> Workers\n\n    Workers --> ProductProc[Product Processor]\n\n    ProductProc --> LLMClient[LLM Client]\n\n    ProductProc --> Validation[Validation]\n\n    LLMClient --> PromptMgr[Prompt Manager]\n\n    LLMClient --> ResponseParser[Response Parser]\n\n    LLMClient --> ChunkMgr[Chunk Manager]\n\n    ProductProc --> Results[Structured Results]\n\n    Results --> |Valid| Validated[(Validated Data)]\n\n    Results --> |Invalid| Unvalidated[(Unvalidated Data)]\n\n    Results --> |Structured| Structured[(Structured Data)]\n\n    subgraph \"Visualization & Reporting\"\n\n    Logger[Logger]\n\n    Terminal[Terminal Visualizer]\n\n    Reports[Report Generator]\n\n    end\n\n    WorkflowMgr --> Logger\n\n    WorkflowMgr --> Terminal\n\n    Results --> Reports\n\n```",
+      "type": "text",
+      "width": 1900,
+      "x": 12165,
+      "y": 17240
+    },
+    {
+      "height": 3460,
+      "id": "f4dd6fb8e39f0eda",
+      "styleAttributes": {
+      },
+      "text": "  \n\n## Hur processen fungerar\n\n  \n\n### 1. Förberedelse av config\n\nSystemet startar med att läsa in konfigurationsinställningar som bestämmer:\n\n- Vilken AI-modell som ska användas (t.ex. GPT, Claude eller lokala modeller)\n\n- Var indata och utdata ska sparas\n\n- Hur många parallella bearbetningar som ska köras samtidigt\n\n- m.m..\n\n  \n\n### 2. Inläsning av prompts\n\nSystemet läser in färdiga \"promptmallar\" - dessa är specialskrivna instruktioner som hjälper modellen förstå exakt vad den ska leta efter och hur svaret ska formateras. Det finns olika typer av mallar:\n\n- Extraktionsmallar (för att få ut information)\n\n- Valideringsmallar (för att kontrollera att informationen är korrekt)\n\n- Korrigeringsmallar (för att rätta till fel)\n\n  \n\n### 3. Anslutning\n\nSystemet ansluter till den valda AI-tjänsten via en specialiserad \"klient\":\n\n1. Det verifierar först att anslutningen fungerar\n\n2. Om huvudtjänsten inte svarar, försöker det med en reservtjänst\n\n3. Anslutningen konfigureras för att hantera eventuella avbrott eller fel\n\n  \n\n### 4. Uppstart av bearbetningssystemet\n\nNu startar \"WorkflowManager\" (arbetsflödeshanteraren) som koordinerar hela processen:\n\n1. Den startar flera parallella \"arbetare\" som kan bearbeta filer samtidigt\n\n2. Den startar en schemaläggare som organiserar bearbetningskön\n\n3. Den förbereder kösystemet för att hantera alla filer\n\n  \n\n### 5. Produktbearbetning\n\nNär användaren väljer en katalog med produktdokument sker följande:\n\n1. **Katalogscanning**: Systemet hittar alla relevanta filer enligt angivet mönster\n\n2. **Batchbearbetning**: Filerna delas upp i grupper (batcher) för effektiv hantering\n\n3. **Köplacering**: Varje produkt läggs i en prioriterad kö med ett unikt jobb-ID\n\n4. **Bearbetning**: Arbetarna tar filer från kön och bearbetar dem en i taget\n\n  \n\n### 6. För varje enskild produkt\n\nNär en arbetare bearbetar en produktfil:\n\n1. **Filläsning**: Filen läses in och kontrolleras\n\n2. **Storleksbedömning**: Om filen är för stor delas den upp i mindre bitar\n\n3. **Textpreparering**: Texten förbereds för att skickas till AI-modellen\n\n4. **Promptförberedelse**: Den lämpligaste promptmallen väljs och fylls i med produkttexten\n\n  \n\n### 7. AI-interaktion\n\nVid interaktion med AI-modellen:\n\n1. **Promptformatering**: Specialinstruktioner kombineras med produkttexten\n\n2. **AI-begäran**: Prompten skickas till AI-modellen\n\n3. **Återförsökslogik**: Om svaret misslyckas görs automatiska återförsök\n\n4. **Svarshantering**: AI-modellens svar tas emot och förbereds för bearbetning\n\n  \n\n### 8. Svarsbearbetning\n\nNär AI-modellen har svarat:\n\n1. **JSON-extrahering**: Strukturerad data (JSON) extraheras från svaret\n\n2. **Schemavalidering**: Datan kontrolleras mot fördefinierade scheman\n\n3. **Felhantering**: Om något är fel kan en korrigeringsprompt skickas för att fixa det\n\n4. **Sammanfogning**: Om filen var uppdelad sammanfogas svaren från alla delar\n\n  \n\n### 9. Efterbearbetning och lagring\n\nEfter extraktionen:\n\n1. **Kvalitetskontroll**: Den extraherade informationen kontrolleras en sista gång\n\n2. **Kategorisering**: Resultaten kategoriseras baserat på kvalitet och innehåll\n\n3. **Resultatlagring**: Strukturerad data sparas som JSON-filer i rätt mappstruktur\n\n4. **Indexering**: Resultaten indexeras för framtida sökningar\n\n  \n\n### 10. Rapportering och statistik\n\nEfter en batchbearbetning:\n\n1. **Statistikgenerering**: Systemet sammanställer statistik om bearbetningen\n\n2. **Rapportgenerering**: Detaljerade rapporter skapas för användaren\n\n3. **Visualisering**: Resultat kan visualiseras i dashboard eller terminalutskrifter\n\n4. **Loggning**: Detaljerade loggar sparas för eventuell felsökning\n\n  \n\n### 11. Sökindexering (valfritt)\n\nEfter slutförd bearbetning:\n\n1. **Indexbygge**: Ett sökindex skapas för alla extraherade produkter\n\n2. **Relationsuppbyggnad**: Kompatibilitetsrelationer mellan produkter kartläggs\n\n3. **Grafskapande**: En relationsgraf mellan produkter kan genereras\n\n  \n\n### 12. Underhåll och optimering\n\nUnder systemets gång:\n\n1. **Promptoptimering**: Baserat på resultatstatistik förbättras promptmallarna\n\n2. **Cachening**: Tidigare svar sparas för att förbättra prestanda\n\n3. **Tillståndslagring**: Systemets tillstånd sparas regelbundet för att kunna återuppta arbetet\n\n4. **Rensning**: Gamla temporära filer kan rensas automatiskt\n\n\n## Tekniska komponenter i samspel\n\n  \n\nSystemet består av flera moduler som samarbetar:\n\n  \n\n- **WorkflowManager**: Centralhjärnan som koordinerar hela processen\n\n- **ProductProcessor**: Hanterar bearbetningen av enskilda produkter\n\n- **LLMClient**: Kommunicerar med AI-modeller via olika leverantörer\n\n- **PromptManager**: Hanterar och optimerar promptmallar\n\n- **BatchProcessor**: Organiserar bearbetning av grupper av produkter\n\n- **Worker**: Arbetare som utför själva bearbetningen parallellt\n\n- **ProcessingQueue**: Håller ordning på alla jobb som väntar på bearbetning\n\n- **JobScheduler**: Schemalägger jobb för framtida bearbetning\n\n  \n",
+      "type": "text",
+      "width": 1040,
+      "x": 6804,
+      "y": 10560
+    },
+    {
+      "height": 550,
+      "id": "c37e50afa9cf1fd7",
+      "styleAttributes": {
+      },
+      "text": "# Mitt förslag för Copiax: Hybrid - att mixa (AI / nlp extraction) och (Bot-Chat)\n\nCopiax har en komplex produktstruktur **( 40 000 produkter och 80 000+ dokument )** ställer speciella krav.\nEfter jag testat olika metoder för copiax behov. Är mitt förslag att använda en **hybrid-lösning**: \n- (AI / NLP extraktion för datastruktureringen) \n- (Bot-engine till frontenden) som slutmål för interaktionen. \n\n## Två vägar för dataextraktion till Bot Engine:\n\nFör Copiax med sina 40 000 produkter och 80 000+ dokument finns två huvudsakliga metoder för att extrahera strukturerad data som sedan kan användas i en Bot Engine:\n\n1. **LLM-baserad dataextraktion** (Unified Extractor)\n2. **NLP-baserad dataextraktion** (NLP Bot Engine Extractor)\n\nBåda metoderna leder till samma slutmål - en stabil och pålitlig Bot Engine för kundsupport - men de skiljer sig i hur extraktionen genomförs.\ndom ger både hög kvalitet i slutresultatet men också snabbare time-to-market jämfört med LoRA `ai-baserade slutmåls lösningen`\n",
+      "type": "text",
+      "width": 1420,
+      "x": 17943,
+      "y": 4960
+    },
+    {
+      "file": "Pasted image 20250306005654.png",
+      "height": 995,
+      "id": "c0a1cf16cd36a50c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1600,
+      "x": 18840,
+      "y": 5770
+    },
+    {
+      "height": 965,
+      "id": "88f804b3231eaa64",
+      "styleAttributes": {
+      },
+      "text": "## NLP Bot-Engine: Konversations- och svarssystemet\n\nNär datan väl är extraherad och används av NLP Bot-Engine för att besvara kundförfrågningar.\n\n### Hur NLP Bot-Engine fungerar:\n\n1. **Textprocessor**:\n    \n    - Tar emot och förbehandlar användarfrågor\n    - Normaliserar text och hanterar språkliga variationer\n    - Utför tokenisering och lingvistisk analys\n    - Extraherar nyckeltermer från frågan\n2. **Entitetsextraktor**:\n    \n    - Identifierar produktomtal i frågan\n    - Känner igen produktegenskaper som nämns\n    - Länkar entiteter till kända produkter och artikelnummer\n    - Berikar entiteter med sammanhangsdata\n3. **Kontexthanterare**:\n    \n    - Spårar dialoghistorik för långsiktigt sammanhang\n    - Löser syftningsreferenser (t.ex. \"den\", \"detta handtag\")\n    - Hanterar konversationstillstånd\n    - Bygger upp kontext över flera frågor\n4. **Intentionsanalysator**:\n    \n    - Tolkar vad användaren faktiskt försöker göra\n    - Kombinerar nyckelord, entiteter och semantik\n    - Hanterar osäkerhet när intentionen är otydlig\n    - Anpassar analysen baserat på kontext\n5. **Svarsgenerator**:\n    \n    - Formaterar svar baserat på identifierad intention\n    - Bygger strukturerade och lättlästa svar\n    - Anpassar detaljnivån baserat på användarens expertis\n    - Levererar exakt information utifrån den strukturerade datan",
+      "type": "text",
+      "width": 880,
+      "x": 18760,
+      "y": 7118
+    },
+    {
+      "height": 180,
+      "id": "37b26c2157d5c3b9",
+      "styleAttributes": {
+      },
+      "text": "### NLP-baserad extraktion \n\n- Mycket exakt datastrukturer\n- Lägre datorkrav vid körning\n- Förutsägbara resultat med tydlig logik",
+      "type": "text",
+      "width": 440,
+      "x": 19420,
+      "y": 5560
+    },
+    {
+      "height": 12760,
+      "id": "46f4be305f9a03bb",
+      "styleAttributes": {
+      },
+      "text": "# OpenRouter API Kostnader\n \n ### Observera att:\n\n- **Total kostnad (USD)** räknas som:  \n    400 × [inputpris] + 65 × [outputpris]\n- **Testkostnad (USD)** räknas som:  \n    30 × [inputpris] + 3 × [outputpris]\n- **Totala kostnaden i svenska kronor** för 430M input och 68M output räknas som:  \n    (430 × [inputpris] + 68 × [outputpris]) × (antagen växelkurs 10 SEK per 1 USD)\n\n## Vilken modell ger bäst Output / Motsvarande pris? (Benchmark innan körning) / (Manuel test) ??\n\n\n\n#### OBSAVERA ATT DOM 2 FÖRSTA `pris kollumerna` ÄR DOLLAR OCH DEN SISTA KOLLUMEN ÄR TOTALA UPPSKATTADE I SVENSKA KRONOR\n\n\n| Model Name & ID                                           | Input ($/1M tokens) | Output ($/1M tokens) | Context (tokens) | Total cost (400M in, 65M out) (USD) | Test cost (30M in, 3M out) (USD) | Total cost (430M in, 68M out) (SEK) |\n|-----------------------------------------------------------|---------------------|----------------------|------------------|-------------------------------------|--------------------------------|-----------------------------------|\n| OpenAI: GPT-4.5 (Preview) <br> openai/gpt-4.5-preview       | 75                  | 150                  | 128,000          | 39,750.00                           | 2,700.00                      | 424,500.00                        |\n| Google: Gemini 2.0 Flash Lite <br> google/gemini-2.0-flash-lite-001 | 0.075               | 0.30                 | 1,048,576        | 49.50                               | 3.15                          | 526.50                            |\n| Anthropic: Claude 3.7 Sonnet (self-moderated) <br> anthropic/claude-3.7-sonnet:beta | 3                   | 15                   | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| Anthropic: Claude 3.7 Sonnet <br> anthropic/claude-3.7-sonnet | 3                   | 15                   | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| Anthropic: Claude 3.7 Sonnet (thinking) <br> anthropic/claude-3.7-sonnet:thinking | 3                   | 15                   | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| Perplexity: R1 1776 <br> perplexity/r1-1776                | 2                   | 8                    | 128,000          | 1,320.00                            | 84.00                         | 14,040.00                         |\n| Mistral: Saba <br> mistralai/mistral-saba                   | 0.20                | 0.60                 | 32,000           | 119.00                              | 7.80                          | 1,268.00                          |\n| Llama Guard 3 8B <br> meta-llama/llama-guard-3-8b           | 0.20                | 0.20                 | 8,192            | 93.00                               | 6.60                          | 996.00                            |\n| OpenAI: o3 Mini High <br> openai/o3-mini-high               | 1.10                | 4.40                 | 200,000          | 726.00                              | 46.20                         | 7,722.00                          |\n| Llama 3.1 Tulu 3 405B <br> allenai/llama-3.1-tulu-3-405b     | 5.00                | 10.00                | 16,000           | 2,650.00                            | 180.00                        | 28,300.00                         |\n| DeepSeek: R1 Distill Llama 8B <br> deepseek/deepseek-r1-distill-llama-8b | 0.04                | 0.04                 | 32,000           | 18.60                               | 1.32                          | 199.20                            |\n| Google: Gemini Flash 2.0 <br> google/gemini-2.0-flash-001    | 0.10                | 0.40                 | 1,000,000        | 66.00                               | 4.20                          | 702.00                            |\n| AionLabs: Aion-1.0 <br> aion-labs/aion-1.0                 | 4.00                | 8.00                 | 32,768           | 2,120.00                            | 144.00                        | 22,640.00                         |\n| AionLabs: Aion-1.0-Mini <br> aion-labs/aion-1.0-mini         | 0.70                | 1.40                 | 32,768           | 371.00                              | 25.20                         | 3,962.00                          |\n| AionLabs: Aion-RP 1.0 (8B) <br> aion-labs/aion-rp-llama-3.1-8b | 0.20                | 0.20                 | 32,768           | 93.00                               | 6.60                          | 996.00                            |\n| Qwen: Qwen-Turbo <br> qwen/qwen-turbo                     | 0.05                | 0.20                 | 1,000,000        | 33.00                               | 2.10                          | 351.00                            |\n| Qwen: Qwen2.5 VL 72B Instruct <br> qwen/qwen2.5-vl-72b-instruct | 0.70                | 0.70                 | 32,000           | 325.50                              | 23.10                         | 3,486.00                          |\n| Qwen: Qwen-Plus <br> qwen/qwen-plus                         | 0.40                | 1.20                 | 131,072          | 238.00                              | 15.60                         | 2,536.00                          |\n| Qwen: Qwen-Max <br> qwen/qwen-max                           | 1.60                | 6.40                 | 32,768           | 1,056.00                            | 67.20                         | 11,232.00                         |\n| OpenAI: o3 Mini <br> openai/o3-mini                         | 1.10                | 4.40                 | 200,000          | 726.00                              | 46.20                         | 7,722.00                          |\n| DeepSeek: R1 Distill Qwen 1.5B <br> deepseek/deepseek-r1-distill-qwen-1.5b | 0.18                | 0.18                 | 131,072          | 83.70                               | 5.94                          | 896.40                            |\n| Mistral: Mistral Small 3 <br> mistralai/mistral-small-24b-instruct-2501 | 0.07                | 0.14                 | 32,768           | 37.10                               | 2.52                          | 396.20                            |\n| DeepSeek: R1 Distill Qwen 32B <br> deepseek/deepseek-r1-distill-qwen-32b | 0.12                | 0.18                 | 131,072          | 59.70                               | 4.14                          | 638.40                            |\n| DeepSeek: R1 Distill Qwen 14B <br> deepseek/deepseek-r1-distill-qwen-14b | 1.60                | 1.60                 | 131,072          | 744.00                              | 52.80                         | 7,968.00                          |\n| Perplexity: Sonar Reasoning <br> perplexity/sonar-reasoning   | 1.00                | 5.00                 | 127,000          | 725.00                              | 45.00                         | 7,700.00                          |\n| Perplexity: Sonar <br> perplexity/sonar                     | 1.00                | 1.00                 | 127,072          | 465.00                              | 33.00                         | 4,980.00                          |\n| Liquid: LFM 7B <br> liquid/lfm-7b                           | 0.01                | 0.01                 | 32,768           | 4.65                                | 0.33                          | 49.80                             |\n| Liquid: LFM 3B <br> liquid/lfm-3b                           | 0.02                | 0.02                 | 32,768           | 9.30                                | 0.66                          | 99.60                             |\n| DeepSeek: R1 Distill Llama 70B <br> deepseek/deepseek-r1-distill-llama-70b | 0.23                | 0.69                 | 131,072          | 136.85                              | 8.97                          | 1,458.20                          |\n| DeepSeek: R1 <br> deepseek/deepseek-r1                      | 0.80                | 2.40                 | 128,000          | 476.00                              | 31.20                         | 5,072.00                          |\n| MiniMax: MiniMax-01 <br> minimax/minimax-01                 | 0.20                | 1.10                 | 1,000,192        | 151.50                              | 9.30                          | 1,608.00                          |\n| Mistral: Codestral 2501 <br> mistralai/codestral-2501       | 0.30                | 0.90                 | 256,000          | 178.50                              | 11.70                         | 1,902.00                          |\n| Microsoft: Phi 4 <br> microsoft/phi-4                      | 0.07                | 0.14                 | 16,384           | 37.10                               | 2.52                          | 396.20                            |\n| Sao10K: Llama 3.1 70B Hanami x1 <br> sao10k/l3.1-70b-hanami-x1 | 3.00                | 3.00                 | 16,000           | 1,395.00                            | 99.00                         | 14,940.00                         |\n| DeepSeek: DeepSeek V3 <br> deepseek/deepseek-chat          | 1.25                | 1.25                 | 131,072          | 581.25                              | 41.25                         | 6,225.00                          |\n| Qwen: QvQ 72B Preview <br> qwen/qvq-72b-preview             | 0.25                | 0.50                 | 32,000           | 132.50                              | 9.00                          | 1,415.00                          |\n| Sao10K: Llama 3.3 Euryale 70B <br> sao10k/l3.3-euryale-70b   | 0.70                | 0.80                 | 131,072          | 332.00                              | 23.40                         | 3,554.00                          |\n| OpenAI: o1 <br> openai/o1                                  | 15.00               | 60.00                | 200,000          | 9,900.00                            | 630.00                        | 105,300.00                        |\n| EVA Llama 3.33 70B <br> eva-unit-01/eva-llama-3.33-70b      | 4.00                | 6.00                 | 16,384           | 1,990.00                            | 138.00                        | 21,280.00                         |\n| xAI: Grok 2 Vision 1212 <br> x-ai/grok-2-vision-1212       | 2.00                | 10.00                | 32,768           | 1,450.00                            | 90.00                         | 15,400.00                         |\n| xAI: Grok 2 1212 <br> x-ai/grok-2-1212                     | 2.00                | 10.00                | 131,072          | 1,450.00                            | 90.00                         | 15,400.00                         |\n| Cohere: Command R7B (12-2024) <br> cohere/command-r7b-12-2024 | 0.0375              | 0.15                 | 128,000          | 24.75                               | 1.58                          | 263.25                            |\n| Meta: Llama 3.3 70B Instruct <br> meta-llama/llama-3.3-70b-instruct | 0.12                | 0.30                 | 131,072          | 67.50                               | 4.50                          | 720.00                            |\n| Amazon: Nova Lite 1.0 <br> amazon/nova-lite-v1             | 0.06                | 0.24                 | 300,000          | 39.60                               | 2.52                          | 421.20                            |\n| Amazon: Nova Micro 1.0 <br> amazon/nova-micro-v1           | 0.035               | 0.14                 | 128,000          | 23.10                               | 1.47                          | 245.70                            |\n| Amazon: Nova Pro 1.0 <br> amazon/nova-pro-v1               | 0.80                | 3.20                 | 300,000          | 528.00                              | 33.60                         | 5,616.00                          |\n| Qwen: QwQ 32B Preview <br> qwen/qwq-32b-preview             | 0.12                | 0.18                 | 32,768           | 59.70                               | 4.14                          | 638.40                            |\n| EVA Qwen2.5 72B <br> eva-unit-01/eva-qwen-2.5-72b          | 0.70                | 0.70                 | 32,000           | 325.50                              | 23.10                         | 3,486.00                          |\n| OpenAI: GPT-4o (2024-11-20) <br> openai/gpt-4o-2024-11-20   | 2.50                | 10.00                | 128,000          | 1,650.00                            | 105.00                        | 17,550.00                         |\n| Mistral Large 2411 <br> mistralai/mistral-large-2411       | 2.00                | 6.00                 | 128,000          | 1,190.00                            | 78.00                         | 12,680.00                         |\n| Mistral Large 2407 <br> mistralai/mistral-large-2407       | 2.00                | 6.00                 | 128,000          | 1,190.00                            | 78.00                         | 12,680.00                         |\n| Mistral: Pixtral Large 2411 <br> mistralai/pixtral-large-2411 | 2.00                | 6.00                 | 128,000          | 1,190.00                            | 78.00                         | 12,680.00                         |\n| xAI: Grok Vision Beta <br> x-ai/grok-vision-beta           | 5.00                | 15.00                | 8,192            | 2,975.00                            | 195.00                        | 31,700.00                         |\n| Infermatic: Mistral Nemo Inferor 12B <br> infermatic/mn-inferor-12b | 0.80                | 1.20                 | 16,384           | 398.00                              | 27.60                         | 4,256.00                          |\n| Qwen2.5 Coder 32B Instruct <br> qwen/qwen-2.5-coder-32b-instruct | 0.07                | 0.16                 | 33,000           | 38.40                               | 2.58                          | 409.80                            |\n| SorcererLM 8x22B <br> raifle/sorcererlm-8x22b             | 4.50                | 4.50                 | 16,000           | 2,092.50                            | 148.50                        | 22,410.00                         |\n| EVA Qwen2.5 32B <br> eva-unit-01/eva-qwen-2.5-32b          | 2.60                | 3.40                 | 16,384           | 1,261.00                            | 88.20                         | 13,492.00                         |\n| Unslopnemo 12B <br> thedrummer/unslopnemo-12b             | 0.50                | 0.50                 | 32,000           | 232.50                              | 16.50                         | 2,490.00                          |\n| Anthropic: Claude 3.5 Haiku (2024-10-22) (self-moderated) <br> anthropic/claude-3.5-haiku-20241022:beta | 0.80                | 4.00                 | 200,000          | 580.00                              | 36.00                         | 6,160.00                          |\n| Anthropic: Claude 3.5 Haiku <br> anthropic/claude-3.5-haiku  | 0.80                | 4.00                 | 200,000          | 580.00                              | 36.00                         | 6,160.00                          |\n| Anthropic: Claude 3.5 Haiku (self-moderated) <br> anthropic/claude-3.5-haiku:beta | 0.80                | 4.00                 | 200,000          | 580.00                              | 36.00                         | 6,160.00                          |\n| Anthropic: Claude 3.5 Haiku <br> anthropic/claude-3.5-haiku  | 0.80                | 4.00                 | 200,000          | 580.00                              | 36.00                         | 6,160.00                          |\n| NeverSleep: Lumimaid v0.2 70B <br> neversleep/llama-3.1-lumimaid-70b | 3.38                | 4.50                 | 16,384           | 1,642.50                            | 114.75                        | 17,572.50                         |\n| Magnum v4 72B <br> anthracite-org/magnum-v4-72b             | 1.88                | 2.25                 | 16,384           | 896.25                              | 63.00                         | 9,592.50                          |\n| Anthropic: Claude 3.5 Sonnet (self-moderated) <br> anthropic/claude-3.5-sonnet:beta | 3.00                | 15.00                | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| Anthropic: Claude 3.5 Sonnet <br> anthropic/claude-3.5-sonnet | 3.00                | 15.00                | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| xAI: Grok Beta <br> x-ai/grok-beta                         | 5.00                | 15.00                | 131,072          | 2,975.00                            | 195.00                        | 31,700.00                         |\n| Mistral: Ministral 8B <br> mistralai/ministral-8b           | 0.10                | 0.10                 | 128,000          | 46.50                               | 3.30                          | 498.00                            |\n| Mistral: Ministral 3B <br> mistralai/ministral-3b           | 0.04                | 0.04                 | 128,000          | 18.60                               | 1.32                          | 199.20                            |\n| Qwen2.5 7B Instruct <br> qwen/qwen-2.5-7b-instruct           | 0.03                | 0.05                 | 32,768           | 13.25                               | 0.90                          | 141.50                            |\n| NVIDIA: Llama 3.1 Nemotron 70B Instruct (free) <br> nvidia/llama-3.1-nemotron-70b-instruct:free | –                   | –                    | 131,072          | –                                   | –                             | –                                 |\n| NVIDIA: Llama 3.1 Nemotron 70B Instruct <br> nvidia/llama-3.1-nemotron-70b-instruct | 0.12                | 0.30                 | 131,000          | 67.50                               | 4.50                          | 720.00                            |\n| Inflection: Inflection 3 Pi <br> inflection/inflection-3-pi  | 2.50                | 10.00                | 8,000            | 1,650.00                            | 105.00                        | 17,550.00                         |\n| Inflection: Inflection 3 Productivity <br> inflection/inflection-3-productivity | 2.50                | 10.00                | 8,000            | 1,650.00                            | 105.00                        | 17,550.00                         |\n| Google: Gemini Flash 1.5 8B <br> google/gemini-flash-1.5-8b  | 0.04                | 0.15                 | 1,000,000        | 24.75                               | 1.58                          | 263.25                            |\n| Magnum v2 72B <br> anthracite-org/magnum-v2-72b             | 3.00                | 3.00                 | 32,768           | 1,395.00                            | 99.00                         | 14,940.00                         |\n| Liquid: LFM 40B MoE <br> liquid/lfm-40b                    | 0.15                | 0.15                 | 32,768           | 69.75                               | 4.95                          | 747.00                            |\n| Rocinante 12B <br> thedrummer/rocinante-12b                | 0.25                | 0.50                 | 32,768           | 132.50                              | 9.00                          | 1,415.00                          |\n| Meta: Llama 3.2 3B Instruct <br> meta-llama/llama-3.2-3b-instruct | 0.02 (≈0.015)       | 0.03 (≈0.025)        | 131,000          | 7.63                                | 0.53                          | 81.50                             |\n| Meta: Llama 3.2 1B Instruct <br> meta-llama/llama-3.2-1b-instruct | 0.01                | 0.01                 | 131,072          | 4.65                                | 0.33                          | 49.80                             |\n| Meta: Llama 3.2 90B Vision Instruct <br> meta-llama/llama-3.2-90b-vision-instruct | 0.80                | 1.60                 | 4,096            | 424.00                              | 28.80                         | 4,528.00                          |\n| Meta: Llama 3.2 11B Vision Instruct (free) <br> meta-llama/llama-3.2-11b-vision-instruct:free | –                   | –                    | 131,072          | –                                   | –                             | –                                 |\n| Meta: Llama 3.2 11B Vision Instruct <br> meta-llama/llama-3.2-11b-vision-instruct | 0.055               | 0.055                | 16,384           | 25.58                               | 1.82                          | 273.90                            |\n| Qwen2.5 72B Instruct <br> qwen/qwen-2.5-72b-instruct         | 0.13                | 0.40                 | 128,000          | 78.00                               | 5.10                          | 831.00                            |\n| Qwen2-VL 72B Instruct <br> qwen/qwen-2-vl-72b-instruct         | 0.40                | 0.40                 | 4,096            | 186.00                              | 13.20                         | 1,992.00                          |\n| NeverSleep: Lumimaid v0.2 8B <br> neversleep/llama-3.1-lumimaid-8b | 0.1875              | 1.125                | 32,768           | 148.13                              | 9.00                          | 1,571.25                          |\n| OpenAI: o1-mini (2024-09-12) <br> openai/o1-mini-2024-09-12   | 1.10                | 4.40                 | 128,000          | 726.00                              | 46.20                         | 7,722.00                          |\n| OpenAI: o1-preview <br> openai/o1-preview                   | 15.00               | 60.00                | 128,000          | 9,900.00                            | 630.00                        | 105,300.00                        |\n| OpenAI: o1-preview (2024-09-12) <br> openai/o1-preview-2024-09-12 | 15.00               | 60.00                | 128,000          | 9,900.00                            | 630.00                        | 105,300.00                        |\n| OpenAI: o1-mini <br> openai/o1-mini                         | 1.10                | 4.40                 | 128,000          | 726.00                              | 46.20                         | 7,722.00                          |\n| Mistral: Pixtral 12B <br> mistralai/pixtral-12b             | 0.10                | 0.10                 | 4,096            | 46.50                               | 3.30                          | 498.00                            |\n| Cohere: Command R (08-2024) <br> cohere/command-r-08-2024    | 0.1425              | 0.57                 | 128,000          | 94.05                               | 5.99                          | 1,000.35                          |\n| Cohere: Command R+ (08-2024) <br> cohere/command-r-plus-08-2024 | 2.38                | 9.50                 | 128,000          | 1,567.50                            | 99.75                         | 16,672.50                         |\n| Qwen2-VL 7B Instruct <br> qwen/qwen-2-vl-7b-instruct         | 0.10                | 0.10                 | 4,096            | 46.50                               | 3.30                          | 498.00                            |\n| Sao10K: Llama 3.1 Euryale 70B v2.2 <br> sao10k/l3.1-euryale-70b | 0.70                | 0.80                 | 131,072          | 332.00                              | 23.40                         | 3,554.00                          |\n| AI21: Jamba 1.5 Large <br> ai21/jamba-1-5-large             | 2.00                | 8.00                 | 256,000          | 1,320.00                            | 84.00                         | 14,040.00                         |\n| AI21: Jamba 1.5 Mini <br> ai21/jamba-1-5-mini               | 0.20                | 0.40                 | 256,000          | 106.00                              | 7.20                          | 1,132.00                          |\n| Microsoft: Phi-3.5 Mini 128K Instruct <br> microsoft/phi-3.5-mini-128k-instruct | 0.10                | 0.10                 | 128,000          | 46.50                               | 3.30                          | 498.00                            |\n| Nous: Hermes 3 70B Instruct <br> nousresearch/hermes-3-llama-3.1-70b | 0.12                | 0.30                 | 131,000          | 67.50                               | 4.50                          | 720.00                            |\n| Nous: Hermes 3 405B Instruct <br> nousresearch/hermes-3-llama-3.1-405b | 0.80                | 0.80                 | 131,072          | 372.00                              | 26.40                         | 3,984.00                          |\n| OpenAI: ChatGPT-4o <br> openai/chatgpt-4o-latest            | 5.00                | 15.00                | 128,000          | 2,975.00                            | 195.00                        | 31,700.00                         |\n| Sao10K: Llama 3 8B Lunaris <br> sao10k/l3-lunaris-8b        | 0.03                | 0.06                 | 8,192            | 15.90                               | 1.08                          | 169.80                            |\n| Aetherwiing: Starcannon 12B <br> aetherwiing/mn-starcannon-12b | 0.80                | 1.20                 | 16,384           | 398.00                              | 27.60                         | 4,256.00                          |\n| OpenAI: GPT-4o (2024-08-06) <br> openai/gpt-4o-2024-08-06   | 2.50                | 10.00                | 128,000          | 1,650.00                            | 105.00                        | 17,550.00                         |\n| Meta: Llama 3.1 405B (base) <br> meta-llama/llama-3.1-405b   | 2.00                | 2.00                 | 32,768           | 930.00                              | 66.00                         | 9,960.00                          |\n| Mistral Nemo 12B Celeste <br> nothingiisreal/mn-celeste-12b   | 0.80                | 1.20                 | 16,384           | 398.00                              | 27.60                         | 4,256.00                          |\n| Perplexity: Llama 3.1 Sonar 8B <br> perplexity/llama-3.1-sonar-small-128k-chat | 0.20                | 0.20                 | 131,072          | 93.00                               | 6.60                          | 996.00                            |\n| Perplexity: Llama 3.1 Sonar 70B <br> perplexity/llama-3.1-sonar-large-128k-chat | 1.00                | 1.00                 | 131,072          | 465.00                              | 33.00                         | 4,980.00                          |\n| Perplexity: Llama 3.1 Sonar 70B Online <br> perplexity/llama-3.1-sonar-large-128k-online | 1.00                | 1.00                 | 127,072          | 465.00                              | 33.00                         | 4,980.00                          |\n| Perplexity: Llama 3.1 Sonar 8B Online <br> perplexity/llama-3.1-sonar-small-128k-online | 0.20                | 0.20                 | 127,072          | 93.00                               | 6.60                          | 996.00                            |\n| Meta: Llama 3.1 405B Instruct <br> meta-llama/llama-3.1-405b-instruct | 0.80                | 0.80                 | 32,768           | 372.00                              | 26.40                         | 3,984.00                          |\n| Meta: Llama 3.1 8B Instruct <br> meta-llama/llama-3.1-8b-instruct | 0.02                | 0.05                 | 131,072          | 11.25                               | 0.75                          | 120.00                            |\n| Meta: Llama 3.1 70B Instruct <br> meta-llama/llama-3.1-70b-instruct | 0.12                | 0.30                 | 131,072          | 67.50                               | 4.50                          | 720.00                            |\n| Mistral: Mistral Nemo <br> mistralai/mistral-nemo          | 0.035               | 0.08                 | 131,072          | 19.20                               | 1.29                          | 204.90                            |\n| Mistral: Codestral Mamba <br> mistralai/codestral-mamba      | 0.25                | 0.25                 | 256,000          | 116.25                              | 8.25                          | 1,245.00                          |\n| OpenAI: GPT-4o-mini <br> openai/gpt-4o-mini                 | 0.15                | 0.60                 | 128,000          | 99.00                               | 6.30                          | 1,053.00                          |\n| OpenAI: GPT-4o-mini (2024-07-18) <br> openai/gpt-4o-mini-2024-07-18 | 0.15                | 0.60                 | 128,000          | 99.00                               | 6.30                          | 1,053.00                          |\n| Qwen 2 7B Instruct <br> qwen/qwen-2-7b-instruct             | 0.054               | 0.054                | 32,768           | 25.11                               | 1.78                          | 268.92                            |\n| Google: Gemma 2 27B <br> google/gemma-2-27b-it             | 0.27                | 0.27                 | 8,192            | 125.55                              | 8.91                          | 1,344.60                          |\n| Magnum 72B <br> alpindale/magnum-72b                        | 1.88                | 2.25                 | 16,384           | 896.25                              | 63.00                         | 9,592.50                          |\n| Google: Gemma 2 9B <br> google/gemma-2-9b-it (free)         | –                   | –                    | 8,192            | –                                   | –                             | –                                 |\n| Google: Gemma 2 9B <br> google/gemma-2-9b-it                | 0.03                | 0.06                 | 8,192            | 15.90                               | 1.08                          | 169.80                            |\n| 01.AI: Yi Large <br> 01-ai/yi-large                       | 3.00                | 3.00                 | 32,768           | 1,395.00                            | 99.00                         | 14,940.00                         |\n| AI21: Jamba Instruct <br> ai21/jamba-instruct               | 0.50                | 0.70                 | 256,000          | 245.50                              | 17.10                         | 2,626.00                          |\n| Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated) <br> anthropic/claude-3.5-sonnet-20240620:beta | 3.00                | 15.00                | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| Anthropic: Claude 3.5 Sonnet (2024-06-20) <br> anthropic/claude-3.5-sonnet-20240620 | 3.00                | 15.00                | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| Sao10k: Llama 3 Euryale 70B v2.1 <br> sao10k/l3-euryale-70b  | 0.70                | 0.80                 | 8,192            | 332.00                              | 23.40                         | 3,554.00                          |\n| Dolphin 2.9.2 Mixtral 8x22B 🐬 <br> cognitivecomputations/dolphin-mixtral-8x22b | 0.90                | 0.90                 | 16,000           | 418.50                              | 29.70                         | 4,482.00                          |\n| Qwen 2 72B Instruct <br> qwen/qwen-2-72b-instruct             | 0.90                | 0.90                 | 32,768           | 418.50                              | 29.70                         | 4,482.00                          |\n| Mistral: Mistral 7B Instruct <br> mistralai/mistral-7b-instruct  | 0.03                | 0.055                | 32,768           | 15.58                               | 1.07                          | 166.40                            |\n| Mistral: Mistral 7B Instruct v0.3 <br> mistralai/mistral-7b-instruct-v0.3 | 0.03                | 0.055                | 32,768           | 15.58                               | 1.07                          | 166.40                            |\n| NousResearch: Hermes 2 Pro - Llama-3 8B <br> nousresearch/hermes-2-pro-llama-3-8b | 0.03                | 0.04                 | 131,000          | 12.60                               | 0.87                          | 134.70                            |\n| Microsoft: Phi-3 Mini 128K Instruct <br> microsoft/phi-3-mini-128k-instruct | 0.10                | 0.10                 | 128,000          | 46.50                               | 3.30                          | 498.00                            |\n| Microsoft: Phi-3 Medium 128K Instruct <br> microsoft/phi-3-medium-128k-instruct | 1.00                | 1.00                 | 128,000          | 465.00                              | 33.00                         | 4,980.00                          |\n| NeverSleep: Llama 3 Lumimaid 70B <br> neversleep/llama-3-lumimaid-70b | 3.38                | 4.50                 | 8,192            | 1,642.50                            | 114.75                        | 17,572.50                         |\n| Google: Gemini Flash 1.5 <br> google/gemini-flash-1.5        | 0.075               | 0.30                 | 1,000,000        | 49.50                               | 3.15                          | 526.50                            |\n| DeepSeek V2.5 <br> deepseek/deepseek-chat-v2.5              | 2.00                | 2.00                 | 8,192            | 930.00                              | 66.00                         | 9,960.00                          |\n| OpenAI: GPT-4o (2024-05-13) <br> openai/gpt-4o-2024-05-13   | 5.00                | 15.00                | 128,000          | 2,975.00                            | 195.00                        | 31,700.00                         |\n| Meta: Llama 3 8B (Base) <br> meta-llama/llama-3-8b          | 0.05                | 0.08                 | 8,192            | 25.20                               | 1.74                          | 269.40                            |\n| Meta: Llama 3 70B (Base) <br> meta-llama/llama-3-70b         | 0.59                | 0.79                 | 8,192            | 287.35                              | 20.07                         | 3,074.20                          |\n| Meta: LlamaGuard 2 8B <br> meta-llama/llama-guard-2-8b      | 0.20                | 0.20                 | 8,192            | 93.00                               | 6.60                          | 996.00                            |\n| OpenAI: GPT-4o <br> openai/gpt-4o                          | 2.50                | 10.00                | 128,000          | 1,650.00                            | 105.00                        | 17,550.00                         |\n| OpenAI: GPT-4o (extended) <br> openai/gpt-4o:extended        | 6.00                | 18.00                | 128,000          | 3,570.00                            | 234.00                        | 38,040.00                         |\n| NeverSleep: Llama 3 Lumimaid 8B (extended) <br> neversleep/llama-3-lumimaid-8b:extended | 0.1875              | 1.125                | 24,576           | 148.13                              | 9.00                          | 1,571.25                          |\n| NeverSleep: Llama 3 Lumimaid 8B <br> neversleep/llama-3-lumimaid-8b | 0.1875              | 1.125                | 24,576           | 148.13                              | 9.00                          | 1,571.25                          |\n| Fimbulvetr 11B v2 <br> sao10k/fimbulvetr-11b-v2             | 0.80                | 1.20                 | 4,096            | 398.00                              | 27.60                         | 4,256.00                          |\n| Meta: Llama 3 8B Instruct <br> meta-llama/llama-3-8b-instruct  | 0.03                | 0.06                 | 8,192            | 15.90                               | 1.08                          | 169.80                            |\n| Meta: Llama 3 70B Instruct <br> meta-llama/llama-3-70b-instruct | 0.23                | 0.40                 | 8,192            | 118.00                              | 8.10                          | 1,261.00                          |\n| Mistral: Mixtral 8x22B Instruct <br> mistralai/mixtral-8x22b-instruct | 0.90                | 0.90                 | 65,536           | 418.50                              | 29.70                         | 4,482.00                          |\n| WizardLM-2 8x22B <br> microsoft/wizardlm-2-8x22b           | 0.50                | 0.50                 | 65,536           | 232.50                              | 16.50                         | 2,490.00                          |\n| WizardLM-2 7B <br> microsoft/wizardlm-2-7b                 | 0.07                | 0.07                 | 32,000           | 32.55                               | 2.31                          | 348.60                            |\n| Google: Gemini Pro 1.5 <br> google/gemini-pro-1.5           | 1.25                | 5.00                 | 2,000,000        | 825.00                              | 52.50                         | 8,775.00                          |\n| OpenAI: GPT-4 Turbo <br> openai/gpt-4-turbo                | 10.00               | 30.00                | 128,000          | 5,950.00                            | 390.00                        | 63,400.00                         |\n| Cohere: Command R+ <br> cohere/command-r-plus              | 2.85                | 14.25                | 128,000          | 2,066.25                            | 128.25                        | 21,945.00                         |\n| Cohere: Command R+ (04-2024) <br> cohere/command-r-plus-04-2024 | 2.85                | 14.25                | 128,000          | 2,066.25                            | 128.25                        | 21,945.00                         |\n| Databricks: DBRX 132B Instruct <br> databricks/dbrx-instruct  | 1.20                | 1.20                 | 32,768           | 558.00                              | 39.60                         | 5,976.00                          |\n| Midnight Rose 70B <br> sophosympatheia/midnight-rose-70b    | 0.80                | 0.80                 | 4,096            | 372.00                              | 26.40                         | 3,984.00                          |\n| Cohere: Command <br> cohere/command                        | 0.95                | 1.90                 | 4,096            | 503.50                              | 34.20                         | 5,377.00                          |\n| Cohere: Command R <br> cohere/command-r                    | 0.48                | 1.43                 | 128,000          | 282.63                              | 18.53                         | 3,011.50                          |\n| Anthropic: Claude 3 Haiku (self-moderated) <br> anthropic/claude-3-haiku:beta | 0.25                | 1.25                 | 200,000          | 181.25                              | 11.25                         | 1,925.00                          |\n| Anthropic: Claude 3 Haiku <br> anthropic/claude-3-haiku      | 0.25                | 1.25                 | 200,000          | 181.25                              | 11.25                         | 1,925.00                          |\n| Anthropic: Claude 3 Opus (self-moderated) <br> anthropic/claude-3-opus:beta | 15.00               | 75.00                | 200,000          | 10,875.00                           | 675.00                        | 115,500.00                        |\n| Anthropic: Claude 3 Opus <br> anthropic/claude-3-opus      | 15.00               | 75.00                | 200,000          | 10,875.00                           | 675.00                        | 115,500.00                        |\n| Anthropic: Claude 3 Sonnet (self-moderated) <br> anthropic/claude-3-sonnet:beta | 3.00                | 15.00                | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| Anthropic: Claude 3 Sonnet <br> anthropic/claude-3-sonnet   | 3.00                | 15.00                | 200,000          | 2,175.00                            | 135.00                        | 23,100.00                         |\n| Cohere: Command R (03-2024) <br> cohere/command-r-03-2024    | 0.48                | 1.43                 | 128,000          | 282.63                              | 18.53                         | 3,011.50                          |\n| Mistral Large <br> mistralai/mistral-large                 | 2.00                | 6.00                 | 128,000          | 1,190.00                            | 78.00                         | 12,680.00                         |\n| Google: Gemma 7B <br> google/gemma-7b-it                   | 0.15                | 0.15                 | 8,192            | 69.75                               | 4.95                          | 747.00                            |\n| OpenAI: GPT-3.5 Turbo (older v0613) <br> openai/gpt-3.5-turbo-0613 | 1.00                | 2.00                 | 4,095            | 530.00                              | 36.00                         | 5,660.00                          |\n| OpenAI: GPT-4 Turbo Preview <br> openai/gpt-4-turbo-preview   | 10.00               | 30.00                | 128,000          | 5,950.00                            | 390.00                        | 63,400.00                         |\n| Nous: Hermes 2 Mixtral 8x7B DPO <br> nousresearch/nous-hermes-2-mixtral-8x7b-dpo | 0.60                | 0.60                 | 32,768           | 279.00                              | 19.80                         | 2,988.00                          |\n| Mistral Small <br> mistralai/mistral-small                 | 0.20                | 0.60                 | 32,000           | 119.00                              | 7.80                          | 1,268.00                          |\n| Mistral Tiny <br> mistralai/mistral-tiny                   | 0.25                | 0.25                 | 32,000           | 116.25                              | 8.25                          | 1,245.00                          |\n| Mistral Medium <br> mistralai/mistral-medium               | 2.75                | 8.10                 | 32,000           | 1,626.50                            | 106.80                        | 17,333.00                         |\n| Dolphin 2.6 Mixtral 8x7B 🐬 <br> cognitivecomputations/dolphin-mixtral-8x7b | 0.50                | 0.50                 | 32,768           | 232.50                              | 16.50                         | 2,490.00                          |\n| Google: Gemini Pro Vision 1.0 <br> google/gemini-pro-vision  | 0.50                | 1.50                 | 16,384           | 297.50                              | 19.50                         | 3,170.00                          |\n| Google: Gemini Pro 1.0 <br> google/gemini-pro              | 0.50                | 1.50                 | 32,760           | 297.50                              | 19.50                         | 3,170.00                          |\n| Mistral: Mixtral 8x7B (base) <br> mistralai/mixtral-8x7b      | 0.60                | 0.60                 | 32,768           | 279.00                              | 19.80                         | 2,988.00                          |\n| Mistral: Mixtral 8x7B Instruct <br> mistralai/mixtral-8x7b-instruct | 0.24                | 0.24                 | 32,768           | 111.60                              | 7.92                          | 1,195.20                          |\n| OpenChat 3.5 7B <br> openchat/openchat-7b                  | 0.055               | 0.055                | 8,192            | 25.58                               | 1.82                          | 273.90                            |\n| Noromaid 20B <br> neversleep/noromaid-20b                  | 1.50                | 2.25                 | 8,192            | 746.25                              | 51.75                         | 7,980.00                          |\n| Anthropic: Claude v2 (self-moderated) <br> anthropic/claude-2:beta | 8.00                | 24.00                | 200,000          | 4,760.00                            | 312.00                        | 50,720.00                         |\n| Anthropic: Claude v2 <br> anthropic/claude-2              | 8.00                | 24.00                | 200,000          | 4,760.00                            | 312.00                        | 50,720.00                         |\n| Anthropic: Claude v2.1 (self-moderated) <br> anthropic/claude-2.1:beta | 8.00                | 24.00                | 200,000          | 4,760.00                            | 312.00                        | 50,720.00                         |\n| Anthropic: Claude v2.1 <br> anthropic/claude-2.1          | 8.00                | 24.00                | 200,000          | 4,760.00                            | 312.00                        | 50,720.00                         |\n| OpenHermes 2.5 Mistral 7B <br> teknium/openhermes-2.5-mistral-7b | 0.17                | 0.17                 | 4,096            | 79.05                               | 5.61                          | 846.60                            |\n| Toppy M 7B <br> undi95/toppy-m-7b                         | 0.07                | 0.07                 | 4,096            | 32.55                               | 2.31                          | 348.60                            |\n| Goliath 120B <br> alpindale/goliath-120b                  | 9.38                | 9.38                 | 6,144            | 4,359.38                            | 309.38                        | 46,656.25                         |\n| OpenAI: GPT-3.5 Turbo 16k (older v1106) <br> openai/gpt-3.5-turbo-1106 | 1.00                | 2.00                 | 16,385           | 530.00                              | 36.00                         | 5,660.00                          |\n| OpenAI: GPT-4 Turbo (older v1106) <br> openai/gpt-4-1106-preview | 10.00               | 30.00                | 128,000          | 5,950.00                            | 390.00                        | 63,400.00                         |\n| Google: PaLM 2 Chat 32k <br> google/palm-2-chat-bison-32k   | 1.00                | 2.00                 | 32,768           | 530.00                              | 36.00                         | 5,660.00                          |\n| Google: PaLM 2 Code Chat 32k <br> google/palm-2-codechat-bison-32k | 1.00                | 2.00                 | 32,768           | 530.00                              | 36.00                         | 5,660.00                          |\n| Airoboros 70B <br> jondurbin/airoboros-l2-70b             | 0.50                | 0.50                 | 4,000            | 232.50                              | 16.50                         | 2,490.00                          |\n| Xwin 70B <br> xwin-lm/xwin-lm-70b                         | 3.75                | 3.75                 | 8,192            | 1,743.75                            | 123.75                        | 18,675.00                         |\n| OpenAI: GPT-3.5 Turbo Instruct <br> openai/gpt-3.5-turbo-instruct | 1.50                | 2.00                 | 4,095            | 297.50                              | 19.50                         | 3,170.00                          |\n| Mistral: Mistral 7B Instruct v0.1 <br> mistralai/mistral-7b-instruct-v0.1 | 0.20                | 0.20                 | 32,768           | 93.00                               | 6.60                          | 996.00                            |\n| Pygmalion: Mythalion 13B <br> pygmalionai/mythalion-13b    | 0.80                | 1.20                 | 4,096            | 398.00                              | 27.60                         | 4,256.00                          |\n| OpenAI: GPT-3.5 Turbo 16k <br> openai/gpt-3.5-turbo-16k     | 3.00                | 4.00                 | 16,385           | 1,460.00                            | 102.00                        | 15,620.00                         |\n| OpenAI: GPT-4 32k <br> openai/gpt-4-32k                   | 60.00               | 120.00               | 32,767           | 31,800.00                           | 2,160.00                      | 339,600.00                        |\n| OpenAI: GPT-4 32k (older v0314) <br> openai/gpt-4-32k-0314   | 60.00               | 120.00               | 32,767           | 31,800.00                           | 2,160.00                      | 339,600.00                        |\n| Nous: Hermes 13B <br> nousresearch/nous-hermes-llama2-13b   | 0.18                | 0.18                 | 4,096            | 83.70                               | 5.94                          | 896.40                            |\n| Mancer: Weaver (alpha) <br> mancer/weaver                  | 1.50                | 2.25                 | 8,000            | 746.25                              | 51.75                         | 7,980.00                          |\n| Hugging Face: Zephyr 7B (free) <br> huggingfaceh4/zephyr-7b-beta:free | –                   | –                    | 4,096            | –                                   | –                             | –                                 |\n| Anthropic: Claude v2.0 (self-moderated) <br> anthropic/claude-2.0:beta | 8.00                | 24.00                | 100,000          | 4,760.00                            | 312.00                        | 50,720.00                         |\n| Anthropic: Claude v2.0 <br> anthropic/claude-2.0           | 8.00                | 24.00                | 100,000          | 4,760.00                            | 312.00                        | 50,720.00                         |\n| ReMM SLERP 13B <br> undi95/remm-slerp-l2-13b               | 0.80                | 1.20                 | 4,096            | 398.00                              | 27.60                         | 4,256.00                          |\n| Google: PaLM 2 Chat <br> google/palm-2-chat-bison          | 1.00                | 2.00                 | 9,216            | 530.00                              | 36.00                         | 5,660.00                          |\n| Google: PaLM 2 Code Chat <br> google/palm-2-codechat-bison   | 1.00                | 2.00                 | 7,168            | 530.00                              | 36.00                         | 5,660.00                          |\n| MythoMax 13B (free) <br> gryphe/mythomax-l2-13b:free         | –                   | –                    | 4,096            | –                                   | –                             | –                                 |\n| MythoMax 13B <br> gryphe/mythomax-l2-13b                   | 0.07                | 0.07                 | 4,096            | 30.23                               | 2.15                          | 323.70                            |\n| Meta: Llama 2 13B Chat <br> meta-llama/llama-2-13b-chat      | 0.22                | 0.22                 | 4,096            | 102.30                              | 7.26                          | 1,095.60                          |\n| Meta: Llama 2 70B Chat <br> meta-llama/llama-2-70b-chat      | 0.90                | 0.90                 | 4,096            | 418.50                              | 29.70                         | 4,482.00                          |\n| OpenAI: GPT-3.5 Turbo <br> openai/gpt-3.5-turbo             | 0.50                | 1.50                 | 16,385           | 297.50                              | 19.50                         | 3,170.00                          |\n| OpenAI: GPT-3.5 Turbo 16k <br> openai/gpt-3.5-turbo-0125     | 0.50                | 1.50                 | 16,385           | 297.50                              | 19.50                         | 3,170.00                          |\n| OpenAI: GPT-4 <br> openai/gpt-4                             | 30.00               | 60.00                | 8,191            | 15,900.00                           | 1,080.00                      | 169,800.00                        |\n| OpenAI: GPT-4 (older v0314) <br> openai/gpt-4-0314           | 30.00               | 60.00                | 8,191            | 15,900.00                           | 1,080.00                      | 169,800.00                        |\n\n\n> **Notering:**\n> - I vissa rader har några mindre skillnader (t.ex. 0.015 vs 0.02) använts utifrån angivna värden.\n> - Växelkursen antas vara 10 SEK per 1 USD, vilket kan justeras vid behov.\n",
+      "type": "text",
+      "width": 1780,
+      "x": 24200,
+      "y": 640
+    },
+    {
+      "height": 78,
+      "id": "c7d875b6b8ca72a5",
+      "styleAttributes": {
+      },
+      "text": "**Löste converteringen perfekt**",
+      "type": "text",
+      "width": 290,
+      "x": -2435,
+      "y": 1730
+    },
+    {
+      "height": 50,
+      "id": "c65031850a59aa28",
+      "styleAttributes": {
+      },
+      "text": "Nu när vi har markdown, vilka filer har vi att hantera?",
+      "type": "text",
+      "width": 475,
+      "x": -2045,
+      "y": 1738
+    },
+    {
+      "height": 573,
+      "id": "f53b0b7b8cede67a",
+      "styleAttributes": {
+      },
+      "text": "Alla filer sorteras följande =\n\n\"artikelnummer_x.md\" där x är 1 av följande =\n\t1. **_pro**\n\t2. **_produktblad**\n\t3. **_TEK**\n\t4. **_sak**\n\t5. **_man**\n\t6. **_ins**\n\t7. **_CERT**\n\t8. **_BRO**\n\t9. **_INs**\n\t10. **_cert**\n\t11. **_prodblad**\n\t12. **_PRE**\n\t13. **_bro**\n\t14. **_mdek**\n\t15. **_tek**\n\t16. **_MAN**\n\t17. **_PRO**\n\n\n\n",
+      "type": "text",
+      "width": 440,
+      "x": -2027,
+      "y": 1860
+    },
+    {
+      "height": 96,
+      "id": "fa769ae1c8ed7025",
+      "styleAttributes": {
+      },
+      "text": "Repo (marker) för convertera till markdown",
+      "type": "text",
+      "width": 266,
+      "x": -2775,
+      "y": 1692
+    },
+    {
+      "height": 60,
+      "id": "955c00e509c320e2",
+      "styleAttributes": {
+      },
+      "text": "Hittade färdigt Repo på Github",
+      "type": "text",
+      "width": 300,
+      "x": -3220,
+      "y": 1779
+    },
+    {
+      "height": 131,
+      "id": "9c51f02ebf869852",
+      "styleAttributes": {
+      },
+      "text": "\nTestade göra ett .py script för convertera PDF -> markdown\nefter litet tag tänkte jag att denna process var kanske lite onödig att bygga själv?",
+      "type": "text",
+      "width": 540,
+      "x": -3840,
+      "y": 1714
+    },
+    {
+      "height": 83,
+      "id": "d1d44572d62cd19a",
+      "styleAttributes": {
+      },
+      "text": "(PDF) - Fel format för arbete",
+      "type": "text",
+      "width": 325,
+      "x": -4240,
+      "y": 1697
+    },
+    {
+      "height": 60,
+      "id": "b1d58378db0b9314",
+      "styleAttributes": {
+      },
+      "text": "(Scripts)?",
+      "type": "text",
+      "width": 214,
+      "x": 26,
+      "y": 1534
+    },
+    {
+      "height": 60,
+      "id": "214f12f267deeaac",
+      "styleAttributes": {
+      },
+      "text": "(BOT -Lösning)?",
+      "type": "text",
+      "width": 214,
+      "x": -514,
+      "y": 1534
+    },
+    {
+      "height": 177,
+      "id": "adaa5fc2262562a8",
+      "styleAttributes": {
+      },
+      "text": "Nackdelar:\n- Risk för bias / felaktiga tolkningar om det är för liten modell\n- Svårare att förutsäga exakt resultat — mindre transparent än regelbaserade metoder",
+      "type": "text",
+      "width": 794,
+      "x": 1747,
+      "y": 1437
+    },
+    {
+      "height": 600,
+      "id": "913440f133578d5d",
+      "styleAttributes": {
+      },
+      "text": "#### Identifierare (EAN/Produktnummer)\n\n```json\n{\n  \"product_id\": \"EX1234\",\n  \"identifiers\": [\n    {\n      \"identifier\": \"1234567890123\",\n      \"type\": \"EAN-13\",\n      \"is_valid\": true,\n      \"validation_message\": \"Giltig EAN-13\",\n      \"context\": \"... extraherad från dokumentet ...\"\n    },\n    {\n      \"identifier\": \"50XXXXXX\",\n      \"type\": \"Copiax-artikel\",\n      \"is_valid\": true,\n      \"validation_message\": \"Giltigt artikelnummerformat\",\n      \"context\": \"... extraherad från rubriken ...\"\n    }\n  ]\n}\n```\n\n",
+      "type": "text",
+      "width": 820,
+      "x": 8171,
+      "y": 864
+    },
+    {
+      "file": "demo-summary.svg",
+      "height": 580,
+      "id": "89e708d010e2e225",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 928,
+      "x": 10980,
+      "y": 960
+    },
+    {
+      "file": "markdown-formatting.svg",
+      "height": 601,
+      "id": "15db801cb9d966e3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 962,
+      "x": 5478,
+      "y": 869
+    },
+    {
+      "height": 60,
+      "id": "7398633ad14ead48",
+      "styleAttributes": {
+      },
+      "text": "(Betal / API )?",
+      "type": "text",
+      "width": 234,
+      "x": 6,
+      "y": 1407
+    },
+    {
+      "height": 60,
+      "id": "986a68cd91e76c9c",
+      "styleAttributes": {
+      },
+      "text": "(AI - Lösning)?",
+      "type": "text",
+      "width": 214,
+      "x": -514,
+      "y": 1394
+    },
+    {
+      "height": 80,
+      "id": "43981c0364fa4a75",
+      "styleAttributes": {
+      },
+      "text": "\n> För att skapa en effektiv lösning behövde jag först förstå Copiax  dokumentstruktur.\n",
+      "type": "text",
+      "width": 760,
+      "x": -3269,
+      "y": 1280
+    },
+    {
+      "height": 83,
+      "id": "85a59c9354d80c99",
+      "styleAttributes": {
+      },
+      "text": "Det finns ingen `Produktlänk` \ninformation inuti dokumenten.",
+      "type": "text",
+      "width": 300,
+      "x": -664,
+      "y": 1153
+    },
+    {
+      "height": 311,
+      "id": "e9cf9e51d64f6a79",
+      "styleAttributes": {
+      },
+      "text": "Nackdelar:\n- Kräver omfattande mönsterbibliotek - uppskattas ca ~ 250+ regexmönster mot alla 40000 produkter.\n- Mindre flexibel för oväntade dokumentstrukturer — nya dokumenttyper kräver nya mönster\n- Komplex underhållskedja — behöver uppdateras när dokumentstruktur förändras\n- Svårare att generalisera till nya produkttyper — kräver regelbunden mönsteranalys\n- Har inte naturlig språkförståelse — missar sammanhang utan specifika mönster",
+      "type": "text",
+      "width": 794,
+      "x": 1760,
+      "y": 777
+    },
+    {
+      "height": 339,
+      "id": "510d3dedacae76a7",
+      "styleAttributes": {
+      },
+      "text": "Fördelar:\n- **Exakt** precision av data som fångas med regex-mönster,\n  `altså du måste vara väldigt specifik`\n- Total kontroll över extraktionsprocessen.\n- Skapande av validerade och standardiserade datastrukturer.\n- Hög skalbarhet för katalogstrukturer, multi-parallell bearbetning.\n- Detaljerade rapporter och analys om varje steg — ger insyn i datakvaliteten\n- Ingen risk för hallucinationer — endast de mönster som finns extraheras",
+      "type": "text",
+      "width": 780,
+      "x": 890,
+      "y": 749
+    },
+    {
+      "height": 579,
+      "id": "9bcc15867281568d",
+      "styleAttributes": {
+      },
+      "text": "separerar alternativen i olika kategorier:\n- (AI)\n- (Bot)\n- (betalning)\n- (scripts)\nför sen välja någon av dessa 4 till **(varsin av följande alternativ för sig)**:\n\n> 1. Extration och strukturering av data\n> 2. Hantering\n> 3. **Slut lösningen** / **slut produkten** som ska används av (Copiax - Kundtjänst / Kunder)\n\n- Samt dom vill helst ha en `Produktlänk` per artikel när exempelvis den hänvisar till en `kompatibel produkt` hur ska vi få fram detta eller hitta en lösning?",
+      "type": "text",
+      "width": 800,
+      "x": -560,
+      "y": 500
+    },
+    {
+      "file": "bot-engine-flow.svg",
+      "height": 580,
+      "id": "1d6cb663786b0039",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 928,
+      "x": 9896,
+      "y": 440
+    },
+    {
+      "height": 260,
+      "id": "d1cb07b8db219cf0",
+      "styleAttributes": {
+      },
+      "text": "**Nackdelar:**\n\n- Risk för hallucination och felaktiga svar **( OM man använder för liten  llm-modell )**\n- Kvalitetsskillnader mellan olika prisklasser av modeller kräver utvärdering.\n  Bästa alternativet skulle vara att skapa en benchmark för testa vilken modell är bäst i test för prisklass för kvalité sen manuellt gå igenom dom. för säkerhetsställa.\n- API-begränsningar kan förlänga processtiden. Vissa har en begränsning hur mycket man får anropa per timme & dag",
+      "type": "text",
+      "width": 813,
+      "x": 1758,
+      "y": 260
+    },
+    {
+      "height": 300,
+      "id": "ecdb116a03507b7c",
+      "styleAttributes": {
+      },
+      "text": "**Fördelar:**\n\n- Skalbar lösning som hanterar stora datamängder effektivt, om vi använder en llm via API tjänst så kan vi bearbeta filer parallellt.\n- Kan automatisera processen för alla 80 000+ dokument utan manuell hantering med färdig output \"färdig att användas\" för \"båda / antingen\" (AI-Lösningen) \n  eller (Bot-Lösningen) för **Slut lösningen**\n- Förmåga att förstå naturligt språk och kontext i kundfrågor. Detta innebär att vi kan lägga till specifika \"OM viss information kommer upp går det att lägga till extra information som copiax vill ha med när sånt inträffar\".\n",
+      "type": "text",
+      "width": 780,
+      "x": 866,
+      "y": 240
+    },
+    {
+      "height": 74,
+      "id": "a1dc6e35c5d4d38e",
+      "styleAttributes": {
+      },
+      "text": "Vilka alternativ har jag?",
+      "type": "text",
+      "width": 280,
+      "x": -740,
+      "y": 380
+    },
+    {
+      "height": 108,
+      "id": "f7f7d3c9a8f500c0",
+      "styleAttributes": {
+      },
+      "text": "kundtjänstarbetare som sitter och svarar på frågor om produkterna genom att söka i dokument och databaser.",
+      "type": "text",
+      "width": 395,
+      "x": -2607,
+      "y": 258
+    },
+    {
+      "height": 960,
+      "id": "6bb779815dbfe94a",
+      "styleAttributes": {
+      },
+      "text": "### Arbetsflöde\n```mermaid\nflowchart TD\n    Start([Start]) --> Discover[Upptäck Markdown-dokument]\n    Discover --> Load[Förbehandla och ladda in dokument]\n    Load --> Process1[Extrahera EAN & Identifierare]\n    Load --> Process2[Extrahera Kompatibilitet]\n    Load --> Process3[Extrahera Tekniska Specifikationer]\n    Process1 & Process2 & Process3 --> Integrate[Integrera och konsolidera data]\n    Integrate --> Index[Generera index & rapporter]\n    Index --> Store[Spara strukturerade JSONL-filer]\n    Store --> End([Slut])\n```\n",
+      "type": "text",
+      "width": 900,
+      "x": 10740,
+      "y": -780
+    },
+    {
+      "height": 60,
+      "id": "ebe415d5f94ad738",
+      "styleAttributes": {
+      },
+      "text": "De säljer över 40 000 produkter",
+      "type": "text",
+      "width": 320,
+      "x": -2730,
+      "y": 118
+    },
+    {
+      "file": "Pasted image 20250305123400.png",
+      "height": 601,
+      "id": "5a26821faff4343b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 928,
+      "x": 7200,
+      "y": -570
+    },
+    {
+      "file": "Pasted image 20250305123447.png",
+      "height": 631,
+      "id": "264074908889ce67",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 919,
+      "x": 5461,
+      "y": -570
+    },
+    {
+      "height": 100,
+      "id": "a7a81c1a170af490",
+      "styleAttributes": {
+      },
+      "text": "Tar lång tid 'ineffektiv'",
+      "type": "text",
+      "width": 160,
+      "x": -2170,
+      "y": -22
+    },
+    {
+      "height": 1144,
+      "id": "a76c5753d83fdcf9",
+      "styleAttributes": {
+      },
+      "text": "\n# exempel:\n### Kod-exempel: Regex-mönster för EAN-Extraktor\n\n```python\n# EAN-13 och GTIN-13\nEAN13_PATTERNS = [\n    r'(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)',\n    r'(?i)GTIN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)',\n    r'(?i)(?:Global Trade Item Number|EAN-kod)[:.\\-]?\\s*(\\d{13})(?!\\d)',\n    r'(?i)streckkod[:.\\-]?\\s*(\\d{13})(?!\\d)',\n    r'(?i)bar ?code[:.\\-]?\\s*(\\d{13})(?!\\d)',\n    r'(?<!\\d)(\\d{13})(?!\\d)',  # Ensam 13-siffrig kod\n]\n```\n\n### Kod-exempel: Kompatibilitetsextraktor\n\n```python\n# Grundläggande kompatibilitetsmönster\nBASIC_COMPATIBILITY_PATTERNS = [\n    r'(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)',\n    r'(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)',\n    r'(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)',\n    r'(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)',\n    r'(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)',\n]\n```\n\n### Kategorier för Tekniska Specifikationer\n\n- **DIMENSIONS:** Dimensioner, storlek, mått\n- **ELECTRICAL:** Elektriska egenskaper\n- **WEIGHT:** Vikt och massa\n- **TEMPERATURE:** Temperatur och värme\n- **PRESSURE:** Tryck\n- **FLOW:** Flöde\n- **MECHANICAL:** Mekaniska egenskaper\n- **PERFORMANCE:** Prestanda\n- **CAPACITY:** Kapacitet\n- **MATERIAL:** Material\n- **COLOR:** Färg\n- **NETWORK:** Nätverksrelaterade egenskaper\n- **CONNECTION:** Anslutningar\n",
+      "type": "text",
+      "width": 760,
+      "x": 8200,
+      "y": -1210
+    },
+    {
+      "height": 601,
+      "id": "0a5a3994ad606362",
+      "styleAttributes": {
+      },
+      "text": "### Katalogstruktur\n\n```\n/integrated_data\n    /indices                 # Indexfiler för snabb sökning\n        article_numbers.json\n        ean_numbers.json\n        compatibility_map.json\n        technical_specs_index.json\n        text_search_index.json\n    \n    /products                # En katalog per produkt\n        /product_id_1\n            article_info.jsonl\n            technical_specs.jsonl\n            compatibility.jsonl\n            summary.jsonl\n            full_info.md\n            /command_responses    # Bot-formaterade svar\n        /product_id_2\n            ...\n```\n",
+      "type": "text",
+      "width": 680,
+      "x": 9680,
+      "y": -1060
+    },
+    {
+      "height": 561,
+      "id": "9cbcefb6479e3429",
+      "styleAttributes": {
+      },
+      "text": "# Steg_6.0: Översikt DocuMentor-Suite\n\n\n## Vad är DocuMentor-Suite?\n\nDocuMentor-Suite är ett ramverk som bearbetar dokument med hjälp av regex-mönster för att skapa strukturerade JSON- och JSONL-filer. Systemet är uppdelat i två huvudsakliga delar som samarbetar sömlöst:\n\n- **Del 1: Data Processering & index **\n\n\n\n- **Del 2: Bot Engine, JSONL-editor och Frontend**\n- `bot_engine.py`: Hjärnan i chattsystemet\n### Systemets Kärnfunktioner:\n\n- **Automatiserad datakonvertering:** Omvandlar ostrukturerade markdown-dokument till strukturerad JsonL\n- **Multimodulär arkitektur:** Specialiserade extraktorer ger hög precision och flexibilitet\n- **Robust datavalidering och indexering:** Möjliggör snabba sökningar och effektiv integration\n- **Interaktiv bot-motor:** För sökningar och kommandon mot produktdata\n- **Visuella rapporter:** Genererade rapporter och visualiseringar för analys och kvalitetskontroll\n",
+      "type": "text",
+      "width": 980,
+      "x": 5431,
+      "y": -1170
+    },
+    {
+      "height": 580,
+      "id": "12262622e05e5b8d",
+      "styleAttributes": {
+      },
+      "text": "## Steg_6.1: Extraktions - modulerna\n\n\n**Artikel-Extraktor:**\n\n- Använder regex-mönster för att identifiera produktkoder\n- Validerar extraherade koder (EAN-13, artikelnummer, etc.)\n- Grupperar och kategoriserar identifierare med kontext\n\n**Kompatibilitetsextraktor:**\n\n- Identifierar produktrelationer (\"Passar till\", \"Ersätter\", etc.)\n- Extraherar relaterade produktnummer och sammanhang\n- Skapar strukturerad data om produktkompatibilitet\n\n**Teknisk Specifikationsextraktor:**\n\n- Extraherar specifikationer med mått, enheter och värden\n- Kategoriserar i grupper (dimensioner, elektriska parametrar, etc.)\n- Bedömer viktighetsgrad för specifikationerna\n- Validerar värden mot förväntade intervall\n",
+      "type": "text",
+      "width": 600,
+      "x": 7200,
+      "y": -1210
+    },
+    {
+      "file": "data-integration-flow.svg",
+      "height": 605,
+      "id": "1877902bb1e0d220",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 968,
+      "x": 10640,
+      "y": -1402
+    },
+    {
+      "height": 320,
+      "id": "becb35037f6b8a0f",
+      "styleAttributes": {
+      },
+      "text": "## Steg_6.2: Data - integrationen\n\n#### Produkt Data Integrationsmodul\nDenna modul integrerar data från dom 3 olika extraktorerna \n\n>( teknisk + kompatibel + artikel ) - informationen \n\noch skapar en enhetlig datastruktur för\nvarje produkt som är optimerad för botåtkomst. Genererar index för snabb sökning och åtkomst\n",
+      "type": "text",
+      "width": 840,
+      "x": 9680,
+      "y": -1402
+    },
+    {
+      "file": "Pasted image 20250301173411.png",
+      "height": 995,
+      "id": "432f3d9ecb7e149b",
+      "type": "file",
+      "width": 1589,
+      "x": 16904,
+      "y": 5770
+    },
+    {
+      "height": 160,
+      "id": "9d39d85254504759",
+      "styleAttributes": {
+      },
+      "text": "### LLM-baserad extraktion\n\n-  Kan tolka komplexa dokument med mänsklig förståelse\n- Kräver mindre fördefinierade mönster, mer flexibel\n- Kan hantera ostrukturerad information",
+      "type": "text",
+      "width": 603,
+      "x": 17340,
+      "y": 5570
+    },
+    {
+      "height": 760,
+      "id": "771e20cac4371bde",
+      "styleAttributes": {
+      },
+      "text": "Exempel på frågor som kundtjänst kan vilja fråga (med tillhörande bra svar) är:  \n  \n- Vilka trycken passar assa Låshus 310-50 hö?  \n  \n\nHär är en lista över dörrtrycken från ASSA ABLOY som är kompatibla med ASSA låshus 310-50 höger, tillsammans med deras respektive artikelnummer hos Copiax:\n\n1. **ASSA ABLOY Trycke 6696 40-75mm prion PP**\n    - Copiax artikelnummer: 50093073\n    - Leverantörens artikelnummer: 470043160001\n    - [Produktlänk](https://www.copiax.se/Produkt/89777/Trycke-6696-40-75mm-prion-PP \"https://www.copiax.se/Produkt/89777/Trycke-6696-40-75mm-prion-PP\")\n2. **ASSA ABLOY Trycke 6696 40-75mm krom PP**\n    - Copiax artikelnummer: 50010481\n    - Leverantörens artikelnummer: 470043160011\n    - [Produktlänk](https://www.copiax.se/Webshop/Detail?productId=31656 \"https://www.copiax.se/Webshop/Detail?productId=31656\")\n3. **ASSA ABLOY Trycke 6696 40-75mm brunoxid SB**\n    - Copiax artikelnummer: 124852\n    - Leverantörens artikelnummer: 470043110044\n    - [Produktlänk](https://www.copiax.se/Webshop/Detail?productId=29460 \"https://www.copiax.se/Webshop/Detail?productId=29460\")\n\nDessa trycken är utrustade med returfjäder och är designade för att passa ASSA låshus 310-50 höger. För ytterligare information och fler alternativ rekommenderas att besöka Copiax webbplats.\n\n  \n- Vilken styrenhet passar till Motorlåshus 841C-50?\n\n  \n\nHär är en lista över kompatibla styrenheter för motorlåshuset 841C-50 från ASSA ABLOY, tillsammans med deras respektive artikelnummer hos Copiax:\n\n- **DAC 630 Hi-O**: Copiax artikelnummer 50462043 ([Copiax](https://www.copiax.se/Produkt/238898/D%C3%B6rrkontrollenhet-DAC-630-Hi-O?utm_source=chatgpt.com \"https://www.copiax.se/Produkt/238898/D%C3%B6rrkontrollenhet-DAC-630-Hi-O?utm_source=chatgpt.com\"))\n- **DAC 530 III Hi-O**: Copiax artikelnummer 50026434 ([Copiax](https://www.copiax.se/images/doc/50026434_Pro.pdf?utm_source=chatgpt.com \"https://www.copiax.se/images/doc/50026434_Pro.pdf?utm_source=chatgpt.com\"))\n\nObservera att DAC 564 inte längre finns tillgänglig och har ersatts av DAC 630-400RC64 Hi-O. Denna ersättare består av DAC 630 Hi-O och reläkortet DAC-400RC64. ([karlalas.secwise.com](https://karlalas.secwise.com/shop/product/view/l/dorrkontrollenhet-dac-630-400rc64-hi-o?utm_source=chatgpt.com \"https://karlalas.secwise.com/shop/product/view/l/dorrkontrollenhet-dac-630-400rc64-hi-o?utm_source=chatgpt.com\"))\n\nFör en komplett installation kan du överväga att använda en sats som inkluderar motorlåset 841C-50 tillsammans med styrenheten DAC 630 Hi-O, reläkort 400RC64, slutbleck 1487-2, anslutningskabel EA226 (10 m) och kabelöverföring EA281.\n\nObservera att 841C-50 är en Hi-O-enhet som kan anslutas till en Hi-O-buss, men den kan även användas som ett traditionellt motorlås och då anslutas till enheter som inte är Hi-O-enheter.\n\n  \n- Givet att jag har Elslutbleck-150-24 vilken monteringsstolpe ska jag använda?  \n  \n\nFör att montera elslutblecket **Robust 150-24** rekommenderas användning av följande monteringsstolpar från **Robusts S- och SA-serier**:\n\n- **S7**: En av de vanligaste stolparna i Sverige, lämplig för metall- och trädörrar.\n    - **Copiax artikelnummer:** 10009180\n    - **Länk:** [https://www.copiax.se/Produkt/10009180/Monteringsstolpe-S7](https://www.copiax.se/Produkt/10009180/Monteringsstolpe-S7 \"https://www.copiax.se/Produkt/10009180/Monteringsstolpe-S7\")\n- **S40-12H**: Har samma mått och fästhål som ASSA:s och Abloys slutbleck, vilket gör den lämplig för utbyte från mekanisk till elektrisk låsning.\n    - **Copiax artikelnummer:** 8041355\n    - **Länk:** [https://www.copiax.se/Produkt/8041355/Monteringsstolpe-S40-12H](https://www.copiax.se/Produkt/8041355/Monteringsstolpe-S40-12H \"https://www.copiax.se/Produkt/8041355/Monteringsstolpe-S40-12H\")\n- **S40-12V**: Liknar S40-12H men med vertikal justering.\n    - **Copiax artikelnummer:** 8041356\n    - **Länk:** [https://www.copiax.se/Produkt/8041356/Monteringsstolpe-S40-12V](https://www.copiax.se/Produkt/8041356/Monteringsstolpe-S40-12V \"https://www.copiax.se/Produkt/8041356/Monteringsstolpe-S40-12V\")\n- **SA60**: En plan monteringsstolpe i rostfritt stål, designad för enkelfallås med förregling och anpassad för specifika karmprofiler.\n    - **Copiax artikelnummer:** 10009190\n    - **Länk:** [https://www.copiax.se/Produkt/10009190/Monteringsstolpe-SA60](https://www.copiax.se/Produkt/10009190/Monteringsstolpe-SA60 \"https://www.copiax.se/Produkt/10009190/Monteringsstolpe-SA60\")\n\nValet av monteringsstolpe bör baseras på dörrens material, profil och specifika installationskrav. För att säkerställa optimal funktion och kompatibilitet rekommenderas att konsultera installationsanvisningarna för både elslutblecket och den valda monteringsstolpen.",
+      "type": "text",
+      "width": 790,
+      "x": -3460,
+      "y": -1780
+    },
+    {
+      "height": 1085,
+      "id": "b87ae31c518f0734",
+      "styleAttributes": {
+      },
+      "text": "Slide:\n- 3350b1f83516a80a\n- 3eee9627739eed2c\n- 6f503013048d1870\n\n\n- 7685a886b2db973e\n- b84f720082c9bd31\n- d6590003408e37f4\n- d5360051bfbe6395\n- 9f32a822575b0855\n- 56070ed6c4e6bad1\n- 038be05bc4927fa5\n- 476b76d0e799dd9f\n- 14bbc69ae0499498\n- 3a6f2132ee90a60a\n- df4ed6b2ab5c77d3\n- 3a6f2132ee90a60a\n- 15cec2a1fffd64d8\n- 3a6f2132ee90a60a\n- b84ac4d246fa8771\n- 3a6f2132ee90a60a\n- 0dcaadb6e6b15cc1\n- 3a6f2132ee90a60a\n- b1f53d51b957eec7\n- 3a6f2132ee90a60a\n- bcfdb417f367b255\n- 3a6f2132ee90a60a\n- d258b8e999227315\n- d6186d6e69aee1ce\n- d258b8e999227315\n- a636deb10ed2bc73\n- d258b8e999227315\n- f760f302c2cbe24a\n- d258b8e999227315\n- 9567231cd63ffd60\n- d258b8e999227315\n- ff848da9690b296c\n- d258b8e999227315\n- 6363f580d087029e\n- d258b8e999227315\n- 790a3fc65a279515\n- d258b8e999227315\n- b6d4bddea3a90411\n- e150d1adeb0b1bcd\n- 054036dc8ac9e24d\n- b6d4bddea3a90411\n- d258b8e999227315\n- a983b9dfa9630d13\n- d258b8e999227315\n- 2d79dc26edcc173f\n- 968e38eb415daf4d\n- 2d79dc26edcc173f\n- 6a645c5e8773670f\n- 2d79dc26edcc173f\n- 727067f78ac15535\n- 2d79dc26edcc173f\n- 9572cf5f3a102317\n- 2d79dc26edcc173f\n- 57122fa8a551703f\n- 4965a52ebd3fdb55\n- 66bcefb80c82c1e8\n- be06c3cce171c134\n- 66bcefb80c82c1e8\n- 86ba661d28462ae2\n- 66bcefb80c82c1e8\n- 66bcefb80c82c1e8\n- 46f4be305f9a03bb\n- 57122fa8a551703f\n- 57122fa8a551703f\n- 57122fa8a551703f\n",
+      "type": "text",
+      "width": 475,
+      "x": -1570,
+      "y": -2122
+    },
+    {
+      "height": 100,
+      "id": "e0f88120f36b52b4",
+      "styleAttributes": {
+      },
+      "text": "företag (Copiax) har över 40000 produkter och alla produkter har 1-2+ filer (80 000+ dokument)",
+      "type": "text",
+      "width": 421,
+      "x": -3337,
+      "y": -1960
+    }
+  ]
+}

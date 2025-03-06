@@ -1,0 +1,397 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.69287109375,
+          128.89013671875
+        ],
+        [
+          169.662109375,
+          128.89013671875
+        ],
+        [
+          169.662109375,
+          147.89019775390625
+        ],
+        [
+          104.69287109375,
+          147.89019775390625
+        ]
+      ]
+    },
+    {
+      "title": "AX-Power 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.6015625,
+          206.2806396484375
+        ],
+        [
+          218.9939422607422,
+          206.2806396484375
+        ],
+        [
+          218.9939422607422,
+          230.2806396484375
+        ],
+        [
+          103.6015625,
+          230.2806396484375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.350830078125,
+          69.789794921875
+        ],
+        [
+          189.9778594970703,
+          69.789794921875
+        ],
+        [
+          189.9778594970703,
+          91.946533203125
+        ],
+        [
+          64.350830078125,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Security",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.987060546875,
+          272.78662109375
+        ],
+        [
+          150.38385009765625,
+          272.78662109375
+        ],
+        [
+          150.38385009765625,
+          295.946533203125
+        ],
+        [
+          63.987060546875,
+          295.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "This instruction must be read in its entirety by all operating personnel. In",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.314453125,
+          303.416015625
+        ],
+        [
+          516.552734375,
+          303.416015625
+        ],
+        [
+          516.552734375,
+          318.6279296875
+        ],
+        [
+          64.314453125,
+          318.6279296875
+        ]
+      ]
+    },
+    {
+      "title": "Connections",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.768798828125,
+          70.92041015625
+        ],
+        [
+          191.63417053222656,
+          70.92041015625
+        ],
+        [
+          191.63417053222656,
+          91.946533203125
+        ],
+        [
+          63.768798828125,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Connection of 230 VAC",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.1689453125,
+          445.8136901855469
+        ],
+        [
+          296.892333984375,
+          445.8136901855469
+        ],
+        [
+          296.892333984375,
+          469.8136901855469
+        ],
+        [
+          64.1689453125,
+          469.8136901855469
+        ]
+      ]
+    },
+    {
+      "title": "Batteries connected in serial",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.5,
+          69.313720703125
+        ],
+        [
+          354.47412109375,
+          69.313720703125
+        ],
+        [
+          354.47412109375,
+          93.313720703125
+        ],
+        [
+          64.5,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Approximate battery times",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.95068359375,
+          283.81365966796875
+        ],
+        [
+          334.1279602050781,
+          283.81365966796875
+        ],
+        [
+          334.1279602050781,
+          307.81365966796875
+        ],
+        [
+          63.95068359375,
+          307.81365966796875
+        ]
+      ]
+    },
+    {
+      "title": "Technical data and performance",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.0234375,
+          450.3136901855469
+        ],
+        [
+          388.72808837890625,
+          450.3136901855469
+        ],
+        [
+          388.72808837890625,
+          474.3136901855469
+        ],
+        [
+          64.0234375,
+          474.3136901855469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\AX-Power-1-man-en-us_MAN"
+}

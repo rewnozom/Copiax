@@ -1,0 +1,165 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Brand name or trade mark:   NEO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.52896725440806,
+          120.25634765625
+        ],
+        [
+          180.15113350125944,
+          120.25634765625
+        ],
+        [
+          180.15113350125944,
+          134.64599609375
+        ],
+        [
+          34.52896725440806,
+          134.64599609375
+        ]
+      ]
+    },
+    {
+      "title": "Type designation(s)/Model no(s):",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.52896725440806,
+          139.271240234375
+        ],
+        [
+          189.451171875,
+          139.271240234375
+        ],
+        [
+          189.451171875,
+          153.866455078125
+        ],
+        [
+          34.52896725440806,
+          153.866455078125
+        ]
+      ]
+    },
+    {
+      "title": "Manufacturer's name, address, telephone & fax no:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.52896725440806,
+          273.19775390625
+        ],
+        [
+          263.4710327455919,
+          273.19775390625
+        ],
+        [
+          263.4710327455919,
+          286.76513671875
+        ],
+        [
+          34.52896725440806,
+          286.76513671875
+        ]
+      ]
+    },
+    {
+      "title": "The following standards and/or technications, which comply with good engineering practice in safety",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.52896725440806,
+          367.75830078125
+        ],
+        [
+          530.6952141057934,
+          367.75830078125
+        ],
+        [
+          530.6952141057934,
+          381.73681640625
+        ],
+        [
+          34.52896725440806,
+          381.73681640625
+        ]
+      ]
+    },
+    {
+      "title": "document.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.5035400390625,
+          405.7880859375
+        ],
+        [
+          83.88525390625,
+          405.7880859375
+        ],
+        [
+          83.88525390625,
+          418.9443359375
+        ],
+        [
+          34.5035400390625,
+          418.9443359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Handwriting",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50457200_cert"
+}

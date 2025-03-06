@@ -1,0 +1,127 @@
+
+📁 nlp_bot_engine
+├── 📁 _inte_implementerat_än_
+    ├── 📝 sammling.md
+├── 📁 core
+    ├── 🐍 config.py
+    ├── 🐍 data_manager.py
+    ├── 🐍 engine.py
+├── 📁 data
+    ├── 📁 integrated_data
+        ├── 📁 bot_responses
+            ├── 📁 50025313
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50107532
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50107533
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50108133
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50132277
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50152628
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50152629
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50155387
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50461470
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+            ├── 📁 50464764
+                ├── 📋 compatibility_response.json
+                ├── 📋 summary_response.json
+                ├── 📋 technical_response.json
+        ├── 📁 indices
+            ├── 📋 article_numbers.json
+            ├── 📋 compatibility_map.json
+            ├── 📋 ean_numbers.json
+            ├── 📋 technical_specs_index.json
+            ├── 📋 text_search_index.json
+        ├── 📁 products
+            ├── 📁 50025313
+                ├── 📄 article_info.jsonl
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50107532
+                ├── 📄 article_info.jsonl
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50107533
+                ├── 📄 article_info.jsonl
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50108133
+                ├── 📄 article_info.jsonl
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50132277
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50152628
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50152629
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50155387
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50461470
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+            ├── 📁 50464764
+                ├── 📄 compatibility.jsonl
+                ├── 📝 full_info.md
+                ├── 📄 summary.jsonl
+                ├── 📄 technical_specs.jsonl
+├── 📁 dialog
+    ├── 🐍 response_generator.py
+    ├── 🐍 templates.py
+├── 📁 nlp
+    ├── 🐍 context_manager.py
+    ├── 🐍 entity_extractor.py
+    ├── 🐍 intent_analyzer.py
+    ├── 🐍 processor.py
+├── 📁 output
+    ├── 📁 nlp
+        ├── 📝 nlp_00_where_each_file_line_is.md
+        ├── 📝 nlp_00.md
+├── 📁 utils
+├── 🐍 __init__.py
+├── 📄 STRUCTURE_FULL.ps1
+├── 📝 STRUCTURE_map.md

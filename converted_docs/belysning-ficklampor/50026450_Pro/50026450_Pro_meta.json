@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UV-1\nUltraviolet 3xAAA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          97.73638916015625,
+          25.2630615234375
+        ],
+        [
+          266.6190185546875,
+          25.2630615234375
+        ],
+        [
+          266.6190185546875,
+          103.476318359375
+        ],
+        [
+          97.73638916015625,
+          103.476318359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50026450_Pro"
+}

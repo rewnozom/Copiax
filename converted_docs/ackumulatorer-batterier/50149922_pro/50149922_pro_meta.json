@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DATA SHEET",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          700.5,
+          134.75313780737704
+        ],
+        [
+          889.5,
+          134.75313780737704
+        ],
+        [
+          889.5,
+          173.1912781762295
+        ],
+        [
+          700.5,
+          173.1912781762295
+        ]
+      ]
+    },
+    {
+      "title": "Typical Service Life:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.5,
+          727.9085553278688
+        ],
+        [
+          227.25,
+          727.9085553278688
+        ],
+        [
+          227.25,
+          748.1160348360655
+        ],
+        [
+          49.5,
+          748.1160348360655
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50149922_pro"
+}

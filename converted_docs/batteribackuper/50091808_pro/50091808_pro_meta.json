@@ -1,0 +1,197 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.86399841308594,
+          342.0625
+        ],
+        [
+          140.56399536132812,
+          342.0625
+        ],
+        [
+          140.56399536132812,
+          355.6298828125
+        ],
+        [
+          63.86399841308594,
+          355.6298828125
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLINGSANVISNING AV LARMKORT \n SM40",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.2400016784668,
+          128.84600830078125
+        ],
+        [
+          309.23419189453125,
+          128.84600830078125
+        ],
+        [
+          309.23419189453125,
+          156.99560546875
+        ],
+        [
+          60.2400016784668,
+          156.99560546875
+        ]
+      ]
+    },
+    {
+      "title": "INST\u00c4LLNINGAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.0299987792969,
+          136.70166015625
+        ],
+        [
+          409.89398193359375,
+          136.70166015625
+        ],
+        [
+          409.89398193359375,
+          151.50244140625
+        ],
+        [
+          319.0299987792969,
+          151.50244140625
+        ]
+      ]
+    },
+    {
+      "title": "LARMNIV\u00c5ER STANDARDV\u00c4RDEN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.86400604248047,
+          571.474609375
+        ],
+        [
+          219.4610595703125,
+          571.474609375
+        ],
+        [
+          219.4610595703125,
+          584.5216369628906
+        ],
+        [
+          63.86400604248047,
+          584.5216369628906
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50091808_pro"
+}

@@ -1,0 +1,69 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Nr 20-117",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          256.966796875,
+          280.8037109375
+        ],
+        [
+          339.615234375,
+          280.8037109375
+        ],
+        [
+          339.615234375,
+          304.66693115234375
+        ],
+        [
+          256.966796875,
+          304.66693115234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464812_cert"
+}

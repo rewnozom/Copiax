@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EN54C Redbox",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.34940338134766,
+          63.01953125
+        ],
+        [
+          299.0625,
+          63.01953125
+        ],
+        [
+          299.0625,
+          103.6339111328125
+        ],
+        [
+          66.34940338134766,
+          103.6339111328125
+        ]
+      ]
+    },
+    {
+      "title": "EN54 C Redbox Batteribackup f\u00f6r brandlarm",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.802799224853516,
+          87.08349609375
+        ],
+        [
+          398.91156005859375,
+          87.08349609375
+        ],
+        [
+          398.91156005859375,
+          106.8310546875
+        ],
+        [
+          60.802799224853516,
+          106.8310546875
+        ]
+      ]
+    },
+    {
+      "title": "Skydd",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.59130859375,
+          140.0673828125
+        ],
+        [
+          102.33544921875,
+          140.0673828125
+        ],
+        [
+          102.33544921875,
+          155.9642333984375
+        ],
+        [
+          60.59130859375,
+          155.9642333984375
+        ]
+      ]
+    },
+    {
+      "title": "Indikeringar och larm",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.7470703125,
+          244.740234375
+        ],
+        [
+          201.61477661132812,
+          244.740234375
+        ],
+        [
+          201.61477661132812,
+          260.9642333984375
+        ],
+        [
+          60.7470703125,
+          260.9642333984375
+        ]
+      ]
+    },
+    {
+      "title": "Utf\u00f6rande",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.435546875,
+          394.7353515625
+        ],
+        [
+          129.3468017578125,
+          394.7353515625
+        ],
+        [
+          129.3468017578125,
+          410.96429443359375
+        ],
+        [
+          60.435546875,
+          410.96429443359375
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          326.5392150878906,
+          152.04541015625
+        ],
+        [
+          417.7529296875,
+          152.04541015625
+        ],
+        [
+          417.7529296875,
+          167.7862548828125
+        ],
+        [
+          326.5392150878906,
+          167.7862548828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "TableCell",
+          78
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152063_bro"
+}

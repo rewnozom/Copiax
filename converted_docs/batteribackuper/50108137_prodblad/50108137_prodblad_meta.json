@@ -1,0 +1,436 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Funktion:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.35302734375,
+          282.65380859375
+        ],
+        [
+          123.61795806884766,
+          282.65380859375
+        ],
+        [
+          123.61795806884766,
+          294.98779296875
+        ],
+        [
+          70.35302734375,
+          294.98779296875
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.7890625,
+          133.6181640625
+        ],
+        [
+          395.72198486328125,
+          133.6181640625
+        ],
+        [
+          395.72198486328125,
+          146.490478515625
+        ],
+        [
+          317.7890625,
+          146.490478515625
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.02996826171875,
+          486.3701171875
+        ],
+        [
+          410.60198974609375,
+          486.3701171875
+        ],
+        [
+          410.60198974609375,
+          500.3486328125
+        ],
+        [
+          319.02996826171875,
+          500.3486328125
+        ]
+      ]
+    },
+    {
+      "title": "SM950 E nr: 52 470 57",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          86.90399932861328,
+          81.1473388671875
+        ],
+        [
+          263.0460205078125,
+          81.1473388671875
+        ],
+        [
+          263.0460205078125,
+          100.0594482421875
+        ],
+        [
+          86.90399932861328,
+          100.0594482421875
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLINGSANVISNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.8239974975586,
+          135.46826171875
+        ],
+        [
+          207.89999389648438,
+          135.46826171875
+        ],
+        [
+          207.89999389648438,
+          148.62451171875
+        ],
+        [
+          70.8239974975586,
+          148.62451171875
+        ]
+      ]
+    },
+    {
+      "title": "SM950 E nr: 52 470 57",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.8994140625,
+          72.256591796875
+        ],
+        [
+          259.1494140625,
+          72.256591796875
+        ],
+        [
+          259.1494140625,
+          88.290771484375
+        ],
+        [
+          72.8994140625,
+          88.290771484375
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLINGSANVISNING MED DELADE SLINGOR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.42578125,
+          110.286376953125
+        ],
+        [
+          333.56402587890625,
+          110.286376953125
+        ],
+        [
+          333.56402587890625,
+          123.442626953125
+        ],
+        [
+          70.42578125,
+          123.442626953125
+        ]
+      ]
+    },
+    {
+      "title": "STYRNING AV SM950 FR\u00c5N BRANDLARMSCENTRALENS LARMDONSUTG\u00c5NG MED \nPULSKORT SM955 F\u00d6R PULSERANDE UTG\u00c5NGSSIGNAL P\u00c5 UT1-3 OCH FAST P\u00c5 \nUT4-5. \n SM40 \n Str\u00f6mf\u00f6rs\u00f6rjning med plats f\u00f6r batteri",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          4.920000076293945,
+          134.64599609375
+        ],
+        [
+          510.97186279296875,
+          134.64599609375
+        ],
+        [
+          510.97186279296875,
+          186.75433349609375
+        ],
+        [
+          4.920000076293945,
+          186.75433349609375
+        ]
+      ]
+    },
+    {
+      "title": "STYRNING FR\u00c5N I/O ENHET MED REL\u00c4UTG\u00c5NG",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.4072265625,
+          437.8564453125
+        ],
+        [
+          330.803955078125,
+          437.8564453125
+        ],
+        [
+          330.803955078125,
+          453.4794921875
+        ],
+        [
+          69.4072265625,
+          453.4794921875
+        ]
+      ]
+    },
+    {
+      "title": "STYRNING FR\u00c5N UTG\u00c5NGSENHET MED LARMDONSUTG\u00c5NGAR \n SM40",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.10399627685547,
+          135.68603515625
+        ],
+        [
+          411.4439697265625,
+          135.68603515625
+        ],
+        [
+          411.4439697265625,
+          163.83563232421875
+        ],
+        [
+          70.10399627685547,
+          163.83563232421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50108137_prodblad"
+}

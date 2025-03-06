@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Dark background -->
+  <rect width="800" height="500" fill="#1e2030" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" fill="#e4ecff" text-anchor="middle" font-weight="bold">DocuMentor-Suite Overview</text>
+  
+  <!-- Part 1: Data Processing & Extraction -->
+  <rect x="90" y="80" width="260" height="180" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  <text x="220" y="105" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Del 1: Data Processing</text>
+  
+  <!-- Extractors -->
+  <rect x="110" y="120" width="220" height="120" fill="#374151" rx="6" ry="6"/>
+  <rect x="120" y="135" width="200" height="25" fill="#4c1d95" rx="4" ry="4"/>
+  <text x="220" y="153" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">Artikel-Extraktor</text>
+  
+  <rect x="120" y="170" width="200" height="25" fill="#5b21b6" rx="4" ry="4"/>
+  <text x="220" y="188" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">Kompatibilitetsextraktor</text>
+  
+  <rect x="120" y="205" width="200" height="25" fill="#6d28d9" rx="4" ry="4"/>
+  <text x="220" y="223" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">Teknisk Specifikationsextraktor</text>
+  
+  <!-- Part 2: Bot Engine & Frontend -->
+  <rect x="450" y="80" width="260" height="180" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  <text x="580" y="105" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Del 2: Bot Engine & Frontend</text>
+  
+  <!-- Bot components -->
+  <rect x="470" y="120" width="220" height="120" fill="#374151" rx="6" ry="6"/>
+  <rect x="480" y="135" width="200" height="25" fill="#1e40af" rx="4" ry="4"/>
+  <text x="580" y="153" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">ProductExplorer</text>
+  
+  <rect x="480" y="170" width="200" height="25" fill="#1d4ed8" rx="4" ry="4"/>
+  <text x="580" y="188" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">BotEngine</text>
+  
+  <rect x="480" y="205" width="200" height="25" fill="#2563eb" rx="4" ry="4"/>
+  <text x="580" y="223" font-family="Arial, sans-serif" font-size="13" fill="#e4ecff" text-anchor="middle">JSONL-Editor & ChatFrame</text>
+  
+  <!-- Data Flow -->
+  <path d="M 350 170 L 450 170" stroke="#6366f1" stroke-width="3" stroke-dasharray="5,3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Markdown to JSON Flow -->
+  <rect x="90" y="300" width="620" height="160" fill="#2d3748" rx="8" ry="8" stroke="#6366f1" stroke-width="2"/>
+  <text x="400" y="325" font-family="Arial, sans-serif" font-size="16" fill="#e4ecff" text-anchor="middle" font-weight="bold">Omvandlingsprocess: Från Ostrukturerad till Strukturerad Data</text>
+  
+  <!-- Process boxes -->
+  <rect x="110" y="345" width="120" height="80" fill="#312e81" rx="6" ry="6"/>
+  <text x="170" y="390" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Markdown-filer</text>
+  
+  <rect x="260" y="345" width="120" height="80" fill="#374151" rx="6" ry="6"/>
+  <text x="320" y="390" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Extraktorer</text>
+  
+  <rect x="410" y="345" width="120" height="80" fill="#4c1d95" rx="6" ry="6"/>
+  <text x="470" y="390" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">JSONL-filer</text>
+  
+  <rect x="560" y="345" width="120" height="80" fill="#1e40af" rx="6" ry="6"/>
+  <text x="620" y="390" font-family="Arial, sans-serif" font-size="14" fill="#e4ecff" text-anchor="middle">Index & Bot API</text>
+  
+  <!-- Process arrows -->
+  <path d="M 230 385 L 260 385" stroke="#6366f1" stroke-width="2" stroke-dasharray="5,3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 380 385 L 410 385" stroke="#6366f1" stroke-width="2" stroke-dasharray="5,3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 530 385 L 560 385" stroke="#6366f1" stroke-width="2" stroke-dasharray="5,3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L0,10 L10,5 Z" fill="#6366f1"/>
+    </marker>
+  </defs>
+</svg>

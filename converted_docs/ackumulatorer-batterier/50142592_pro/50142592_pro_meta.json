@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "XLT Series - General Purpose\nXLT12-17 12V 17.5Ah",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          297.41796875,
+          53.0361328125
+        ],
+        [
+          570.390625,
+          53.0361328125
+        ],
+        [
+          570.390625,
+          102.39166259765625
+        ],
+        [
+          297.41796875,
+          102.39166259765625
+        ]
+      ]
+    },
+    {
+      "title": "Applications",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          421.390625,
+          275.8701171875
+        ],
+        [
+          504.0390625,
+          275.8701171875
+        ],
+        [
+          504.0390625,
+          289.0263671875
+        ],
+        [
+          421.390625,
+          289.0263671875
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.032745591939545,
+          39.7257080078125
+        ],
+        [
+          112.59445843828715,
+          39.7257080078125
+        ],
+        [
+          112.59445843828715,
+          51.699951171875
+        ],
+        [
+          39.032745591939545,
+          51.699951171875
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 T3 Terminal\nUnit: mm [inches]\n14 [0.55 1]",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.1943359375,
+          63.2630615234375
+        ],
+        [
+          133.28515625,
+          63.2630615234375
+        ],
+        [
+          133.28515625,
+          111.725341796875
+        ],
+        [
+          34.1943359375,
+          111.725341796875
+        ]
+      ]
+    },
+    {
+      "title": "Float Charging Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          325.77329974811084,
+          191.690673828125
+        ],
+        [
+          484.9068010075566,
+          191.690673828125
+        ],
+        [
+          484.9068010075566,
+          202.43989314336596
+        ],
+        [
+          325.77329974811084,
+          202.43989314336596
+        ]
+      ]
+    },
+    {
+      "title": "Cycle Life in Relation to Depth of Discharge",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.53400503778337,
+          513.5975066785396
+        ],
+        [
+          255.6572265625,
+          513.5975066785396
+        ],
+        [
+          255.6572265625,
+          524.0943900267141
+        ],
+        [
+          40.53400503778337,
+          524.0943900267141
+        ]
+      ]
+    },
+    {
+      "title": "Effect of Temperature on Long Term Float L ife",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          325.77329974811084,
+          355.39447907390917
+        ],
+        [
+          554.7153652392947,
+          355.39447907390917
+        ],
+        [
+          554.7153652392947,
+          365.4970703125
+        ],
+        [
+          325.77329974811084,
+          365.4970703125
+        ]
+      ]
+    },
+    {
+      "title": "Self Discharge  Characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          325.77329974811084,
+          514.3271484375
+        ],
+        [
+          483.4055415617128,
+          512.8477292965272
+        ],
+        [
+          483.4055415617128,
+          523.3720703125
+        ],
+        [
+          325.77329974811084,
+          524.0943900267141
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "TableCell",
+          301
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          151
+        ],
+        [
+          "Span",
+          151
+        ],
+        [
+          "Figure",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142592_pro"
+}

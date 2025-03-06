@@ -1,0 +1,374 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.54736328125,
+          128.89013671875
+        ],
+        [
+          169.0939483642578,
+          128.89013671875
+        ],
+        [
+          169.0939483642578,
+          147.89019775390625
+        ],
+        [
+          104.54736328125,
+          147.89019775390625
+        ]
+      ]
+    },
+    {
+      "title": "AX-Power 4 Plus",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.3291015625,
+          206.2806396484375
+        ],
+        [
+          251.83799743652344,
+          206.2806396484375
+        ],
+        [
+          251.83799743652344,
+          230.2806396484375
+        ],
+        [
+          104.3291015625,
+          230.2806396484375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.1689453125,
+          70.0467529296875
+        ],
+        [
+          189.9778594970703,
+          70.0467529296875
+        ],
+        [
+          189.9778594970703,
+          91.946533203125
+        ],
+        [
+          64.1689453125,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Security",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.914306640625,
+          385.43701171875
+        ],
+        [
+          150.38385009765625,
+          385.43701171875
+        ],
+        [
+          150.38385009765625,
+          406.946533203125
+        ],
+        [
+          63.914306640625,
+          406.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Connections",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.4599609375,
+          70.406494140625
+        ],
+        [
+          191.63417053222656,
+          70.406494140625
+        ],
+        [
+          191.63417053222656,
+          91.946533203125
+        ],
+        [
+          64.4599609375,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Connection of 230 VAC",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.44140625,
+          466.8136901855469
+        ],
+        [
+          296.892333984375,
+          466.8136901855469
+        ],
+        [
+          296.892333984375,
+          490.8136901855469
+        ],
+        [
+          63.44140625,
+          490.8136901855469
+        ]
+      ]
+    },
+    {
+      "title": "Batteries connected in serial",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.5,
+          69.313720703125
+        ],
+        [
+          354.47412109375,
+          69.313720703125
+        ],
+        [
+          354.47412109375,
+          93.313720703125
+        ],
+        [
+          64.5,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Approximate battery times",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.80517578125,
+          283.81365966796875
+        ],
+        [
+          334.1279602050781,
+          283.81365966796875
+        ],
+        [
+          334.1279602050781,
+          307.81365966796875
+        ],
+        [
+          63.80517578125,
+          307.81365966796875
+        ]
+      ]
+    },
+    {
+      "title": "Technical data and performance",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.0234375,
+          435.3136901855469
+        ],
+        [
+          388.72808837890625,
+          435.3136901855469
+        ],
+        [
+          388.72808837890625,
+          459.3136901855469
+        ],
+        [
+          64.0234375,
+          459.3136901855469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          10
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\AX-Power-4-Plus-man-en-us_MAN"
+}
